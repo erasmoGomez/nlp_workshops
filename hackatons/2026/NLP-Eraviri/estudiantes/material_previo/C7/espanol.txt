@@ -1,0 +1,385 @@
+La mujer canta una canción.
+Mamá cocina pescado.
+El sol sale temprano.
+¿Dónde está tu casa?
+El bebé llora por la leche.
+niño ríe con su hermano.
+El fuego calienta la casa.
+El pez nada en el agua.
+Esa fruta está dulce.
+¿Cuántos años tienes?
+¿Quién rompió el cántaro?
+El espíritu cuida el bosque.
+"Mira, una mariposa azul."
+Me inqué con una espina.
+El espíritu del agua es fuerte.
+La canoa está rota.
+Bebí agua del manantial.
+Hoy es un buen día.
+¿Qué significa esta palabra?
+Las estrellas brillan mucho.
+Cuidado con la serpiente.
+Comimos contigo al anochecer.
+Los niños escuchan atentos.
+El bosque habla en silencio.
+tú no amas a sus amigos.
+ellas no bajan al primer piso.
+las niñas no bajan al primer piso.
+ellas no caminan muy rápido.
+ellos caminan muy rápido.
+ellos caminan en la escuela.
+la niña camina con su familia.
+la niña camina muy rápido.
+la niña camina en la escuela.
+las niñas no caminan muy rápido.
+los niños caminan muy rápido.
+nosotros no caminamos en silencio.
+nosotros no caminamos en la escuela.
+nosotros caminamos muy rápido.
+tú caminas con su familia.
+tú caminas muy rápido.
+ustedes caminan con su familia.
+ustedes caminan en la escuela.
+yo no camino muy rápido.
+yo camino muy rápido.
+él no camina en silencio.
+él camina con su familia.
+él camina muy rápido.
+el niño cierra el libro.
+ella no cierra la mochila.
+ella cierra la puerta.
+ellas no cierran la puerta.
+ellas cierran el libro.
+ellos no cierran la puerta.
+las niñas cierran la puerta.
+las niñas no cierran el libro.
+nosotras no cerramos la puerta.
+nosotros cerramos el libro.
+tú cierras la mochila.
+ustedes no cierran la mochila.
+ustedes no cierran el libro.
+yo no cierro el libro.
+él no cierra el libro.
+él no cierra la mochila.
+ella no construye un puente.
+ella construye un puente.
+ellas no construen una casa.
+ellas construyen una casa.
+la niña construye una casa.
+la niña no construye una casa.
+los niños construyen una torre.
+nosotras no construimos una casa.
+nosotros no construimos una torre.
+tú construyes una casa.
+tú construyes un puente.
+ustedes construyen un puente.
+yo construyo un puente.
+él no construye una torre.
+ella no corre bajo la lluvia.
+ella no corre muy rápido.
+ellas no corren muy rápido.
+ellas corren muy rápido.
+ellos corren en el patio.
+la niña no corre bajo la lluvia.
+las niñas no corren en el patio.
+las niñas corren muy rápido.
+las niñas no corren bajo la lluvia.
+las niñas corren bajo la lluvia.
+las niñas corren por las mañanas.
+nosotras no corremos en el patio.
+nosotros no corremos bajo la lluvia.
+tú corres por las mañanas.
+ustedes no corren muy rápido.
+yo no corro bajo la lluvia.
+yo corro bajo la lluvia.
+yo no corro por las mañanas.
+él corre muy rápido.
+el niño no enseña a los niños.
+ella no enseña matemáticas.
+ellas no enseñan a los niños.
+la niña enseña a los niños.
+nosotras no enseñamos una escritura.
+nosotras enseñamos a contar.
+nosotros no enseñamos una lección.
+nosotros no enseñamos a los niños.
+ustedes no enseñan a los niños.
+ustedes enseñan a contar.
+yo enseño a escribir.
+él enseña a los niños.
+él no enseña a escribir.
+el niño no escribe su historia.
+el niño escribe una carta.
+ellas no escriben sus nombres.
+la niña no escribe su nombre.
+los niños no escriben sus historias.
+nosotras no escribimos una carta.
+nosotros no escribimos una carta.
+tú escribes una historia.
+tú escribes su nombre.
+yo escribo su nombre.
+ellas escuchan la música.
+ellas no escuchan música.
+ellos escuchan a su maestro.
+la niña no escucha música.
+la niña no escucha la música.
+las niñas escuchan música.
+los niños no escuchan música.
+los niños escuchan la música.
+los niños no escuchan la música.
+nosotras escuchamos la música.
+nosotras no escuchamos música.
+nosotros escuchamos la musica.
+nosotros no escuchamos música.
+nosotros no escuchamos a su maestro.
+nosotros escuchamos a su maestro.
+tú no escuchas a su maestro.
+tú no escuchas la musica.
+tú escuchas música.
+ustedes escuchan a su maestro.
+yo escucho a su maestro.
+el niño no espera en la casa.
+el niño no espera tranquilo.
+ella espera en la escuela.
+ellas no esperan en silencio.
+ellas esperan con tranquilidad.
+ellas esperan en silencio.
+ellos no esperan en silencio.
+la niña no espera en la casa.
+la niña no espera con tranquilidad.
+nosotras no esperamos en la escuela.
+nosotras esperamos en silencio.
+nosotros esperamos con tranquilidad.
+nosotros esperamos en la casa.
+tú no esperas con tranquilidad.
+tú esperas en la escuela.
+tú esperas en la casa.
+ustedes no esperan en la casa.
+ustedes no esperan en silencio.
+ustedes esperan con tranquilidad.
+yo espero con tranquilidad.
+él no espera con tranquilidad.
+él no espera en silencio.
+el niño no estudia ciencias.
+ella estudia ciencias.
+ella no estudia ciencias.
+ellas estudian historia.
+ellas no estudian historia.
+ellas no estudian ciencias.
+ellas estudian ciencias.
+ellos estudian el pasado.
+ellos estudian hoy.
+ellos estudian el futuro.
+la niña estudia ahora.
+la niña estudiara mañana.
+las niñas estudiaran mañana.
+los niños estudiaran mañana.
+los niños no estudian hoy.
+los niños estudian hoy.
+nosotros no estudiamos hoy.
+tú estudias cocina.
+tú estudias medicina.
+el niño habla en la escuela.
+el niño no habla con su familia.
+el niño no habla en la casa.
+el niño habla con su familia.
+ella no habla con su familia.
+ellas no hablan en voz baja.
+ellas no hablan en la casa.
+ellas no hablan con su familia.
+ellos hablan en la casa.
+ellos hablan en la escuela.
+la niña no habla en la escuela.
+la niña no habla con su familia.
+la niña habla en la casa.
+las niñas no hablan solas.
+los niños hablan despacio.
+nosotras hablamos fuerte.
+nosotras hablamos bien
+nosotros no hablamos fuerte.
+nosotros no hablamos despacio.
+nosotros hablamos con su primo.
+tú no hablas en la iglesia.
+tú hablas en voz baja.
+ustedes no hablan de ella
+ustedes hablan entre ustedes.
+yo hablo en la iglesia.
+yo me llamo erasmo
+él habla por telefono.
+ella no lava la ropa.
+ellos lavan los platos.
+ellos no lavan los platos.
+ellos lavan la ropa.
+ellos no barren la casa.
+ellos se lavan las manos.
+las niñas lavan los platos.
+las niñas no lavan los platos.
+nosotras nos lavamos las manos.
+nosotras lavamos los platos.
+nosotros lavamos los platos.
+nosotros no lavamos los platos.
+tú te lavas las manos con agua.
+tú te lavas las manos con agua.
+ustedes no lavan los platos.
+yo lavo la ropa.
+él no lava la ropa.
+él lava la ropa.
+ella lee un libro.
+ella no lee una revista.
+ellas leen una revista.
+ellas no leen un cuento.
+ellos leen un cuento.
+ellos leen una revista.
+las niñas leen un cuento.
+las niñas leen un libro.
+las niñas no leen un cuento.
+los niños leen un libro.
+los niños no leen un cuento.
+nosotros leemos una revista.
+nosotros leemos un libro.
+nosotros no leemos una revista.
+tú no lees un libro.
+tú lees una revista.
+yo no leo una revista.
+el niño limpia la casa.
+ella no limpia la casa.
+ella limpia la casa.
+ella no limpia el cuarto.
+ellos no limpian la mesa.
+la niña no limpia la casa.
+la niña no limpia la mesa.
+la niña no limpia el cuarto.
+las niñas no limpian la mesa.
+las niñas limpian la mesa.
+los niños limpian la mesa.
+nosotras no limpiamos la mesa.
+nosotros no limpiamos el cuarto.
+tú no limpias la mesa.
+tú no limpias el cuarto.
+ustedes limpian la mesa.
+ustedes no limpian la casa.
+yo limpio el cuarto.
+yo no limpio la mesa.
+el niño no nada en la piscina.
+el niño nada con sus amigos.
+ellas nadan bajo la lluvia.
+ellos estudian el presente.
+El doctor cura al paciente.
+Mi lengua vive en mi cabeza.
+En el bosque me perdí
+¿Qué hace ella a mediodía?
+¿Qué hacen los niños en la fiesta?
+Mi mamá cocina caldo de gallina.
+Mi mamá cocina plátano
+Yo como arroz todos los días.
+Tú comes pan con mantequilla.
+Él come frutas por la tarde.
+Ellos comen juntos en la mesa.
+Nosotros comemos en casa.
+Ese perro come rápido.
+Él caza con su padre.
+El hombre pesca con red.
+ellas no olvidan una fecha importante.
+ellos no olvidan la tarea.
+ellos no olvidan una fecha importante.
+ellos olvidan sus cuadernos.
+la niña no olvida una fecha importante.
+las niñas olvidan una fecha importante.
+los niños olvidan la tarea.
+los niños no olvidan la tarea.
+los niños olvidan una fecha importante.
+nosotras no olvidamos sus cuadernos.
+nosotras olvidamos una fecha importante.
+nosotros olvidamos su cuaderno.
+tú olvidas su cuaderno.
+tú olvidas tu cuaderno.
+ustedes no olvidan una fecha importante.
+yo no olvido una fecha importante.
+yo olvido una fecha importante.
+él olvida la tarea.
+ella piensa en su tarea.
+ella no piensa en su tarea.
+ellos piensan en su casa.
+la niña no piensa en su tarea.
+las niñas piensan en su familia.
+los niños no piensan en su familia.
+los niños no piensan en su tarea.
+los niños no piensan en su casa.
+los niños piensan en su tarea.
+nosotras no piensamos en su familia.
+nosotras piensamos en su familia.
+nosotros piensamos en su familia.
+tú no piensas en su familia.
+él piensa en su casa.
+el niño no pinta un dibujo.
+ella pinta una casa.
+ellas no pintan un dibujo.
+ellas no pintan una casa.
+la niña pinta una flor.
+la niña pinta un plátano.
+las niñas no pintan un dibujo.
+nosotras no pintamos una flor.
+yo pinto un dibujo.
+yo pinto una flor.
+yo pinto una casa.
+yo no pinto una casa.
+él no pinta una casa.
+el niño recuerda una canción.
+el niño no recuerda una canción.
+ella no recuerda su nombre.
+ella no recuerda una canción.
+ellas no recuerdan una canción.
+ellas no recuerdan su nombre.
+ellas no recuerdan una historia.
+ellos recuerdan su nombre.
+ellos no recuerdan su nombre.
+las niñas no recuerdan una canción.
+las niñas no recuerdan su nombre.
+las niñas no recuerdan una historia.
+los niños recuerdan su nombre.
+nosotras no recordamos su nombre.
+tú recuerdas una historia.
+ustedes no recuerdan una historia.
+ustedes no recuerdan su nombre.
+él no recuerda una historia.
+el niño sube la escalera.
+el niño sube al segundo piso.
+ella sube al segundo piso.
+ellos no suben al segundo piso.
+ellos suben la escalera.
+la niña sube la escalera.
+la niña no sube a la montaña.
+las niñas suben a la montaña.
+las niñas no suben a la montaña.
+los niños suben la escalera.
+los niños no suben al segundo piso.
+los niños no suben a la montaña.
+nosotros no subimos la escalera.
+nosotros no subimos a la montaña.
+nosotros subimos al segundo piso.
+tú no subes la escalera.
+ustedes suben a la montaña.
+yo no subo a la montaña.
+él sube a la montaña.
+él sube al segundo piso.
+él no sube la escalera.
+él no sube a la montaña.
+el niño no trabaja todos los días.
+el niño no trabaja con alegría.
+ella no trabaja todos los días.
+ella no trabaja en la escuela.
+ella trabaja con alegría.
+ellas no trabajan en la escuela.
+ellas no trabajan con alegría.
+ellas no trabajan todos los días.
+ellos no trabajan en la casa.
+ellos no trabajan todos los días.
+ellos trabajan en la casa.
+ellos trabajan todos los días.
+la niña trabaja con alegría.
+las niñas trabajan en la casa.
+las niñas trabajan todos los días.
+nosotras no trabajamos con alegría.
+nosotras trabajamos todos los días.
+nosotros no trabajamos con alegría.
+nosotros no trabajamos en la casa.
+tú no trabajas en la escuela.
