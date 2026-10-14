@@ -151,7 +151,6 @@ Cada equipo tendrá **5 minutos** para responder:
 
 El Consejo Científico revelará la evaluación reservada y decidirá si se logró un contacto **exitoso, parcial o todavía no resuelto**.
 
-> **La pregunta final no es solo cuánto acierta nuestro modelo, sino qué intenta comunicarnos Eráviri y qué evidencia tenemos para sostener nuestra interpretación.**
 
 ---
 
