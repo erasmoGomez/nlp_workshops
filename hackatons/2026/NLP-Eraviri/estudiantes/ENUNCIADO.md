@@ -2,7 +2,7 @@
 
 # 🗿 LEXICON-X — Expedición Eráviri
 ### OPERACIÓN PRIMER CONTACTO
-**Hackatón de lingüística computacional · 180 minutos · 4 equipos de 3**
+**Hackatón de lingüística computacional · 180 minutos · 5 equipos de 3**
 
 ![Expedición Eráviri: briefing visual](assets/portada.png)
 
@@ -56,10 +56,10 @@ Cada equipo está formado por **tres investigadores**. Todos deben comprender y 
 | **15–40 min** | 🔎 Descifrar el código | EDA y tres observaciones lingüísticas con evidencia |
 | **40–95 min** | 🧠 Construir el traductor | Baseline y segundo método |
 | **95–130 min** | 🧪 Verificar el sistema | Métricas, ablación y tres errores analizados |
-| **130–155 min** | 🚨 Primera transmisión | Traducir los 40 mensajes, estimar incertidumbre y entregar |
+| **130–155 min** | 🚨 Primera transmisión | CLASIFICADO! |
 | **155–180 min** | 🏛️ Consejo de primer contacto | Cuatro defensas de 5 minutos y 5 minutos de discusión |
 
-## 👩‍🔬 6. Noelia, lingüista de campo
+## 👩‍🔬 6. Noelia, lingüista computacional de campo
 
 Noelia es la investigadora que ha estudiado las inscripciones originales. Tiene pistas, **no una traducción completa**.
 
@@ -87,9 +87,9 @@ Noelia es la investigadora que ha estudiado las inscripciones originales. Tiene 
 
 ### 📻 Minuto 130 — ¡Contacto!
 
-> **Señal prioritaria:** «La civilización ha respondido. Llegaron 40 mensajes, algunos con combinaciones nunca observadas. Debemos interpretarlos antes del cierre del canal».
+> **Señal prioritaria:** «CLASIFICADO!».
 
-**Desafío:** generar predicciones inéditas e indicar cuáles son más inciertas.
+**Desafío:** CLASIFICADO.
 
 ## 📦 8. Entregables — fecha límite: minuto 155
 
