@@ -1,0 +1,1501 @@
+doc_id,site,topic,language,year,source,reliability,text
+D000-0,ER-000,agricultura,es,2048,oficial,0.95,El registro oficial de ER-000 confirma 93 semillas disponibles.
+D000-1,ER-000,agricultura,er,2048,oficial,0.95,ER-000 sava 93 ena.
+D000-2,ER-000,agricultura,es,2047,oficial,0.9,El registro anterior de ER-000 indica 100 semillas disponibles.
+D000-3,ER-000,agricultura,er,2047,oficial,0.9,ER-000 sava 100 ena.
+D000-4,ER-000,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-000 menciona 112 semillas disponibles.
+D000-5,ER-000,agricultura,es,2048,archivo,0.7,"El archivo de ER-000 registra actividades de agricultura, sin inventario adicional."
+D001-0,ER-001,energía,es,2048,oficial,0.95,El registro oficial de ER-001 confirma 26 celdas disponibles.
+D001-1,ER-001,energía,er,2048,oficial,0.95,ER-001 tavi 26 ena.
+D001-2,ER-001,energía,es,2047,oficial,0.9,El registro anterior de ER-001 indica 33 celdas disponibles.
+D001-3,ER-001,energía,er,2047,oficial,0.9,ER-001 tavi 33 ena.
+D001-4,ER-001,energía,es,2048,rumor,0.2,Un rumor sobre ER-001 menciona 45 celdas disponibles.
+D001-5,ER-001,energía,es,2048,archivo,0.7,"El archivo de ER-001 registra actividades de energía, sin inventario adicional."
+D002-0,ER-002,transporte,es,2048,oficial,0.95,El registro oficial de ER-002 confirma 15 vehículos disponibles.
+D002-1,ER-002,transporte,er,2048,oficial,0.95,ER-002 nora 15 ena.
+D002-2,ER-002,transporte,es,2047,oficial,0.9,El registro anterior de ER-002 indica 22 vehículos disponibles.
+D002-3,ER-002,transporte,er,2047,oficial,0.9,ER-002 nora 22 ena.
+D002-4,ER-002,transporte,es,2048,rumor,0.2,Un rumor sobre ER-002 menciona 34 vehículos disponibles.
+D002-5,ER-002,transporte,es,2048,archivo,0.7,"El archivo de ER-002 registra actividades de transporte, sin inventario adicional."
+D003-0,ER-003,archivo,es,2048,oficial,0.95,El registro oficial de ER-003 confirma 47 tablillas disponibles.
+D003-1,ER-003,archivo,er,2048,oficial,0.95,ER-003 kiri 47 ena.
+D003-2,ER-003,archivo,es,2047,oficial,0.9,El registro anterior de ER-003 indica 54 tablillas disponibles.
+D003-3,ER-003,archivo,er,2047,oficial,0.9,ER-003 kiri 54 ena.
+D003-4,ER-003,archivo,es,2048,rumor,0.2,Un rumor sobre ER-003 menciona 66 tablillas disponibles.
+D003-5,ER-003,archivo,es,2048,archivo,0.7,"El archivo de ER-003 registra actividades de archivo, sin inventario adicional."
+D004-0,ER-004,agua,es,2048,oficial,0.95,El registro oficial de ER-004 confirma 43 depósitos disponibles.
+D004-1,ER-004,agua,er,2048,oficial,0.95,ER-004 mura 43 ena.
+D004-2,ER-004,agua,es,2047,oficial,0.9,El registro anterior de ER-004 indica 50 depósitos disponibles.
+D004-3,ER-004,agua,er,2047,oficial,0.9,ER-004 mura 50 ena.
+D004-4,ER-004,agua,es,2048,rumor,0.2,Un rumor sobre ER-004 menciona 62 depósitos disponibles.
+D004-5,ER-004,agua,es,2048,archivo,0.7,"El archivo de ER-004 registra actividades de agua, sin inventario adicional."
+D005-0,ER-005,agricultura,es,2048,oficial,0.95,El registro oficial de ER-005 confirma 40 semillas disponibles.
+D005-1,ER-005,agricultura,er,2048,oficial,0.95,ER-005 sava 40 ena.
+D005-2,ER-005,agricultura,es,2047,oficial,0.9,El registro anterior de ER-005 indica 47 semillas disponibles.
+D005-3,ER-005,agricultura,er,2047,oficial,0.9,ER-005 sava 47 ena.
+D005-4,ER-005,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-005 menciona 59 semillas disponibles.
+D005-5,ER-005,agricultura,es,2048,archivo,0.7,"El archivo de ER-005 registra actividades de agricultura, sin inventario adicional."
+D006-0,ER-006,energía,es,2048,oficial,0.95,El registro oficial de ER-006 confirma 29 celdas disponibles.
+D006-1,ER-006,energía,er,2048,oficial,0.95,ER-006 tavi 29 ena.
+D006-2,ER-006,energía,es,2047,oficial,0.9,El registro anterior de ER-006 indica 36 celdas disponibles.
+D006-3,ER-006,energía,er,2047,oficial,0.9,ER-006 tavi 36 ena.
+D006-4,ER-006,energía,es,2048,rumor,0.2,Un rumor sobre ER-006 menciona 48 celdas disponibles.
+D006-5,ER-006,energía,es,2048,archivo,0.7,"El archivo de ER-006 registra actividades de energía, sin inventario adicional."
+D007-0,ER-007,transporte,es,2048,oficial,0.95,El registro oficial de ER-007 confirma 25 vehículos disponibles.
+D007-1,ER-007,transporte,er,2048,oficial,0.95,ER-007 nora 25 ena.
+D007-2,ER-007,transporte,es,2047,oficial,0.9,El registro anterior de ER-007 indica 32 vehículos disponibles.
+D007-3,ER-007,transporte,er,2047,oficial,0.9,ER-007 nora 32 ena.
+D007-4,ER-007,transporte,es,2048,rumor,0.2,Un rumor sobre ER-007 menciona 44 vehículos disponibles.
+D007-5,ER-007,transporte,es,2048,archivo,0.7,"El archivo de ER-007 registra actividades de transporte, sin inventario adicional."
+D008-0,ER-008,archivo,es,2048,oficial,0.95,El registro oficial de ER-008 confirma 98 tablillas disponibles.
+D008-1,ER-008,archivo,er,2048,oficial,0.95,ER-008 kiri 98 ena.
+D008-2,ER-008,archivo,es,2047,oficial,0.9,El registro anterior de ER-008 indica 105 tablillas disponibles.
+D008-3,ER-008,archivo,er,2047,oficial,0.9,ER-008 kiri 105 ena.
+D008-4,ER-008,archivo,es,2048,rumor,0.2,Un rumor sobre ER-008 menciona 117 tablillas disponibles.
+D008-5,ER-008,archivo,es,2048,archivo,0.7,"El archivo de ER-008 registra actividades de archivo, sin inventario adicional."
+D009-0,ER-009,agua,es,2048,oficial,0.95,El registro oficial de ER-009 confirma 81 depósitos disponibles.
+D009-1,ER-009,agua,er,2048,oficial,0.95,ER-009 mura 81 ena.
+D009-2,ER-009,agua,es,2047,oficial,0.9,El registro anterior de ER-009 indica 88 depósitos disponibles.
+D009-3,ER-009,agua,er,2047,oficial,0.9,ER-009 mura 88 ena.
+D009-4,ER-009,agua,es,2048,rumor,0.2,Un rumor sobre ER-009 menciona 100 depósitos disponibles.
+D009-5,ER-009,agua,es,2048,archivo,0.7,"El archivo de ER-009 registra actividades de agua, sin inventario adicional."
+D010-0,ER-010,agricultura,es,2048,oficial,0.95,El registro oficial de ER-010 confirma 23 semillas disponibles.
+D010-1,ER-010,agricultura,er,2048,oficial,0.95,ER-010 sava 23 ena.
+D010-2,ER-010,agricultura,es,2047,oficial,0.9,El registro anterior de ER-010 indica 30 semillas disponibles.
+D010-3,ER-010,agricultura,er,2047,oficial,0.9,ER-010 sava 30 ena.
+D010-4,ER-010,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-010 menciona 42 semillas disponibles.
+D010-5,ER-010,agricultura,es,2048,archivo,0.7,"El archivo de ER-010 registra actividades de agricultura, sin inventario adicional."
+D011-0,ER-011,energía,es,2048,oficial,0.95,El registro oficial de ER-011 confirma 87 celdas disponibles.
+D011-1,ER-011,energía,er,2048,oficial,0.95,ER-011 tavi 87 ena.
+D011-2,ER-011,energía,es,2047,oficial,0.9,El registro anterior de ER-011 indica 94 celdas disponibles.
+D011-3,ER-011,energía,er,2047,oficial,0.9,ER-011 tavi 94 ena.
+D011-4,ER-011,energía,es,2048,rumor,0.2,Un rumor sobre ER-011 menciona 106 celdas disponibles.
+D011-5,ER-011,energía,es,2048,archivo,0.7,"El archivo de ER-011 registra actividades de energía, sin inventario adicional."
+D012-0,ER-012,transporte,es,2048,oficial,0.95,El registro oficial de ER-012 confirma 66 vehículos disponibles.
+D012-1,ER-012,transporte,er,2048,oficial,0.95,ER-012 nora 66 ena.
+D012-2,ER-012,transporte,es,2047,oficial,0.9,El registro anterior de ER-012 indica 73 vehículos disponibles.
+D012-3,ER-012,transporte,er,2047,oficial,0.9,ER-012 nora 73 ena.
+D012-4,ER-012,transporte,es,2048,rumor,0.2,Un rumor sobre ER-012 menciona 85 vehículos disponibles.
+D012-5,ER-012,transporte,es,2048,archivo,0.7,"El archivo de ER-012 registra actividades de transporte, sin inventario adicional."
+D013-0,ER-013,archivo,es,2048,oficial,0.95,El registro oficial de ER-013 confirma 16 tablillas disponibles.
+D013-1,ER-013,archivo,er,2048,oficial,0.95,ER-013 kiri 16 ena.
+D013-2,ER-013,archivo,es,2047,oficial,0.9,El registro anterior de ER-013 indica 23 tablillas disponibles.
+D013-3,ER-013,archivo,er,2047,oficial,0.9,ER-013 kiri 23 ena.
+D013-4,ER-013,archivo,es,2048,rumor,0.2,Un rumor sobre ER-013 menciona 35 tablillas disponibles.
+D013-5,ER-013,archivo,es,2048,archivo,0.7,"El archivo de ER-013 registra actividades de archivo, sin inventario adicional."
+D014-0,ER-014,agua,es,2048,oficial,0.95,El registro oficial de ER-014 confirma 15 depósitos disponibles.
+D014-1,ER-014,agua,er,2048,oficial,0.95,ER-014 mura 15 ena.
+D014-2,ER-014,agua,es,2047,oficial,0.9,El registro anterior de ER-014 indica 22 depósitos disponibles.
+D014-3,ER-014,agua,er,2047,oficial,0.9,ER-014 mura 22 ena.
+D014-4,ER-014,agua,es,2048,rumor,0.2,Un rumor sobre ER-014 menciona 34 depósitos disponibles.
+D014-5,ER-014,agua,es,2048,archivo,0.7,"El archivo de ER-014 registra actividades de agua, sin inventario adicional."
+D015-0,ER-015,agricultura,es,2048,oficial,0.95,El registro oficial de ER-015 confirma 23 semillas disponibles.
+D015-1,ER-015,agricultura,er,2048,oficial,0.95,ER-015 sava 23 ena.
+D015-2,ER-015,agricultura,es,2047,oficial,0.9,El registro anterior de ER-015 indica 30 semillas disponibles.
+D015-3,ER-015,agricultura,er,2047,oficial,0.9,ER-015 sava 30 ena.
+D015-4,ER-015,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-015 menciona 42 semillas disponibles.
+D015-5,ER-015,agricultura,es,2048,archivo,0.7,"El archivo de ER-015 registra actividades de agricultura, sin inventario adicional."
+D016-0,ER-016,energía,es,2048,oficial,0.95,El registro oficial de ER-016 confirma 39 celdas disponibles.
+D016-1,ER-016,energía,er,2048,oficial,0.95,ER-016 tavi 39 ena.
+D016-2,ER-016,energía,es,2047,oficial,0.9,El registro anterior de ER-016 indica 46 celdas disponibles.
+D016-3,ER-016,energía,er,2047,oficial,0.9,ER-016 tavi 46 ena.
+D016-4,ER-016,energía,es,2048,rumor,0.2,Un rumor sobre ER-016 menciona 58 celdas disponibles.
+D016-5,ER-016,energía,es,2048,archivo,0.7,"El archivo de ER-016 registra actividades de energía, sin inventario adicional."
+D017-0,ER-017,transporte,es,2048,oficial,0.95,El registro oficial de ER-017 confirma 41 vehículos disponibles.
+D017-1,ER-017,transporte,er,2048,oficial,0.95,ER-017 nora 41 ena.
+D017-2,ER-017,transporte,es,2047,oficial,0.9,El registro anterior de ER-017 indica 48 vehículos disponibles.
+D017-3,ER-017,transporte,er,2047,oficial,0.9,ER-017 nora 48 ena.
+D017-4,ER-017,transporte,es,2048,rumor,0.2,Un rumor sobre ER-017 menciona 60 vehículos disponibles.
+D017-5,ER-017,transporte,es,2048,archivo,0.7,"El archivo de ER-017 registra actividades de transporte, sin inventario adicional."
+D018-0,ER-018,archivo,es,2048,oficial,0.95,El registro oficial de ER-018 confirma 76 tablillas disponibles.
+D018-1,ER-018,archivo,er,2048,oficial,0.95,ER-018 kiri 76 ena.
+D018-2,ER-018,archivo,es,2047,oficial,0.9,El registro anterior de ER-018 indica 83 tablillas disponibles.
+D018-3,ER-018,archivo,er,2047,oficial,0.9,ER-018 kiri 83 ena.
+D018-4,ER-018,archivo,es,2048,rumor,0.2,Un rumor sobre ER-018 menciona 95 tablillas disponibles.
+D018-5,ER-018,archivo,es,2048,archivo,0.7,"El archivo de ER-018 registra actividades de archivo, sin inventario adicional."
+D019-0,ER-019,agua,es,2048,oficial,0.95,El registro oficial de ER-019 confirma 89 depósitos disponibles.
+D019-1,ER-019,agua,er,2048,oficial,0.95,ER-019 mura 89 ena.
+D019-2,ER-019,agua,es,2047,oficial,0.9,El registro anterior de ER-019 indica 96 depósitos disponibles.
+D019-3,ER-019,agua,er,2047,oficial,0.9,ER-019 mura 96 ena.
+D019-4,ER-019,agua,es,2048,rumor,0.2,Un rumor sobre ER-019 menciona 108 depósitos disponibles.
+D019-5,ER-019,agua,es,2048,archivo,0.7,"El archivo de ER-019 registra actividades de agua, sin inventario adicional."
+D020-0,ER-020,agricultura,es,2048,oficial,0.95,El registro oficial de ER-020 confirma 15 semillas disponibles.
+D020-1,ER-020,agricultura,er,2048,oficial,0.95,ER-020 sava 15 ena.
+D020-2,ER-020,agricultura,es,2047,oficial,0.9,El registro anterior de ER-020 indica 22 semillas disponibles.
+D020-3,ER-020,agricultura,er,2047,oficial,0.9,ER-020 sava 22 ena.
+D020-4,ER-020,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-020 menciona 34 semillas disponibles.
+D020-5,ER-020,agricultura,es,2048,archivo,0.7,"El archivo de ER-020 registra actividades de agricultura, sin inventario adicional."
+D021-0,ER-021,energía,es,2048,oficial,0.95,El registro oficial de ER-021 confirma 83 celdas disponibles.
+D021-1,ER-021,energía,er,2048,oficial,0.95,ER-021 tavi 83 ena.
+D021-2,ER-021,energía,es,2047,oficial,0.9,El registro anterior de ER-021 indica 90 celdas disponibles.
+D021-3,ER-021,energía,er,2047,oficial,0.9,ER-021 tavi 90 ena.
+D021-4,ER-021,energía,es,2048,rumor,0.2,Un rumor sobre ER-021 menciona 102 celdas disponibles.
+D021-5,ER-021,energía,es,2048,archivo,0.7,"El archivo de ER-021 registra actividades de energía, sin inventario adicional."
+D022-0,ER-022,transporte,es,2048,oficial,0.95,El registro oficial de ER-022 confirma 37 vehículos disponibles.
+D022-1,ER-022,transporte,er,2048,oficial,0.95,ER-022 nora 37 ena.
+D022-2,ER-022,transporte,es,2047,oficial,0.9,El registro anterior de ER-022 indica 44 vehículos disponibles.
+D022-3,ER-022,transporte,er,2047,oficial,0.9,ER-022 nora 44 ena.
+D022-4,ER-022,transporte,es,2048,rumor,0.2,Un rumor sobre ER-022 menciona 56 vehículos disponibles.
+D022-5,ER-022,transporte,es,2048,archivo,0.7,"El archivo de ER-022 registra actividades de transporte, sin inventario adicional."
+D023-0,ER-023,archivo,es,2048,oficial,0.95,El registro oficial de ER-023 confirma 95 tablillas disponibles.
+D023-1,ER-023,archivo,er,2048,oficial,0.95,ER-023 kiri 95 ena.
+D023-2,ER-023,archivo,es,2047,oficial,0.9,El registro anterior de ER-023 indica 102 tablillas disponibles.
+D023-3,ER-023,archivo,er,2047,oficial,0.9,ER-023 kiri 102 ena.
+D023-4,ER-023,archivo,es,2048,rumor,0.2,Un rumor sobre ER-023 menciona 114 tablillas disponibles.
+D023-5,ER-023,archivo,es,2048,archivo,0.7,"El archivo de ER-023 registra actividades de archivo, sin inventario adicional."
+D024-0,ER-024,agua,es,2048,oficial,0.95,El registro oficial de ER-024 confirma 81 depósitos disponibles.
+D024-1,ER-024,agua,er,2048,oficial,0.95,ER-024 mura 81 ena.
+D024-2,ER-024,agua,es,2047,oficial,0.9,El registro anterior de ER-024 indica 88 depósitos disponibles.
+D024-3,ER-024,agua,er,2047,oficial,0.9,ER-024 mura 88 ena.
+D024-4,ER-024,agua,es,2048,rumor,0.2,Un rumor sobre ER-024 menciona 100 depósitos disponibles.
+D024-5,ER-024,agua,es,2048,archivo,0.7,"El archivo de ER-024 registra actividades de agua, sin inventario adicional."
+D025-0,ER-025,agricultura,es,2048,oficial,0.95,El registro oficial de ER-025 confirma 65 semillas disponibles.
+D025-1,ER-025,agricultura,er,2048,oficial,0.95,ER-025 sava 65 ena.
+D025-2,ER-025,agricultura,es,2047,oficial,0.9,El registro anterior de ER-025 indica 72 semillas disponibles.
+D025-3,ER-025,agricultura,er,2047,oficial,0.9,ER-025 sava 72 ena.
+D025-4,ER-025,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-025 menciona 84 semillas disponibles.
+D025-5,ER-025,agricultura,es,2048,archivo,0.7,"El archivo de ER-025 registra actividades de agricultura, sin inventario adicional."
+D026-0,ER-026,energía,es,2048,oficial,0.95,El registro oficial de ER-026 confirma 40 celdas disponibles.
+D026-1,ER-026,energía,er,2048,oficial,0.95,ER-026 tavi 40 ena.
+D026-2,ER-026,energía,es,2047,oficial,0.9,El registro anterior de ER-026 indica 47 celdas disponibles.
+D026-3,ER-026,energía,er,2047,oficial,0.9,ER-026 tavi 47 ena.
+D026-4,ER-026,energía,es,2048,rumor,0.2,Un rumor sobre ER-026 menciona 59 celdas disponibles.
+D026-5,ER-026,energía,es,2048,archivo,0.7,"El archivo de ER-026 registra actividades de energía, sin inventario adicional."
+D027-0,ER-027,transporte,es,2048,oficial,0.95,El registro oficial de ER-027 confirma 69 vehículos disponibles.
+D027-1,ER-027,transporte,er,2048,oficial,0.95,ER-027 nora 69 ena.
+D027-2,ER-027,transporte,es,2047,oficial,0.9,El registro anterior de ER-027 indica 76 vehículos disponibles.
+D027-3,ER-027,transporte,er,2047,oficial,0.9,ER-027 nora 76 ena.
+D027-4,ER-027,transporte,es,2048,rumor,0.2,Un rumor sobre ER-027 menciona 88 vehículos disponibles.
+D027-5,ER-027,transporte,es,2048,archivo,0.7,"El archivo de ER-027 registra actividades de transporte, sin inventario adicional."
+D028-0,ER-028,archivo,es,2048,oficial,0.95,El registro oficial de ER-028 confirma 87 tablillas disponibles.
+D028-1,ER-028,archivo,er,2048,oficial,0.95,ER-028 kiri 87 ena.
+D028-2,ER-028,archivo,es,2047,oficial,0.9,El registro anterior de ER-028 indica 94 tablillas disponibles.
+D028-3,ER-028,archivo,er,2047,oficial,0.9,ER-028 kiri 94 ena.
+D028-4,ER-028,archivo,es,2048,rumor,0.2,Un rumor sobre ER-028 menciona 106 tablillas disponibles.
+D028-5,ER-028,archivo,es,2048,archivo,0.7,"El archivo de ER-028 registra actividades de archivo, sin inventario adicional."
+D029-0,ER-029,agua,es,2048,oficial,0.95,El registro oficial de ER-029 confirma 47 depósitos disponibles.
+D029-1,ER-029,agua,er,2048,oficial,0.95,ER-029 mura 47 ena.
+D029-2,ER-029,agua,es,2047,oficial,0.9,El registro anterior de ER-029 indica 54 depósitos disponibles.
+D029-3,ER-029,agua,er,2047,oficial,0.9,ER-029 mura 54 ena.
+D029-4,ER-029,agua,es,2048,rumor,0.2,Un rumor sobre ER-029 menciona 66 depósitos disponibles.
+D029-5,ER-029,agua,es,2048,archivo,0.7,"El archivo de ER-029 registra actividades de agua, sin inventario adicional."
+D030-0,ER-030,agricultura,es,2048,oficial,0.95,El registro oficial de ER-030 confirma 12 semillas disponibles.
+D030-1,ER-030,agricultura,er,2048,oficial,0.95,ER-030 sava 12 ena.
+D030-2,ER-030,agricultura,es,2047,oficial,0.9,El registro anterior de ER-030 indica 19 semillas disponibles.
+D030-3,ER-030,agricultura,er,2047,oficial,0.9,ER-030 sava 19 ena.
+D030-4,ER-030,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-030 menciona 31 semillas disponibles.
+D030-5,ER-030,agricultura,es,2048,archivo,0.7,"El archivo de ER-030 registra actividades de agricultura, sin inventario adicional."
+D031-0,ER-031,energía,es,2048,oficial,0.95,El registro oficial de ER-031 confirma 32 celdas disponibles.
+D031-1,ER-031,energía,er,2048,oficial,0.95,ER-031 tavi 32 ena.
+D031-2,ER-031,energía,es,2047,oficial,0.9,El registro anterior de ER-031 indica 39 celdas disponibles.
+D031-3,ER-031,energía,er,2047,oficial,0.9,ER-031 tavi 39 ena.
+D031-4,ER-031,energía,es,2048,rumor,0.2,Un rumor sobre ER-031 menciona 51 celdas disponibles.
+D031-5,ER-031,energía,es,2048,archivo,0.7,"El archivo de ER-031 registra actividades de energía, sin inventario adicional."
+D032-0,ER-032,transporte,es,2048,oficial,0.95,El registro oficial de ER-032 confirma 66 vehículos disponibles.
+D032-1,ER-032,transporte,er,2048,oficial,0.95,ER-032 nora 66 ena.
+D032-2,ER-032,transporte,es,2047,oficial,0.9,El registro anterior de ER-032 indica 73 vehículos disponibles.
+D032-3,ER-032,transporte,er,2047,oficial,0.9,ER-032 nora 73 ena.
+D032-4,ER-032,transporte,es,2048,rumor,0.2,Un rumor sobre ER-032 menciona 85 vehículos disponibles.
+D032-5,ER-032,transporte,es,2048,archivo,0.7,"El archivo de ER-032 registra actividades de transporte, sin inventario adicional."
+D033-0,ER-033,archivo,es,2048,oficial,0.95,El registro oficial de ER-033 confirma 55 tablillas disponibles.
+D033-1,ER-033,archivo,er,2048,oficial,0.95,ER-033 kiri 55 ena.
+D033-2,ER-033,archivo,es,2047,oficial,0.9,El registro anterior de ER-033 indica 62 tablillas disponibles.
+D033-3,ER-033,archivo,er,2047,oficial,0.9,ER-033 kiri 62 ena.
+D033-4,ER-033,archivo,es,2048,rumor,0.2,Un rumor sobre ER-033 menciona 74 tablillas disponibles.
+D033-5,ER-033,archivo,es,2048,archivo,0.7,"El archivo de ER-033 registra actividades de archivo, sin inventario adicional."
+D034-0,ER-034,agua,es,2048,oficial,0.95,El registro oficial de ER-034 confirma 47 depósitos disponibles.
+D034-1,ER-034,agua,er,2048,oficial,0.95,ER-034 mura 47 ena.
+D034-2,ER-034,agua,es,2047,oficial,0.9,El registro anterior de ER-034 indica 54 depósitos disponibles.
+D034-3,ER-034,agua,er,2047,oficial,0.9,ER-034 mura 54 ena.
+D034-4,ER-034,agua,es,2048,rumor,0.2,Un rumor sobre ER-034 menciona 66 depósitos disponibles.
+D034-5,ER-034,agua,es,2048,archivo,0.7,"El archivo de ER-034 registra actividades de agua, sin inventario adicional."
+D035-0,ER-035,agricultura,es,2048,oficial,0.95,El registro oficial de ER-035 confirma 31 semillas disponibles.
+D035-1,ER-035,agricultura,er,2048,oficial,0.95,ER-035 sava 31 ena.
+D035-2,ER-035,agricultura,es,2047,oficial,0.9,El registro anterior de ER-035 indica 38 semillas disponibles.
+D035-3,ER-035,agricultura,er,2047,oficial,0.9,ER-035 sava 38 ena.
+D035-4,ER-035,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-035 menciona 50 semillas disponibles.
+D035-5,ER-035,agricultura,es,2048,archivo,0.7,"El archivo de ER-035 registra actividades de agricultura, sin inventario adicional."
+D036-0,ER-036,energía,es,2048,oficial,0.95,El registro oficial de ER-036 confirma 39 celdas disponibles.
+D036-1,ER-036,energía,er,2048,oficial,0.95,ER-036 tavi 39 ena.
+D036-2,ER-036,energía,es,2047,oficial,0.9,El registro anterior de ER-036 indica 46 celdas disponibles.
+D036-3,ER-036,energía,er,2047,oficial,0.9,ER-036 tavi 46 ena.
+D036-4,ER-036,energía,es,2048,rumor,0.2,Un rumor sobre ER-036 menciona 58 celdas disponibles.
+D036-5,ER-036,energía,es,2048,archivo,0.7,"El archivo de ER-036 registra actividades de energía, sin inventario adicional."
+D037-0,ER-037,transporte,es,2048,oficial,0.95,El registro oficial de ER-037 confirma 55 vehículos disponibles.
+D037-1,ER-037,transporte,er,2048,oficial,0.95,ER-037 nora 55 ena.
+D037-2,ER-037,transporte,es,2047,oficial,0.9,El registro anterior de ER-037 indica 62 vehículos disponibles.
+D037-3,ER-037,transporte,er,2047,oficial,0.9,ER-037 nora 62 ena.
+D037-4,ER-037,transporte,es,2048,rumor,0.2,Un rumor sobre ER-037 menciona 74 vehículos disponibles.
+D037-5,ER-037,transporte,es,2048,archivo,0.7,"El archivo de ER-037 registra actividades de transporte, sin inventario adicional."
+D038-0,ER-038,archivo,es,2048,oficial,0.95,El registro oficial de ER-038 confirma 25 tablillas disponibles.
+D038-1,ER-038,archivo,er,2048,oficial,0.95,ER-038 kiri 25 ena.
+D038-2,ER-038,archivo,es,2047,oficial,0.9,El registro anterior de ER-038 indica 32 tablillas disponibles.
+D038-3,ER-038,archivo,er,2047,oficial,0.9,ER-038 kiri 32 ena.
+D038-4,ER-038,archivo,es,2048,rumor,0.2,Un rumor sobre ER-038 menciona 44 tablillas disponibles.
+D038-5,ER-038,archivo,es,2048,archivo,0.7,"El archivo de ER-038 registra actividades de archivo, sin inventario adicional."
+D039-0,ER-039,agua,es,2048,oficial,0.95,El registro oficial de ER-039 confirma 23 depósitos disponibles.
+D039-1,ER-039,agua,er,2048,oficial,0.95,ER-039 mura 23 ena.
+D039-2,ER-039,agua,es,2047,oficial,0.9,El registro anterior de ER-039 indica 30 depósitos disponibles.
+D039-3,ER-039,agua,er,2047,oficial,0.9,ER-039 mura 30 ena.
+D039-4,ER-039,agua,es,2048,rumor,0.2,Un rumor sobre ER-039 menciona 42 depósitos disponibles.
+D039-5,ER-039,agua,es,2048,archivo,0.7,"El archivo de ER-039 registra actividades de agua, sin inventario adicional."
+D040-0,ER-040,agricultura,es,2048,oficial,0.95,El registro oficial de ER-040 confirma 60 semillas disponibles.
+D040-1,ER-040,agricultura,er,2048,oficial,0.95,ER-040 sava 60 ena.
+D040-2,ER-040,agricultura,es,2047,oficial,0.9,El registro anterior de ER-040 indica 67 semillas disponibles.
+D040-3,ER-040,agricultura,er,2047,oficial,0.9,ER-040 sava 67 ena.
+D040-4,ER-040,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-040 menciona 79 semillas disponibles.
+D040-5,ER-040,agricultura,es,2048,archivo,0.7,"El archivo de ER-040 registra actividades de agricultura, sin inventario adicional."
+D041-0,ER-041,energía,es,2048,oficial,0.95,El registro oficial de ER-041 confirma 24 celdas disponibles.
+D041-1,ER-041,energía,er,2048,oficial,0.95,ER-041 tavi 24 ena.
+D041-2,ER-041,energía,es,2047,oficial,0.9,El registro anterior de ER-041 indica 31 celdas disponibles.
+D041-3,ER-041,energía,er,2047,oficial,0.9,ER-041 tavi 31 ena.
+D041-4,ER-041,energía,es,2048,rumor,0.2,Un rumor sobre ER-041 menciona 43 celdas disponibles.
+D041-5,ER-041,energía,es,2048,archivo,0.7,"El archivo de ER-041 registra actividades de energía, sin inventario adicional."
+D042-0,ER-042,transporte,es,2048,oficial,0.95,El registro oficial de ER-042 confirma 57 vehículos disponibles.
+D042-1,ER-042,transporte,er,2048,oficial,0.95,ER-042 nora 57 ena.
+D042-2,ER-042,transporte,es,2047,oficial,0.9,El registro anterior de ER-042 indica 64 vehículos disponibles.
+D042-3,ER-042,transporte,er,2047,oficial,0.9,ER-042 nora 64 ena.
+D042-4,ER-042,transporte,es,2048,rumor,0.2,Un rumor sobre ER-042 menciona 76 vehículos disponibles.
+D042-5,ER-042,transporte,es,2048,archivo,0.7,"El archivo de ER-042 registra actividades de transporte, sin inventario adicional."
+D043-0,ER-043,archivo,es,2048,oficial,0.95,El registro oficial de ER-043 confirma 56 tablillas disponibles.
+D043-1,ER-043,archivo,er,2048,oficial,0.95,ER-043 kiri 56 ena.
+D043-2,ER-043,archivo,es,2047,oficial,0.9,El registro anterior de ER-043 indica 63 tablillas disponibles.
+D043-3,ER-043,archivo,er,2047,oficial,0.9,ER-043 kiri 63 ena.
+D043-4,ER-043,archivo,es,2048,rumor,0.2,Un rumor sobre ER-043 menciona 75 tablillas disponibles.
+D043-5,ER-043,archivo,es,2048,archivo,0.7,"El archivo de ER-043 registra actividades de archivo, sin inventario adicional."
+D044-0,ER-044,agua,es,2048,oficial,0.95,El registro oficial de ER-044 confirma 89 depósitos disponibles.
+D044-1,ER-044,agua,er,2048,oficial,0.95,ER-044 mura 89 ena.
+D044-2,ER-044,agua,es,2047,oficial,0.9,El registro anterior de ER-044 indica 96 depósitos disponibles.
+D044-3,ER-044,agua,er,2047,oficial,0.9,ER-044 mura 96 ena.
+D044-4,ER-044,agua,es,2048,rumor,0.2,Un rumor sobre ER-044 menciona 108 depósitos disponibles.
+D044-5,ER-044,agua,es,2048,archivo,0.7,"El archivo de ER-044 registra actividades de agua, sin inventario adicional."
+D045-0,ER-045,agricultura,es,2048,oficial,0.95,El registro oficial de ER-045 confirma 45 semillas disponibles.
+D045-1,ER-045,agricultura,er,2048,oficial,0.95,ER-045 sava 45 ena.
+D045-2,ER-045,agricultura,es,2047,oficial,0.9,El registro anterior de ER-045 indica 52 semillas disponibles.
+D045-3,ER-045,agricultura,er,2047,oficial,0.9,ER-045 sava 52 ena.
+D045-4,ER-045,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-045 menciona 64 semillas disponibles.
+D045-5,ER-045,agricultura,es,2048,archivo,0.7,"El archivo de ER-045 registra actividades de agricultura, sin inventario adicional."
+D046-0,ER-046,energía,es,2048,oficial,0.95,El registro oficial de ER-046 confirma 17 celdas disponibles.
+D046-1,ER-046,energía,er,2048,oficial,0.95,ER-046 tavi 17 ena.
+D046-2,ER-046,energía,es,2047,oficial,0.9,El registro anterior de ER-046 indica 24 celdas disponibles.
+D046-3,ER-046,energía,er,2047,oficial,0.9,ER-046 tavi 24 ena.
+D046-4,ER-046,energía,es,2048,rumor,0.2,Un rumor sobre ER-046 menciona 36 celdas disponibles.
+D046-5,ER-046,energía,es,2048,archivo,0.7,"El archivo de ER-046 registra actividades de energía, sin inventario adicional."
+D047-0,ER-047,transporte,es,2048,oficial,0.95,El registro oficial de ER-047 confirma 70 vehículos disponibles.
+D047-1,ER-047,transporte,er,2048,oficial,0.95,ER-047 nora 70 ena.
+D047-2,ER-047,transporte,es,2047,oficial,0.9,El registro anterior de ER-047 indica 77 vehículos disponibles.
+D047-3,ER-047,transporte,er,2047,oficial,0.9,ER-047 nora 77 ena.
+D047-4,ER-047,transporte,es,2048,rumor,0.2,Un rumor sobre ER-047 menciona 89 vehículos disponibles.
+D047-5,ER-047,transporte,es,2048,archivo,0.7,"El archivo de ER-047 registra actividades de transporte, sin inventario adicional."
+D048-0,ER-048,archivo,es,2048,oficial,0.95,El registro oficial de ER-048 confirma 80 tablillas disponibles.
+D048-1,ER-048,archivo,er,2048,oficial,0.95,ER-048 kiri 80 ena.
+D048-2,ER-048,archivo,es,2047,oficial,0.9,El registro anterior de ER-048 indica 87 tablillas disponibles.
+D048-3,ER-048,archivo,er,2047,oficial,0.9,ER-048 kiri 87 ena.
+D048-4,ER-048,archivo,es,2048,rumor,0.2,Un rumor sobre ER-048 menciona 99 tablillas disponibles.
+D048-5,ER-048,archivo,es,2048,archivo,0.7,"El archivo de ER-048 registra actividades de archivo, sin inventario adicional."
+D049-0,ER-049,agua,es,2048,oficial,0.95,El registro oficial de ER-049 confirma 27 depósitos disponibles.
+D049-1,ER-049,agua,er,2048,oficial,0.95,ER-049 mura 27 ena.
+D049-2,ER-049,agua,es,2047,oficial,0.9,El registro anterior de ER-049 indica 34 depósitos disponibles.
+D049-3,ER-049,agua,er,2047,oficial,0.9,ER-049 mura 34 ena.
+D049-4,ER-049,agua,es,2048,rumor,0.2,Un rumor sobre ER-049 menciona 46 depósitos disponibles.
+D049-5,ER-049,agua,es,2048,archivo,0.7,"El archivo de ER-049 registra actividades de agua, sin inventario adicional."
+D050-0,ER-050,agricultura,es,2048,oficial,0.95,El registro oficial de ER-050 confirma 60 semillas disponibles.
+D050-1,ER-050,agricultura,er,2048,oficial,0.95,ER-050 sava 60 ena.
+D050-2,ER-050,agricultura,es,2047,oficial,0.9,El registro anterior de ER-050 indica 67 semillas disponibles.
+D050-3,ER-050,agricultura,er,2047,oficial,0.9,ER-050 sava 67 ena.
+D050-4,ER-050,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-050 menciona 79 semillas disponibles.
+D050-5,ER-050,agricultura,es,2048,archivo,0.7,"El archivo de ER-050 registra actividades de agricultura, sin inventario adicional."
+D051-0,ER-051,energía,es,2048,oficial,0.95,El registro oficial de ER-051 confirma 22 celdas disponibles.
+D051-1,ER-051,energía,er,2048,oficial,0.95,ER-051 tavi 22 ena.
+D051-2,ER-051,energía,es,2047,oficial,0.9,El registro anterior de ER-051 indica 29 celdas disponibles.
+D051-3,ER-051,energía,er,2047,oficial,0.9,ER-051 tavi 29 ena.
+D051-4,ER-051,energía,es,2048,rumor,0.2,Un rumor sobre ER-051 menciona 41 celdas disponibles.
+D051-5,ER-051,energía,es,2048,archivo,0.7,"El archivo de ER-051 registra actividades de energía, sin inventario adicional."
+D052-0,ER-052,transporte,es,2048,oficial,0.95,El registro oficial de ER-052 confirma 82 vehículos disponibles.
+D052-1,ER-052,transporte,er,2048,oficial,0.95,ER-052 nora 82 ena.
+D052-2,ER-052,transporte,es,2047,oficial,0.9,El registro anterior de ER-052 indica 89 vehículos disponibles.
+D052-3,ER-052,transporte,er,2047,oficial,0.9,ER-052 nora 89 ena.
+D052-4,ER-052,transporte,es,2048,rumor,0.2,Un rumor sobre ER-052 menciona 101 vehículos disponibles.
+D052-5,ER-052,transporte,es,2048,archivo,0.7,"El archivo de ER-052 registra actividades de transporte, sin inventario adicional."
+D053-0,ER-053,archivo,es,2048,oficial,0.95,El registro oficial de ER-053 confirma 49 tablillas disponibles.
+D053-1,ER-053,archivo,er,2048,oficial,0.95,ER-053 kiri 49 ena.
+D053-2,ER-053,archivo,es,2047,oficial,0.9,El registro anterior de ER-053 indica 56 tablillas disponibles.
+D053-3,ER-053,archivo,er,2047,oficial,0.9,ER-053 kiri 56 ena.
+D053-4,ER-053,archivo,es,2048,rumor,0.2,Un rumor sobre ER-053 menciona 68 tablillas disponibles.
+D053-5,ER-053,archivo,es,2048,archivo,0.7,"El archivo de ER-053 registra actividades de archivo, sin inventario adicional."
+D054-0,ER-054,agua,es,2048,oficial,0.95,El registro oficial de ER-054 confirma 92 depósitos disponibles.
+D054-1,ER-054,agua,er,2048,oficial,0.95,ER-054 mura 92 ena.
+D054-2,ER-054,agua,es,2047,oficial,0.9,El registro anterior de ER-054 indica 99 depósitos disponibles.
+D054-3,ER-054,agua,er,2047,oficial,0.9,ER-054 mura 99 ena.
+D054-4,ER-054,agua,es,2048,rumor,0.2,Un rumor sobre ER-054 menciona 111 depósitos disponibles.
+D054-5,ER-054,agua,es,2048,archivo,0.7,"El archivo de ER-054 registra actividades de agua, sin inventario adicional."
+D055-0,ER-055,agricultura,es,2048,oficial,0.95,El registro oficial de ER-055 confirma 91 semillas disponibles.
+D055-1,ER-055,agricultura,er,2048,oficial,0.95,ER-055 sava 91 ena.
+D055-2,ER-055,agricultura,es,2047,oficial,0.9,El registro anterior de ER-055 indica 98 semillas disponibles.
+D055-3,ER-055,agricultura,er,2047,oficial,0.9,ER-055 sava 98 ena.
+D055-4,ER-055,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-055 menciona 110 semillas disponibles.
+D055-5,ER-055,agricultura,es,2048,archivo,0.7,"El archivo de ER-055 registra actividades de agricultura, sin inventario adicional."
+D056-0,ER-056,energía,es,2048,oficial,0.95,El registro oficial de ER-056 confirma 58 celdas disponibles.
+D056-1,ER-056,energía,er,2048,oficial,0.95,ER-056 tavi 58 ena.
+D056-2,ER-056,energía,es,2047,oficial,0.9,El registro anterior de ER-056 indica 65 celdas disponibles.
+D056-3,ER-056,energía,er,2047,oficial,0.9,ER-056 tavi 65 ena.
+D056-4,ER-056,energía,es,2048,rumor,0.2,Un rumor sobre ER-056 menciona 77 celdas disponibles.
+D056-5,ER-056,energía,es,2048,archivo,0.7,"El archivo de ER-056 registra actividades de energía, sin inventario adicional."
+D057-0,ER-057,transporte,es,2048,oficial,0.95,El registro oficial de ER-057 confirma 85 vehículos disponibles.
+D057-1,ER-057,transporte,er,2048,oficial,0.95,ER-057 nora 85 ena.
+D057-2,ER-057,transporte,es,2047,oficial,0.9,El registro anterior de ER-057 indica 92 vehículos disponibles.
+D057-3,ER-057,transporte,er,2047,oficial,0.9,ER-057 nora 92 ena.
+D057-4,ER-057,transporte,es,2048,rumor,0.2,Un rumor sobre ER-057 menciona 104 vehículos disponibles.
+D057-5,ER-057,transporte,es,2048,archivo,0.7,"El archivo de ER-057 registra actividades de transporte, sin inventario adicional."
+D058-0,ER-058,archivo,es,2048,oficial,0.95,El registro oficial de ER-058 confirma 36 tablillas disponibles.
+D058-1,ER-058,archivo,er,2048,oficial,0.95,ER-058 kiri 36 ena.
+D058-2,ER-058,archivo,es,2047,oficial,0.9,El registro anterior de ER-058 indica 43 tablillas disponibles.
+D058-3,ER-058,archivo,er,2047,oficial,0.9,ER-058 kiri 43 ena.
+D058-4,ER-058,archivo,es,2048,rumor,0.2,Un rumor sobre ER-058 menciona 55 tablillas disponibles.
+D058-5,ER-058,archivo,es,2048,archivo,0.7,"El archivo de ER-058 registra actividades de archivo, sin inventario adicional."
+D059-0,ER-059,agua,es,2048,oficial,0.95,El registro oficial de ER-059 confirma 20 depósitos disponibles.
+D059-1,ER-059,agua,er,2048,oficial,0.95,ER-059 mura 20 ena.
+D059-2,ER-059,agua,es,2047,oficial,0.9,El registro anterior de ER-059 indica 27 depósitos disponibles.
+D059-3,ER-059,agua,er,2047,oficial,0.9,ER-059 mura 27 ena.
+D059-4,ER-059,agua,es,2048,rumor,0.2,Un rumor sobre ER-059 menciona 39 depósitos disponibles.
+D059-5,ER-059,agua,es,2048,archivo,0.7,"El archivo de ER-059 registra actividades de agua, sin inventario adicional."
+D060-0,ER-060,agricultura,es,2048,oficial,0.95,El registro oficial de ER-060 confirma 17 semillas disponibles.
+D060-1,ER-060,agricultura,er,2048,oficial,0.95,ER-060 sava 17 ena.
+D060-2,ER-060,agricultura,es,2047,oficial,0.9,El registro anterior de ER-060 indica 24 semillas disponibles.
+D060-3,ER-060,agricultura,er,2047,oficial,0.9,ER-060 sava 24 ena.
+D060-4,ER-060,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-060 menciona 36 semillas disponibles.
+D060-5,ER-060,agricultura,es,2048,archivo,0.7,"El archivo de ER-060 registra actividades de agricultura, sin inventario adicional."
+D061-0,ER-061,energía,es,2048,oficial,0.95,El registro oficial de ER-061 confirma 96 celdas disponibles.
+D061-1,ER-061,energía,er,2048,oficial,0.95,ER-061 tavi 96 ena.
+D061-2,ER-061,energía,es,2047,oficial,0.9,El registro anterior de ER-061 indica 103 celdas disponibles.
+D061-3,ER-061,energía,er,2047,oficial,0.9,ER-061 tavi 103 ena.
+D061-4,ER-061,energía,es,2048,rumor,0.2,Un rumor sobre ER-061 menciona 115 celdas disponibles.
+D061-5,ER-061,energía,es,2048,archivo,0.7,"El archivo de ER-061 registra actividades de energía, sin inventario adicional."
+D062-0,ER-062,transporte,es,2048,oficial,0.95,El registro oficial de ER-062 confirma 41 vehículos disponibles.
+D062-1,ER-062,transporte,er,2048,oficial,0.95,ER-062 nora 41 ena.
+D062-2,ER-062,transporte,es,2047,oficial,0.9,El registro anterior de ER-062 indica 48 vehículos disponibles.
+D062-3,ER-062,transporte,er,2047,oficial,0.9,ER-062 nora 48 ena.
+D062-4,ER-062,transporte,es,2048,rumor,0.2,Un rumor sobre ER-062 menciona 60 vehículos disponibles.
+D062-5,ER-062,transporte,es,2048,archivo,0.7,"El archivo de ER-062 registra actividades de transporte, sin inventario adicional."
+D063-0,ER-063,archivo,es,2048,oficial,0.95,El registro oficial de ER-063 confirma 49 tablillas disponibles.
+D063-1,ER-063,archivo,er,2048,oficial,0.95,ER-063 kiri 49 ena.
+D063-2,ER-063,archivo,es,2047,oficial,0.9,El registro anterior de ER-063 indica 56 tablillas disponibles.
+D063-3,ER-063,archivo,er,2047,oficial,0.9,ER-063 kiri 56 ena.
+D063-4,ER-063,archivo,es,2048,rumor,0.2,Un rumor sobre ER-063 menciona 68 tablillas disponibles.
+D063-5,ER-063,archivo,es,2048,archivo,0.7,"El archivo de ER-063 registra actividades de archivo, sin inventario adicional."
+D064-0,ER-064,agua,es,2048,oficial,0.95,El registro oficial de ER-064 confirma 22 depósitos disponibles.
+D064-1,ER-064,agua,er,2048,oficial,0.95,ER-064 mura 22 ena.
+D064-2,ER-064,agua,es,2047,oficial,0.9,El registro anterior de ER-064 indica 29 depósitos disponibles.
+D064-3,ER-064,agua,er,2047,oficial,0.9,ER-064 mura 29 ena.
+D064-4,ER-064,agua,es,2048,rumor,0.2,Un rumor sobre ER-064 menciona 41 depósitos disponibles.
+D064-5,ER-064,agua,es,2048,archivo,0.7,"El archivo de ER-064 registra actividades de agua, sin inventario adicional."
+D065-0,ER-065,agricultura,es,2048,oficial,0.95,El registro oficial de ER-065 confirma 41 semillas disponibles.
+D065-1,ER-065,agricultura,er,2048,oficial,0.95,ER-065 sava 41 ena.
+D065-2,ER-065,agricultura,es,2047,oficial,0.9,El registro anterior de ER-065 indica 48 semillas disponibles.
+D065-3,ER-065,agricultura,er,2047,oficial,0.9,ER-065 sava 48 ena.
+D065-4,ER-065,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-065 menciona 60 semillas disponibles.
+D065-5,ER-065,agricultura,es,2048,archivo,0.7,"El archivo de ER-065 registra actividades de agricultura, sin inventario adicional."
+D066-0,ER-066,energía,es,2048,oficial,0.95,El registro oficial de ER-066 confirma 24 celdas disponibles.
+D066-1,ER-066,energía,er,2048,oficial,0.95,ER-066 tavi 24 ena.
+D066-2,ER-066,energía,es,2047,oficial,0.9,El registro anterior de ER-066 indica 31 celdas disponibles.
+D066-3,ER-066,energía,er,2047,oficial,0.9,ER-066 tavi 31 ena.
+D066-4,ER-066,energía,es,2048,rumor,0.2,Un rumor sobre ER-066 menciona 43 celdas disponibles.
+D066-5,ER-066,energía,es,2048,archivo,0.7,"El archivo de ER-066 registra actividades de energía, sin inventario adicional."
+D067-0,ER-067,transporte,es,2048,oficial,0.95,El registro oficial de ER-067 confirma 60 vehículos disponibles.
+D067-1,ER-067,transporte,er,2048,oficial,0.95,ER-067 nora 60 ena.
+D067-2,ER-067,transporte,es,2047,oficial,0.9,El registro anterior de ER-067 indica 67 vehículos disponibles.
+D067-3,ER-067,transporte,er,2047,oficial,0.9,ER-067 nora 67 ena.
+D067-4,ER-067,transporte,es,2048,rumor,0.2,Un rumor sobre ER-067 menciona 79 vehículos disponibles.
+D067-5,ER-067,transporte,es,2048,archivo,0.7,"El archivo de ER-067 registra actividades de transporte, sin inventario adicional."
+D068-0,ER-068,archivo,es,2048,oficial,0.95,El registro oficial de ER-068 confirma 47 tablillas disponibles.
+D068-1,ER-068,archivo,er,2048,oficial,0.95,ER-068 kiri 47 ena.
+D068-2,ER-068,archivo,es,2047,oficial,0.9,El registro anterior de ER-068 indica 54 tablillas disponibles.
+D068-3,ER-068,archivo,er,2047,oficial,0.9,ER-068 kiri 54 ena.
+D068-4,ER-068,archivo,es,2048,rumor,0.2,Un rumor sobre ER-068 menciona 66 tablillas disponibles.
+D068-5,ER-068,archivo,es,2048,archivo,0.7,"El archivo de ER-068 registra actividades de archivo, sin inventario adicional."
+D069-0,ER-069,agua,es,2048,oficial,0.95,El registro oficial de ER-069 confirma 70 depósitos disponibles.
+D069-1,ER-069,agua,er,2048,oficial,0.95,ER-069 mura 70 ena.
+D069-2,ER-069,agua,es,2047,oficial,0.9,El registro anterior de ER-069 indica 77 depósitos disponibles.
+D069-3,ER-069,agua,er,2047,oficial,0.9,ER-069 mura 77 ena.
+D069-4,ER-069,agua,es,2048,rumor,0.2,Un rumor sobre ER-069 menciona 89 depósitos disponibles.
+D069-5,ER-069,agua,es,2048,archivo,0.7,"El archivo de ER-069 registra actividades de agua, sin inventario adicional."
+D070-0,ER-070,agricultura,es,2048,oficial,0.95,El registro oficial de ER-070 confirma 93 semillas disponibles.
+D070-1,ER-070,agricultura,er,2048,oficial,0.95,ER-070 sava 93 ena.
+D070-2,ER-070,agricultura,es,2047,oficial,0.9,El registro anterior de ER-070 indica 100 semillas disponibles.
+D070-3,ER-070,agricultura,er,2047,oficial,0.9,ER-070 sava 100 ena.
+D070-4,ER-070,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-070 menciona 112 semillas disponibles.
+D070-5,ER-070,agricultura,es,2048,archivo,0.7,"El archivo de ER-070 registra actividades de agricultura, sin inventario adicional."
+D071-0,ER-071,energía,es,2048,oficial,0.95,El registro oficial de ER-071 confirma 58 celdas disponibles.
+D071-1,ER-071,energía,er,2048,oficial,0.95,ER-071 tavi 58 ena.
+D071-2,ER-071,energía,es,2047,oficial,0.9,El registro anterior de ER-071 indica 65 celdas disponibles.
+D071-3,ER-071,energía,er,2047,oficial,0.9,ER-071 tavi 65 ena.
+D071-4,ER-071,energía,es,2048,rumor,0.2,Un rumor sobre ER-071 menciona 77 celdas disponibles.
+D071-5,ER-071,energía,es,2048,archivo,0.7,"El archivo de ER-071 registra actividades de energía, sin inventario adicional."
+D072-0,ER-072,transporte,es,2048,oficial,0.95,El registro oficial de ER-072 confirma 32 vehículos disponibles.
+D072-1,ER-072,transporte,er,2048,oficial,0.95,ER-072 nora 32 ena.
+D072-2,ER-072,transporte,es,2047,oficial,0.9,El registro anterior de ER-072 indica 39 vehículos disponibles.
+D072-3,ER-072,transporte,er,2047,oficial,0.9,ER-072 nora 39 ena.
+D072-4,ER-072,transporte,es,2048,rumor,0.2,Un rumor sobre ER-072 menciona 51 vehículos disponibles.
+D072-5,ER-072,transporte,es,2048,archivo,0.7,"El archivo de ER-072 registra actividades de transporte, sin inventario adicional."
+D073-0,ER-073,archivo,es,2048,oficial,0.95,El registro oficial de ER-073 confirma 59 tablillas disponibles.
+D073-1,ER-073,archivo,er,2048,oficial,0.95,ER-073 kiri 59 ena.
+D073-2,ER-073,archivo,es,2047,oficial,0.9,El registro anterior de ER-073 indica 66 tablillas disponibles.
+D073-3,ER-073,archivo,er,2047,oficial,0.9,ER-073 kiri 66 ena.
+D073-4,ER-073,archivo,es,2048,rumor,0.2,Un rumor sobre ER-073 menciona 78 tablillas disponibles.
+D073-5,ER-073,archivo,es,2048,archivo,0.7,"El archivo de ER-073 registra actividades de archivo, sin inventario adicional."
+D074-0,ER-074,agua,es,2048,oficial,0.95,El registro oficial de ER-074 confirma 57 depósitos disponibles.
+D074-1,ER-074,agua,er,2048,oficial,0.95,ER-074 mura 57 ena.
+D074-2,ER-074,agua,es,2047,oficial,0.9,El registro anterior de ER-074 indica 64 depósitos disponibles.
+D074-3,ER-074,agua,er,2047,oficial,0.9,ER-074 mura 64 ena.
+D074-4,ER-074,agua,es,2048,rumor,0.2,Un rumor sobre ER-074 menciona 76 depósitos disponibles.
+D074-5,ER-074,agua,es,2048,archivo,0.7,"El archivo de ER-074 registra actividades de agua, sin inventario adicional."
+D075-0,ER-075,agricultura,es,2048,oficial,0.95,El registro oficial de ER-075 confirma 38 semillas disponibles.
+D075-1,ER-075,agricultura,er,2048,oficial,0.95,ER-075 sava 38 ena.
+D075-2,ER-075,agricultura,es,2047,oficial,0.9,El registro anterior de ER-075 indica 45 semillas disponibles.
+D075-3,ER-075,agricultura,er,2047,oficial,0.9,ER-075 sava 45 ena.
+D075-4,ER-075,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-075 menciona 57 semillas disponibles.
+D075-5,ER-075,agricultura,es,2048,archivo,0.7,"El archivo de ER-075 registra actividades de agricultura, sin inventario adicional."
+D076-0,ER-076,energía,es,2048,oficial,0.95,El registro oficial de ER-076 confirma 97 celdas disponibles.
+D076-1,ER-076,energía,er,2048,oficial,0.95,ER-076 tavi 97 ena.
+D076-2,ER-076,energía,es,2047,oficial,0.9,El registro anterior de ER-076 indica 104 celdas disponibles.
+D076-3,ER-076,energía,er,2047,oficial,0.9,ER-076 tavi 104 ena.
+D076-4,ER-076,energía,es,2048,rumor,0.2,Un rumor sobre ER-076 menciona 116 celdas disponibles.
+D076-5,ER-076,energía,es,2048,archivo,0.7,"El archivo de ER-076 registra actividades de energía, sin inventario adicional."
+D077-0,ER-077,transporte,es,2048,oficial,0.95,El registro oficial de ER-077 confirma 46 vehículos disponibles.
+D077-1,ER-077,transporte,er,2048,oficial,0.95,ER-077 nora 46 ena.
+D077-2,ER-077,transporte,es,2047,oficial,0.9,El registro anterior de ER-077 indica 53 vehículos disponibles.
+D077-3,ER-077,transporte,er,2047,oficial,0.9,ER-077 nora 53 ena.
+D077-4,ER-077,transporte,es,2048,rumor,0.2,Un rumor sobre ER-077 menciona 65 vehículos disponibles.
+D077-5,ER-077,transporte,es,2048,archivo,0.7,"El archivo de ER-077 registra actividades de transporte, sin inventario adicional."
+D078-0,ER-078,archivo,es,2048,oficial,0.95,El registro oficial de ER-078 confirma 94 tablillas disponibles.
+D078-1,ER-078,archivo,er,2048,oficial,0.95,ER-078 kiri 94 ena.
+D078-2,ER-078,archivo,es,2047,oficial,0.9,El registro anterior de ER-078 indica 101 tablillas disponibles.
+D078-3,ER-078,archivo,er,2047,oficial,0.9,ER-078 kiri 101 ena.
+D078-4,ER-078,archivo,es,2048,rumor,0.2,Un rumor sobre ER-078 menciona 113 tablillas disponibles.
+D078-5,ER-078,archivo,es,2048,archivo,0.7,"El archivo de ER-078 registra actividades de archivo, sin inventario adicional."
+D079-0,ER-079,agua,es,2048,oficial,0.95,El registro oficial de ER-079 confirma 21 depósitos disponibles.
+D079-1,ER-079,agua,er,2048,oficial,0.95,ER-079 mura 21 ena.
+D079-2,ER-079,agua,es,2047,oficial,0.9,El registro anterior de ER-079 indica 28 depósitos disponibles.
+D079-3,ER-079,agua,er,2047,oficial,0.9,ER-079 mura 28 ena.
+D079-4,ER-079,agua,es,2048,rumor,0.2,Un rumor sobre ER-079 menciona 40 depósitos disponibles.
+D079-5,ER-079,agua,es,2048,archivo,0.7,"El archivo de ER-079 registra actividades de agua, sin inventario adicional."
+D080-0,ER-080,agricultura,es,2048,oficial,0.95,El registro oficial de ER-080 confirma 89 semillas disponibles.
+D080-1,ER-080,agricultura,er,2048,oficial,0.95,ER-080 sava 89 ena.
+D080-2,ER-080,agricultura,es,2047,oficial,0.9,El registro anterior de ER-080 indica 96 semillas disponibles.
+D080-3,ER-080,agricultura,er,2047,oficial,0.9,ER-080 sava 96 ena.
+D080-4,ER-080,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-080 menciona 108 semillas disponibles.
+D080-5,ER-080,agricultura,es,2048,archivo,0.7,"El archivo de ER-080 registra actividades de agricultura, sin inventario adicional."
+D081-0,ER-081,energía,es,2048,oficial,0.95,El registro oficial de ER-081 confirma 93 celdas disponibles.
+D081-1,ER-081,energía,er,2048,oficial,0.95,ER-081 tavi 93 ena.
+D081-2,ER-081,energía,es,2047,oficial,0.9,El registro anterior de ER-081 indica 100 celdas disponibles.
+D081-3,ER-081,energía,er,2047,oficial,0.9,ER-081 tavi 100 ena.
+D081-4,ER-081,energía,es,2048,rumor,0.2,Un rumor sobre ER-081 menciona 112 celdas disponibles.
+D081-5,ER-081,energía,es,2048,archivo,0.7,"El archivo de ER-081 registra actividades de energía, sin inventario adicional."
+D082-0,ER-082,transporte,es,2048,oficial,0.95,El registro oficial de ER-082 confirma 33 vehículos disponibles.
+D082-1,ER-082,transporte,er,2048,oficial,0.95,ER-082 nora 33 ena.
+D082-2,ER-082,transporte,es,2047,oficial,0.9,El registro anterior de ER-082 indica 40 vehículos disponibles.
+D082-3,ER-082,transporte,er,2047,oficial,0.9,ER-082 nora 40 ena.
+D082-4,ER-082,transporte,es,2048,rumor,0.2,Un rumor sobre ER-082 menciona 52 vehículos disponibles.
+D082-5,ER-082,transporte,es,2048,archivo,0.7,"El archivo de ER-082 registra actividades de transporte, sin inventario adicional."
+D083-0,ER-083,archivo,es,2048,oficial,0.95,El registro oficial de ER-083 confirma 80 tablillas disponibles.
+D083-1,ER-083,archivo,er,2048,oficial,0.95,ER-083 kiri 80 ena.
+D083-2,ER-083,archivo,es,2047,oficial,0.9,El registro anterior de ER-083 indica 87 tablillas disponibles.
+D083-3,ER-083,archivo,er,2047,oficial,0.9,ER-083 kiri 87 ena.
+D083-4,ER-083,archivo,es,2048,rumor,0.2,Un rumor sobre ER-083 menciona 99 tablillas disponibles.
+D083-5,ER-083,archivo,es,2048,archivo,0.7,"El archivo de ER-083 registra actividades de archivo, sin inventario adicional."
+D084-0,ER-084,agua,es,2048,oficial,0.95,El registro oficial de ER-084 confirma 43 depósitos disponibles.
+D084-1,ER-084,agua,er,2048,oficial,0.95,ER-084 mura 43 ena.
+D084-2,ER-084,agua,es,2047,oficial,0.9,El registro anterior de ER-084 indica 50 depósitos disponibles.
+D084-3,ER-084,agua,er,2047,oficial,0.9,ER-084 mura 50 ena.
+D084-4,ER-084,agua,es,2048,rumor,0.2,Un rumor sobre ER-084 menciona 62 depósitos disponibles.
+D084-5,ER-084,agua,es,2048,archivo,0.7,"El archivo de ER-084 registra actividades de agua, sin inventario adicional."
+D085-0,ER-085,agricultura,es,2048,oficial,0.95,El registro oficial de ER-085 confirma 32 semillas disponibles.
+D085-1,ER-085,agricultura,er,2048,oficial,0.95,ER-085 sava 32 ena.
+D085-2,ER-085,agricultura,es,2047,oficial,0.9,El registro anterior de ER-085 indica 39 semillas disponibles.
+D085-3,ER-085,agricultura,er,2047,oficial,0.9,ER-085 sava 39 ena.
+D085-4,ER-085,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-085 menciona 51 semillas disponibles.
+D085-5,ER-085,agricultura,es,2048,archivo,0.7,"El archivo de ER-085 registra actividades de agricultura, sin inventario adicional."
+D086-0,ER-086,energía,es,2048,oficial,0.95,El registro oficial de ER-086 confirma 71 celdas disponibles.
+D086-1,ER-086,energía,er,2048,oficial,0.95,ER-086 tavi 71 ena.
+D086-2,ER-086,energía,es,2047,oficial,0.9,El registro anterior de ER-086 indica 78 celdas disponibles.
+D086-3,ER-086,energía,er,2047,oficial,0.9,ER-086 tavi 78 ena.
+D086-4,ER-086,energía,es,2048,rumor,0.2,Un rumor sobre ER-086 menciona 90 celdas disponibles.
+D086-5,ER-086,energía,es,2048,archivo,0.7,"El archivo de ER-086 registra actividades de energía, sin inventario adicional."
+D087-0,ER-087,transporte,es,2048,oficial,0.95,El registro oficial de ER-087 confirma 60 vehículos disponibles.
+D087-1,ER-087,transporte,er,2048,oficial,0.95,ER-087 nora 60 ena.
+D087-2,ER-087,transporte,es,2047,oficial,0.9,El registro anterior de ER-087 indica 67 vehículos disponibles.
+D087-3,ER-087,transporte,er,2047,oficial,0.9,ER-087 nora 67 ena.
+D087-4,ER-087,transporte,es,2048,rumor,0.2,Un rumor sobre ER-087 menciona 79 vehículos disponibles.
+D087-5,ER-087,transporte,es,2048,archivo,0.7,"El archivo de ER-087 registra actividades de transporte, sin inventario adicional."
+D088-0,ER-088,archivo,es,2048,oficial,0.95,El registro oficial de ER-088 confirma 46 tablillas disponibles.
+D088-1,ER-088,archivo,er,2048,oficial,0.95,ER-088 kiri 46 ena.
+D088-2,ER-088,archivo,es,2047,oficial,0.9,El registro anterior de ER-088 indica 53 tablillas disponibles.
+D088-3,ER-088,archivo,er,2047,oficial,0.9,ER-088 kiri 53 ena.
+D088-4,ER-088,archivo,es,2048,rumor,0.2,Un rumor sobre ER-088 menciona 65 tablillas disponibles.
+D088-5,ER-088,archivo,es,2048,archivo,0.7,"El archivo de ER-088 registra actividades de archivo, sin inventario adicional."
+D089-0,ER-089,agua,es,2048,oficial,0.95,El registro oficial de ER-089 confirma 93 depósitos disponibles.
+D089-1,ER-089,agua,er,2048,oficial,0.95,ER-089 mura 93 ena.
+D089-2,ER-089,agua,es,2047,oficial,0.9,El registro anterior de ER-089 indica 100 depósitos disponibles.
+D089-3,ER-089,agua,er,2047,oficial,0.9,ER-089 mura 100 ena.
+D089-4,ER-089,agua,es,2048,rumor,0.2,Un rumor sobre ER-089 menciona 112 depósitos disponibles.
+D089-5,ER-089,agua,es,2048,archivo,0.7,"El archivo de ER-089 registra actividades de agua, sin inventario adicional."
+D090-0,ER-090,agricultura,es,2048,oficial,0.95,El registro oficial de ER-090 confirma 83 semillas disponibles.
+D090-1,ER-090,agricultura,er,2048,oficial,0.95,ER-090 sava 83 ena.
+D090-2,ER-090,agricultura,es,2047,oficial,0.9,El registro anterior de ER-090 indica 90 semillas disponibles.
+D090-3,ER-090,agricultura,er,2047,oficial,0.9,ER-090 sava 90 ena.
+D090-4,ER-090,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-090 menciona 102 semillas disponibles.
+D090-5,ER-090,agricultura,es,2048,archivo,0.7,"El archivo de ER-090 registra actividades de agricultura, sin inventario adicional."
+D091-0,ER-091,energía,es,2048,oficial,0.95,El registro oficial de ER-091 confirma 40 celdas disponibles.
+D091-1,ER-091,energía,er,2048,oficial,0.95,ER-091 tavi 40 ena.
+D091-2,ER-091,energía,es,2047,oficial,0.9,El registro anterior de ER-091 indica 47 celdas disponibles.
+D091-3,ER-091,energía,er,2047,oficial,0.9,ER-091 tavi 47 ena.
+D091-4,ER-091,energía,es,2048,rumor,0.2,Un rumor sobre ER-091 menciona 59 celdas disponibles.
+D091-5,ER-091,energía,es,2048,archivo,0.7,"El archivo de ER-091 registra actividades de energía, sin inventario adicional."
+D092-0,ER-092,transporte,es,2048,oficial,0.95,El registro oficial de ER-092 confirma 53 vehículos disponibles.
+D092-1,ER-092,transporte,er,2048,oficial,0.95,ER-092 nora 53 ena.
+D092-2,ER-092,transporte,es,2047,oficial,0.9,El registro anterior de ER-092 indica 60 vehículos disponibles.
+D092-3,ER-092,transporte,er,2047,oficial,0.9,ER-092 nora 60 ena.
+D092-4,ER-092,transporte,es,2048,rumor,0.2,Un rumor sobre ER-092 menciona 72 vehículos disponibles.
+D092-5,ER-092,transporte,es,2048,archivo,0.7,"El archivo de ER-092 registra actividades de transporte, sin inventario adicional."
+D093-0,ER-093,archivo,es,2048,oficial,0.95,El registro oficial de ER-093 confirma 19 tablillas disponibles.
+D093-1,ER-093,archivo,er,2048,oficial,0.95,ER-093 kiri 19 ena.
+D093-2,ER-093,archivo,es,2047,oficial,0.9,El registro anterior de ER-093 indica 26 tablillas disponibles.
+D093-3,ER-093,archivo,er,2047,oficial,0.9,ER-093 kiri 26 ena.
+D093-4,ER-093,archivo,es,2048,rumor,0.2,Un rumor sobre ER-093 menciona 38 tablillas disponibles.
+D093-5,ER-093,archivo,es,2048,archivo,0.7,"El archivo de ER-093 registra actividades de archivo, sin inventario adicional."
+D094-0,ER-094,agua,es,2048,oficial,0.95,El registro oficial de ER-094 confirma 41 depósitos disponibles.
+D094-1,ER-094,agua,er,2048,oficial,0.95,ER-094 mura 41 ena.
+D094-2,ER-094,agua,es,2047,oficial,0.9,El registro anterior de ER-094 indica 48 depósitos disponibles.
+D094-3,ER-094,agua,er,2047,oficial,0.9,ER-094 mura 48 ena.
+D094-4,ER-094,agua,es,2048,rumor,0.2,Un rumor sobre ER-094 menciona 60 depósitos disponibles.
+D094-5,ER-094,agua,es,2048,archivo,0.7,"El archivo de ER-094 registra actividades de agua, sin inventario adicional."
+D095-0,ER-095,agricultura,es,2048,oficial,0.95,El registro oficial de ER-095 confirma 16 semillas disponibles.
+D095-1,ER-095,agricultura,er,2048,oficial,0.95,ER-095 sava 16 ena.
+D095-2,ER-095,agricultura,es,2047,oficial,0.9,El registro anterior de ER-095 indica 23 semillas disponibles.
+D095-3,ER-095,agricultura,er,2047,oficial,0.9,ER-095 sava 23 ena.
+D095-4,ER-095,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-095 menciona 35 semillas disponibles.
+D095-5,ER-095,agricultura,es,2048,archivo,0.7,"El archivo de ER-095 registra actividades de agricultura, sin inventario adicional."
+D096-0,ER-096,energía,es,2048,oficial,0.95,El registro oficial de ER-096 confirma 52 celdas disponibles.
+D096-1,ER-096,energía,er,2048,oficial,0.95,ER-096 tavi 52 ena.
+D096-2,ER-096,energía,es,2047,oficial,0.9,El registro anterior de ER-096 indica 59 celdas disponibles.
+D096-3,ER-096,energía,er,2047,oficial,0.9,ER-096 tavi 59 ena.
+D096-4,ER-096,energía,es,2048,rumor,0.2,Un rumor sobre ER-096 menciona 71 celdas disponibles.
+D096-5,ER-096,energía,es,2048,archivo,0.7,"El archivo de ER-096 registra actividades de energía, sin inventario adicional."
+D097-0,ER-097,transporte,es,2048,oficial,0.95,El registro oficial de ER-097 confirma 63 vehículos disponibles.
+D097-1,ER-097,transporte,er,2048,oficial,0.95,ER-097 nora 63 ena.
+D097-2,ER-097,transporte,es,2047,oficial,0.9,El registro anterior de ER-097 indica 70 vehículos disponibles.
+D097-3,ER-097,transporte,er,2047,oficial,0.9,ER-097 nora 70 ena.
+D097-4,ER-097,transporte,es,2048,rumor,0.2,Un rumor sobre ER-097 menciona 82 vehículos disponibles.
+D097-5,ER-097,transporte,es,2048,archivo,0.7,"El archivo de ER-097 registra actividades de transporte, sin inventario adicional."
+D098-0,ER-098,archivo,es,2048,oficial,0.95,El registro oficial de ER-098 confirma 46 tablillas disponibles.
+D098-1,ER-098,archivo,er,2048,oficial,0.95,ER-098 kiri 46 ena.
+D098-2,ER-098,archivo,es,2047,oficial,0.9,El registro anterior de ER-098 indica 53 tablillas disponibles.
+D098-3,ER-098,archivo,er,2047,oficial,0.9,ER-098 kiri 53 ena.
+D098-4,ER-098,archivo,es,2048,rumor,0.2,Un rumor sobre ER-098 menciona 65 tablillas disponibles.
+D098-5,ER-098,archivo,es,2048,archivo,0.7,"El archivo de ER-098 registra actividades de archivo, sin inventario adicional."
+D099-0,ER-099,agua,es,2048,oficial,0.95,El registro oficial de ER-099 confirma 20 depósitos disponibles.
+D099-1,ER-099,agua,er,2048,oficial,0.95,ER-099 mura 20 ena.
+D099-2,ER-099,agua,es,2047,oficial,0.9,El registro anterior de ER-099 indica 27 depósitos disponibles.
+D099-3,ER-099,agua,er,2047,oficial,0.9,ER-099 mura 27 ena.
+D099-4,ER-099,agua,es,2048,rumor,0.2,Un rumor sobre ER-099 menciona 39 depósitos disponibles.
+D099-5,ER-099,agua,es,2048,archivo,0.7,"El archivo de ER-099 registra actividades de agua, sin inventario adicional."
+D100-0,ER-100,agricultura,es,2048,oficial,0.95,El registro oficial de ER-100 confirma 39 semillas disponibles.
+D100-1,ER-100,agricultura,er,2048,oficial,0.95,ER-100 sava 39 ena.
+D100-2,ER-100,agricultura,es,2047,oficial,0.9,El registro anterior de ER-100 indica 46 semillas disponibles.
+D100-3,ER-100,agricultura,er,2047,oficial,0.9,ER-100 sava 46 ena.
+D100-4,ER-100,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-100 menciona 58 semillas disponibles.
+D100-5,ER-100,agricultura,es,2048,archivo,0.7,"El archivo de ER-100 registra actividades de agricultura, sin inventario adicional."
+D101-0,ER-101,energía,es,2048,oficial,0.95,El registro oficial de ER-101 confirma 84 celdas disponibles.
+D101-1,ER-101,energía,er,2048,oficial,0.95,ER-101 tavi 84 ena.
+D101-2,ER-101,energía,es,2047,oficial,0.9,El registro anterior de ER-101 indica 91 celdas disponibles.
+D101-3,ER-101,energía,er,2047,oficial,0.9,ER-101 tavi 91 ena.
+D101-4,ER-101,energía,es,2048,rumor,0.2,Un rumor sobre ER-101 menciona 103 celdas disponibles.
+D101-5,ER-101,energía,es,2048,archivo,0.7,"El archivo de ER-101 registra actividades de energía, sin inventario adicional."
+D102-0,ER-102,transporte,es,2048,oficial,0.95,El registro oficial de ER-102 confirma 52 vehículos disponibles.
+D102-1,ER-102,transporte,er,2048,oficial,0.95,ER-102 nora 52 ena.
+D102-2,ER-102,transporte,es,2047,oficial,0.9,El registro anterior de ER-102 indica 59 vehículos disponibles.
+D102-3,ER-102,transporte,er,2047,oficial,0.9,ER-102 nora 59 ena.
+D102-4,ER-102,transporte,es,2048,rumor,0.2,Un rumor sobre ER-102 menciona 71 vehículos disponibles.
+D102-5,ER-102,transporte,es,2048,archivo,0.7,"El archivo de ER-102 registra actividades de transporte, sin inventario adicional."
+D103-0,ER-103,archivo,es,2048,oficial,0.95,El registro oficial de ER-103 confirma 39 tablillas disponibles.
+D103-1,ER-103,archivo,er,2048,oficial,0.95,ER-103 kiri 39 ena.
+D103-2,ER-103,archivo,es,2047,oficial,0.9,El registro anterior de ER-103 indica 46 tablillas disponibles.
+D103-3,ER-103,archivo,er,2047,oficial,0.9,ER-103 kiri 46 ena.
+D103-4,ER-103,archivo,es,2048,rumor,0.2,Un rumor sobre ER-103 menciona 58 tablillas disponibles.
+D103-5,ER-103,archivo,es,2048,archivo,0.7,"El archivo de ER-103 registra actividades de archivo, sin inventario adicional."
+D104-0,ER-104,agua,es,2048,oficial,0.95,El registro oficial de ER-104 confirma 95 depósitos disponibles.
+D104-1,ER-104,agua,er,2048,oficial,0.95,ER-104 mura 95 ena.
+D104-2,ER-104,agua,es,2047,oficial,0.9,El registro anterior de ER-104 indica 102 depósitos disponibles.
+D104-3,ER-104,agua,er,2047,oficial,0.9,ER-104 mura 102 ena.
+D104-4,ER-104,agua,es,2048,rumor,0.2,Un rumor sobre ER-104 menciona 114 depósitos disponibles.
+D104-5,ER-104,agua,es,2048,archivo,0.7,"El archivo de ER-104 registra actividades de agua, sin inventario adicional."
+D105-0,ER-105,agricultura,es,2048,oficial,0.95,El registro oficial de ER-105 confirma 75 semillas disponibles.
+D105-1,ER-105,agricultura,er,2048,oficial,0.95,ER-105 sava 75 ena.
+D105-2,ER-105,agricultura,es,2047,oficial,0.9,El registro anterior de ER-105 indica 82 semillas disponibles.
+D105-3,ER-105,agricultura,er,2047,oficial,0.9,ER-105 sava 82 ena.
+D105-4,ER-105,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-105 menciona 94 semillas disponibles.
+D105-5,ER-105,agricultura,es,2048,archivo,0.7,"El archivo de ER-105 registra actividades de agricultura, sin inventario adicional."
+D106-0,ER-106,energía,es,2048,oficial,0.95,El registro oficial de ER-106 confirma 62 celdas disponibles.
+D106-1,ER-106,energía,er,2048,oficial,0.95,ER-106 tavi 62 ena.
+D106-2,ER-106,energía,es,2047,oficial,0.9,El registro anterior de ER-106 indica 69 celdas disponibles.
+D106-3,ER-106,energía,er,2047,oficial,0.9,ER-106 tavi 69 ena.
+D106-4,ER-106,energía,es,2048,rumor,0.2,Un rumor sobre ER-106 menciona 81 celdas disponibles.
+D106-5,ER-106,energía,es,2048,archivo,0.7,"El archivo de ER-106 registra actividades de energía, sin inventario adicional."
+D107-0,ER-107,transporte,es,2048,oficial,0.95,El registro oficial de ER-107 confirma 94 vehículos disponibles.
+D107-1,ER-107,transporte,er,2048,oficial,0.95,ER-107 nora 94 ena.
+D107-2,ER-107,transporte,es,2047,oficial,0.9,El registro anterior de ER-107 indica 101 vehículos disponibles.
+D107-3,ER-107,transporte,er,2047,oficial,0.9,ER-107 nora 101 ena.
+D107-4,ER-107,transporte,es,2048,rumor,0.2,Un rumor sobre ER-107 menciona 113 vehículos disponibles.
+D107-5,ER-107,transporte,es,2048,archivo,0.7,"El archivo de ER-107 registra actividades de transporte, sin inventario adicional."
+D108-0,ER-108,archivo,es,2048,oficial,0.95,El registro oficial de ER-108 confirma 70 tablillas disponibles.
+D108-1,ER-108,archivo,er,2048,oficial,0.95,ER-108 kiri 70 ena.
+D108-2,ER-108,archivo,es,2047,oficial,0.9,El registro anterior de ER-108 indica 77 tablillas disponibles.
+D108-3,ER-108,archivo,er,2047,oficial,0.9,ER-108 kiri 77 ena.
+D108-4,ER-108,archivo,es,2048,rumor,0.2,Un rumor sobre ER-108 menciona 89 tablillas disponibles.
+D108-5,ER-108,archivo,es,2048,archivo,0.7,"El archivo de ER-108 registra actividades de archivo, sin inventario adicional."
+D109-0,ER-109,agua,es,2048,oficial,0.95,El registro oficial de ER-109 confirma 30 depósitos disponibles.
+D109-1,ER-109,agua,er,2048,oficial,0.95,ER-109 mura 30 ena.
+D109-2,ER-109,agua,es,2047,oficial,0.9,El registro anterior de ER-109 indica 37 depósitos disponibles.
+D109-3,ER-109,agua,er,2047,oficial,0.9,ER-109 mura 37 ena.
+D109-4,ER-109,agua,es,2048,rumor,0.2,Un rumor sobre ER-109 menciona 49 depósitos disponibles.
+D109-5,ER-109,agua,es,2048,archivo,0.7,"El archivo de ER-109 registra actividades de agua, sin inventario adicional."
+D110-0,ER-110,agricultura,es,2048,oficial,0.95,El registro oficial de ER-110 confirma 45 semillas disponibles.
+D110-1,ER-110,agricultura,er,2048,oficial,0.95,ER-110 sava 45 ena.
+D110-2,ER-110,agricultura,es,2047,oficial,0.9,El registro anterior de ER-110 indica 52 semillas disponibles.
+D110-3,ER-110,agricultura,er,2047,oficial,0.9,ER-110 sava 52 ena.
+D110-4,ER-110,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-110 menciona 64 semillas disponibles.
+D110-5,ER-110,agricultura,es,2048,archivo,0.7,"El archivo de ER-110 registra actividades de agricultura, sin inventario adicional."
+D111-0,ER-111,energía,es,2048,oficial,0.95,El registro oficial de ER-111 confirma 29 celdas disponibles.
+D111-1,ER-111,energía,er,2048,oficial,0.95,ER-111 tavi 29 ena.
+D111-2,ER-111,energía,es,2047,oficial,0.9,El registro anterior de ER-111 indica 36 celdas disponibles.
+D111-3,ER-111,energía,er,2047,oficial,0.9,ER-111 tavi 36 ena.
+D111-4,ER-111,energía,es,2048,rumor,0.2,Un rumor sobre ER-111 menciona 48 celdas disponibles.
+D111-5,ER-111,energía,es,2048,archivo,0.7,"El archivo de ER-111 registra actividades de energía, sin inventario adicional."
+D112-0,ER-112,transporte,es,2048,oficial,0.95,El registro oficial de ER-112 confirma 43 vehículos disponibles.
+D112-1,ER-112,transporte,er,2048,oficial,0.95,ER-112 nora 43 ena.
+D112-2,ER-112,transporte,es,2047,oficial,0.9,El registro anterior de ER-112 indica 50 vehículos disponibles.
+D112-3,ER-112,transporte,er,2047,oficial,0.9,ER-112 nora 50 ena.
+D112-4,ER-112,transporte,es,2048,rumor,0.2,Un rumor sobre ER-112 menciona 62 vehículos disponibles.
+D112-5,ER-112,transporte,es,2048,archivo,0.7,"El archivo de ER-112 registra actividades de transporte, sin inventario adicional."
+D113-0,ER-113,archivo,es,2048,oficial,0.95,El registro oficial de ER-113 confirma 83 tablillas disponibles.
+D113-1,ER-113,archivo,er,2048,oficial,0.95,ER-113 kiri 83 ena.
+D113-2,ER-113,archivo,es,2047,oficial,0.9,El registro anterior de ER-113 indica 90 tablillas disponibles.
+D113-3,ER-113,archivo,er,2047,oficial,0.9,ER-113 kiri 90 ena.
+D113-4,ER-113,archivo,es,2048,rumor,0.2,Un rumor sobre ER-113 menciona 102 tablillas disponibles.
+D113-5,ER-113,archivo,es,2048,archivo,0.7,"El archivo de ER-113 registra actividades de archivo, sin inventario adicional."
+D114-0,ER-114,agua,es,2048,oficial,0.95,El registro oficial de ER-114 confirma 80 depósitos disponibles.
+D114-1,ER-114,agua,er,2048,oficial,0.95,ER-114 mura 80 ena.
+D114-2,ER-114,agua,es,2047,oficial,0.9,El registro anterior de ER-114 indica 87 depósitos disponibles.
+D114-3,ER-114,agua,er,2047,oficial,0.9,ER-114 mura 87 ena.
+D114-4,ER-114,agua,es,2048,rumor,0.2,Un rumor sobre ER-114 menciona 99 depósitos disponibles.
+D114-5,ER-114,agua,es,2048,archivo,0.7,"El archivo de ER-114 registra actividades de agua, sin inventario adicional."
+D115-0,ER-115,agricultura,es,2048,oficial,0.95,El registro oficial de ER-115 confirma 45 semillas disponibles.
+D115-1,ER-115,agricultura,er,2048,oficial,0.95,ER-115 sava 45 ena.
+D115-2,ER-115,agricultura,es,2047,oficial,0.9,El registro anterior de ER-115 indica 52 semillas disponibles.
+D115-3,ER-115,agricultura,er,2047,oficial,0.9,ER-115 sava 52 ena.
+D115-4,ER-115,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-115 menciona 64 semillas disponibles.
+D115-5,ER-115,agricultura,es,2048,archivo,0.7,"El archivo de ER-115 registra actividades de agricultura, sin inventario adicional."
+D116-0,ER-116,energía,es,2048,oficial,0.95,El registro oficial de ER-116 confirma 86 celdas disponibles.
+D116-1,ER-116,energía,er,2048,oficial,0.95,ER-116 tavi 86 ena.
+D116-2,ER-116,energía,es,2047,oficial,0.9,El registro anterior de ER-116 indica 93 celdas disponibles.
+D116-3,ER-116,energía,er,2047,oficial,0.9,ER-116 tavi 93 ena.
+D116-4,ER-116,energía,es,2048,rumor,0.2,Un rumor sobre ER-116 menciona 105 celdas disponibles.
+D116-5,ER-116,energía,es,2048,archivo,0.7,"El archivo de ER-116 registra actividades de energía, sin inventario adicional."
+D117-0,ER-117,transporte,es,2048,oficial,0.95,El registro oficial de ER-117 confirma 66 vehículos disponibles.
+D117-1,ER-117,transporte,er,2048,oficial,0.95,ER-117 nora 66 ena.
+D117-2,ER-117,transporte,es,2047,oficial,0.9,El registro anterior de ER-117 indica 73 vehículos disponibles.
+D117-3,ER-117,transporte,er,2047,oficial,0.9,ER-117 nora 73 ena.
+D117-4,ER-117,transporte,es,2048,rumor,0.2,Un rumor sobre ER-117 menciona 85 vehículos disponibles.
+D117-5,ER-117,transporte,es,2048,archivo,0.7,"El archivo de ER-117 registra actividades de transporte, sin inventario adicional."
+D118-0,ER-118,archivo,es,2048,oficial,0.95,El registro oficial de ER-118 confirma 86 tablillas disponibles.
+D118-1,ER-118,archivo,er,2048,oficial,0.95,ER-118 kiri 86 ena.
+D118-2,ER-118,archivo,es,2047,oficial,0.9,El registro anterior de ER-118 indica 93 tablillas disponibles.
+D118-3,ER-118,archivo,er,2047,oficial,0.9,ER-118 kiri 93 ena.
+D118-4,ER-118,archivo,es,2048,rumor,0.2,Un rumor sobre ER-118 menciona 105 tablillas disponibles.
+D118-5,ER-118,archivo,es,2048,archivo,0.7,"El archivo de ER-118 registra actividades de archivo, sin inventario adicional."
+D119-0,ER-119,agua,es,2048,oficial,0.95,El registro oficial de ER-119 confirma 63 depósitos disponibles.
+D119-1,ER-119,agua,er,2048,oficial,0.95,ER-119 mura 63 ena.
+D119-2,ER-119,agua,es,2047,oficial,0.9,El registro anterior de ER-119 indica 70 depósitos disponibles.
+D119-3,ER-119,agua,er,2047,oficial,0.9,ER-119 mura 70 ena.
+D119-4,ER-119,agua,es,2048,rumor,0.2,Un rumor sobre ER-119 menciona 82 depósitos disponibles.
+D119-5,ER-119,agua,es,2048,archivo,0.7,"El archivo de ER-119 registra actividades de agua, sin inventario adicional."
+D120-0,ER-120,agricultura,es,2048,oficial,0.95,El registro oficial de ER-120 confirma 58 semillas disponibles.
+D120-1,ER-120,agricultura,er,2048,oficial,0.95,ER-120 sava 58 ena.
+D120-2,ER-120,agricultura,es,2047,oficial,0.9,El registro anterior de ER-120 indica 65 semillas disponibles.
+D120-3,ER-120,agricultura,er,2047,oficial,0.9,ER-120 sava 65 ena.
+D120-4,ER-120,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-120 menciona 77 semillas disponibles.
+D120-5,ER-120,agricultura,es,2048,archivo,0.7,"El archivo de ER-120 registra actividades de agricultura, sin inventario adicional."
+D121-0,ER-121,energía,es,2048,oficial,0.95,El registro oficial de ER-121 confirma 40 celdas disponibles.
+D121-1,ER-121,energía,er,2048,oficial,0.95,ER-121 tavi 40 ena.
+D121-2,ER-121,energía,es,2047,oficial,0.9,El registro anterior de ER-121 indica 47 celdas disponibles.
+D121-3,ER-121,energía,er,2047,oficial,0.9,ER-121 tavi 47 ena.
+D121-4,ER-121,energía,es,2048,rumor,0.2,Un rumor sobre ER-121 menciona 59 celdas disponibles.
+D121-5,ER-121,energía,es,2048,archivo,0.7,"El archivo de ER-121 registra actividades de energía, sin inventario adicional."
+D122-0,ER-122,transporte,es,2048,oficial,0.95,El registro oficial de ER-122 confirma 29 vehículos disponibles.
+D122-1,ER-122,transporte,er,2048,oficial,0.95,ER-122 nora 29 ena.
+D122-2,ER-122,transporte,es,2047,oficial,0.9,El registro anterior de ER-122 indica 36 vehículos disponibles.
+D122-3,ER-122,transporte,er,2047,oficial,0.9,ER-122 nora 36 ena.
+D122-4,ER-122,transporte,es,2048,rumor,0.2,Un rumor sobre ER-122 menciona 48 vehículos disponibles.
+D122-5,ER-122,transporte,es,2048,archivo,0.7,"El archivo de ER-122 registra actividades de transporte, sin inventario adicional."
+D123-0,ER-123,archivo,es,2048,oficial,0.95,El registro oficial de ER-123 confirma 77 tablillas disponibles.
+D123-1,ER-123,archivo,er,2048,oficial,0.95,ER-123 kiri 77 ena.
+D123-2,ER-123,archivo,es,2047,oficial,0.9,El registro anterior de ER-123 indica 84 tablillas disponibles.
+D123-3,ER-123,archivo,er,2047,oficial,0.9,ER-123 kiri 84 ena.
+D123-4,ER-123,archivo,es,2048,rumor,0.2,Un rumor sobre ER-123 menciona 96 tablillas disponibles.
+D123-5,ER-123,archivo,es,2048,archivo,0.7,"El archivo de ER-123 registra actividades de archivo, sin inventario adicional."
+D124-0,ER-124,agua,es,2048,oficial,0.95,El registro oficial de ER-124 confirma 75 depósitos disponibles.
+D124-1,ER-124,agua,er,2048,oficial,0.95,ER-124 mura 75 ena.
+D124-2,ER-124,agua,es,2047,oficial,0.9,El registro anterior de ER-124 indica 82 depósitos disponibles.
+D124-3,ER-124,agua,er,2047,oficial,0.9,ER-124 mura 82 ena.
+D124-4,ER-124,agua,es,2048,rumor,0.2,Un rumor sobre ER-124 menciona 94 depósitos disponibles.
+D124-5,ER-124,agua,es,2048,archivo,0.7,"El archivo de ER-124 registra actividades de agua, sin inventario adicional."
+D125-0,ER-125,agricultura,es,2048,oficial,0.95,El registro oficial de ER-125 confirma 23 semillas disponibles.
+D125-1,ER-125,agricultura,er,2048,oficial,0.95,ER-125 sava 23 ena.
+D125-2,ER-125,agricultura,es,2047,oficial,0.9,El registro anterior de ER-125 indica 30 semillas disponibles.
+D125-3,ER-125,agricultura,er,2047,oficial,0.9,ER-125 sava 30 ena.
+D125-4,ER-125,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-125 menciona 42 semillas disponibles.
+D125-5,ER-125,agricultura,es,2048,archivo,0.7,"El archivo de ER-125 registra actividades de agricultura, sin inventario adicional."
+D126-0,ER-126,energía,es,2048,oficial,0.95,El registro oficial de ER-126 confirma 18 celdas disponibles.
+D126-1,ER-126,energía,er,2048,oficial,0.95,ER-126 tavi 18 ena.
+D126-2,ER-126,energía,es,2047,oficial,0.9,El registro anterior de ER-126 indica 25 celdas disponibles.
+D126-3,ER-126,energía,er,2047,oficial,0.9,ER-126 tavi 25 ena.
+D126-4,ER-126,energía,es,2048,rumor,0.2,Un rumor sobre ER-126 menciona 37 celdas disponibles.
+D126-5,ER-126,energía,es,2048,archivo,0.7,"El archivo de ER-126 registra actividades de energía, sin inventario adicional."
+D127-0,ER-127,transporte,es,2048,oficial,0.95,El registro oficial de ER-127 confirma 26 vehículos disponibles.
+D127-1,ER-127,transporte,er,2048,oficial,0.95,ER-127 nora 26 ena.
+D127-2,ER-127,transporte,es,2047,oficial,0.9,El registro anterior de ER-127 indica 33 vehículos disponibles.
+D127-3,ER-127,transporte,er,2047,oficial,0.9,ER-127 nora 33 ena.
+D127-4,ER-127,transporte,es,2048,rumor,0.2,Un rumor sobre ER-127 menciona 45 vehículos disponibles.
+D127-5,ER-127,transporte,es,2048,archivo,0.7,"El archivo de ER-127 registra actividades de transporte, sin inventario adicional."
+D128-0,ER-128,archivo,es,2048,oficial,0.95,El registro oficial de ER-128 confirma 31 tablillas disponibles.
+D128-1,ER-128,archivo,er,2048,oficial,0.95,ER-128 kiri 31 ena.
+D128-2,ER-128,archivo,es,2047,oficial,0.9,El registro anterior de ER-128 indica 38 tablillas disponibles.
+D128-3,ER-128,archivo,er,2047,oficial,0.9,ER-128 kiri 38 ena.
+D128-4,ER-128,archivo,es,2048,rumor,0.2,Un rumor sobre ER-128 menciona 50 tablillas disponibles.
+D128-5,ER-128,archivo,es,2048,archivo,0.7,"El archivo de ER-128 registra actividades de archivo, sin inventario adicional."
+D129-0,ER-129,agua,es,2048,oficial,0.95,El registro oficial de ER-129 confirma 92 depósitos disponibles.
+D129-1,ER-129,agua,er,2048,oficial,0.95,ER-129 mura 92 ena.
+D129-2,ER-129,agua,es,2047,oficial,0.9,El registro anterior de ER-129 indica 99 depósitos disponibles.
+D129-3,ER-129,agua,er,2047,oficial,0.9,ER-129 mura 99 ena.
+D129-4,ER-129,agua,es,2048,rumor,0.2,Un rumor sobre ER-129 menciona 111 depósitos disponibles.
+D129-5,ER-129,agua,es,2048,archivo,0.7,"El archivo de ER-129 registra actividades de agua, sin inventario adicional."
+D130-0,ER-130,agricultura,es,2048,oficial,0.95,El registro oficial de ER-130 confirma 32 semillas disponibles.
+D130-1,ER-130,agricultura,er,2048,oficial,0.95,ER-130 sava 32 ena.
+D130-2,ER-130,agricultura,es,2047,oficial,0.9,El registro anterior de ER-130 indica 39 semillas disponibles.
+D130-3,ER-130,agricultura,er,2047,oficial,0.9,ER-130 sava 39 ena.
+D130-4,ER-130,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-130 menciona 51 semillas disponibles.
+D130-5,ER-130,agricultura,es,2048,archivo,0.7,"El archivo de ER-130 registra actividades de agricultura, sin inventario adicional."
+D131-0,ER-131,energía,es,2048,oficial,0.95,El registro oficial de ER-131 confirma 66 celdas disponibles.
+D131-1,ER-131,energía,er,2048,oficial,0.95,ER-131 tavi 66 ena.
+D131-2,ER-131,energía,es,2047,oficial,0.9,El registro anterior de ER-131 indica 73 celdas disponibles.
+D131-3,ER-131,energía,er,2047,oficial,0.9,ER-131 tavi 73 ena.
+D131-4,ER-131,energía,es,2048,rumor,0.2,Un rumor sobre ER-131 menciona 85 celdas disponibles.
+D131-5,ER-131,energía,es,2048,archivo,0.7,"El archivo de ER-131 registra actividades de energía, sin inventario adicional."
+D132-0,ER-132,transporte,es,2048,oficial,0.95,El registro oficial de ER-132 confirma 88 vehículos disponibles.
+D132-1,ER-132,transporte,er,2048,oficial,0.95,ER-132 nora 88 ena.
+D132-2,ER-132,transporte,es,2047,oficial,0.9,El registro anterior de ER-132 indica 95 vehículos disponibles.
+D132-3,ER-132,transporte,er,2047,oficial,0.9,ER-132 nora 95 ena.
+D132-4,ER-132,transporte,es,2048,rumor,0.2,Un rumor sobre ER-132 menciona 107 vehículos disponibles.
+D132-5,ER-132,transporte,es,2048,archivo,0.7,"El archivo de ER-132 registra actividades de transporte, sin inventario adicional."
+D133-0,ER-133,archivo,es,2048,oficial,0.95,El registro oficial de ER-133 confirma 20 tablillas disponibles.
+D133-1,ER-133,archivo,er,2048,oficial,0.95,ER-133 kiri 20 ena.
+D133-2,ER-133,archivo,es,2047,oficial,0.9,El registro anterior de ER-133 indica 27 tablillas disponibles.
+D133-3,ER-133,archivo,er,2047,oficial,0.9,ER-133 kiri 27 ena.
+D133-4,ER-133,archivo,es,2048,rumor,0.2,Un rumor sobre ER-133 menciona 39 tablillas disponibles.
+D133-5,ER-133,archivo,es,2048,archivo,0.7,"El archivo de ER-133 registra actividades de archivo, sin inventario adicional."
+D134-0,ER-134,agua,es,2048,oficial,0.95,El registro oficial de ER-134 confirma 61 depósitos disponibles.
+D134-1,ER-134,agua,er,2048,oficial,0.95,ER-134 mura 61 ena.
+D134-2,ER-134,agua,es,2047,oficial,0.9,El registro anterior de ER-134 indica 68 depósitos disponibles.
+D134-3,ER-134,agua,er,2047,oficial,0.9,ER-134 mura 68 ena.
+D134-4,ER-134,agua,es,2048,rumor,0.2,Un rumor sobre ER-134 menciona 80 depósitos disponibles.
+D134-5,ER-134,agua,es,2048,archivo,0.7,"El archivo de ER-134 registra actividades de agua, sin inventario adicional."
+D135-0,ER-135,agricultura,es,2048,oficial,0.95,El registro oficial de ER-135 confirma 60 semillas disponibles.
+D135-1,ER-135,agricultura,er,2048,oficial,0.95,ER-135 sava 60 ena.
+D135-2,ER-135,agricultura,es,2047,oficial,0.9,El registro anterior de ER-135 indica 67 semillas disponibles.
+D135-3,ER-135,agricultura,er,2047,oficial,0.9,ER-135 sava 67 ena.
+D135-4,ER-135,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-135 menciona 79 semillas disponibles.
+D135-5,ER-135,agricultura,es,2048,archivo,0.7,"El archivo de ER-135 registra actividades de agricultura, sin inventario adicional."
+D136-0,ER-136,energía,es,2048,oficial,0.95,El registro oficial de ER-136 confirma 88 celdas disponibles.
+D136-1,ER-136,energía,er,2048,oficial,0.95,ER-136 tavi 88 ena.
+D136-2,ER-136,energía,es,2047,oficial,0.9,El registro anterior de ER-136 indica 95 celdas disponibles.
+D136-3,ER-136,energía,er,2047,oficial,0.9,ER-136 tavi 95 ena.
+D136-4,ER-136,energía,es,2048,rumor,0.2,Un rumor sobre ER-136 menciona 107 celdas disponibles.
+D136-5,ER-136,energía,es,2048,archivo,0.7,"El archivo de ER-136 registra actividades de energía, sin inventario adicional."
+D137-0,ER-137,transporte,es,2048,oficial,0.95,El registro oficial de ER-137 confirma 71 vehículos disponibles.
+D137-1,ER-137,transporte,er,2048,oficial,0.95,ER-137 nora 71 ena.
+D137-2,ER-137,transporte,es,2047,oficial,0.9,El registro anterior de ER-137 indica 78 vehículos disponibles.
+D137-3,ER-137,transporte,er,2047,oficial,0.9,ER-137 nora 78 ena.
+D137-4,ER-137,transporte,es,2048,rumor,0.2,Un rumor sobre ER-137 menciona 90 vehículos disponibles.
+D137-5,ER-137,transporte,es,2048,archivo,0.7,"El archivo de ER-137 registra actividades de transporte, sin inventario adicional."
+D138-0,ER-138,archivo,es,2048,oficial,0.95,El registro oficial de ER-138 confirma 79 tablillas disponibles.
+D138-1,ER-138,archivo,er,2048,oficial,0.95,ER-138 kiri 79 ena.
+D138-2,ER-138,archivo,es,2047,oficial,0.9,El registro anterior de ER-138 indica 86 tablillas disponibles.
+D138-3,ER-138,archivo,er,2047,oficial,0.9,ER-138 kiri 86 ena.
+D138-4,ER-138,archivo,es,2048,rumor,0.2,Un rumor sobre ER-138 menciona 98 tablillas disponibles.
+D138-5,ER-138,archivo,es,2048,archivo,0.7,"El archivo de ER-138 registra actividades de archivo, sin inventario adicional."
+D139-0,ER-139,agua,es,2048,oficial,0.95,El registro oficial de ER-139 confirma 44 depósitos disponibles.
+D139-1,ER-139,agua,er,2048,oficial,0.95,ER-139 mura 44 ena.
+D139-2,ER-139,agua,es,2047,oficial,0.9,El registro anterior de ER-139 indica 51 depósitos disponibles.
+D139-3,ER-139,agua,er,2047,oficial,0.9,ER-139 mura 51 ena.
+D139-4,ER-139,agua,es,2048,rumor,0.2,Un rumor sobre ER-139 menciona 63 depósitos disponibles.
+D139-5,ER-139,agua,es,2048,archivo,0.7,"El archivo de ER-139 registra actividades de agua, sin inventario adicional."
+D140-0,ER-140,agricultura,es,2048,oficial,0.95,El registro oficial de ER-140 confirma 82 semillas disponibles.
+D140-1,ER-140,agricultura,er,2048,oficial,0.95,ER-140 sava 82 ena.
+D140-2,ER-140,agricultura,es,2047,oficial,0.9,El registro anterior de ER-140 indica 89 semillas disponibles.
+D140-3,ER-140,agricultura,er,2047,oficial,0.9,ER-140 sava 89 ena.
+D140-4,ER-140,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-140 menciona 101 semillas disponibles.
+D140-5,ER-140,agricultura,es,2048,archivo,0.7,"El archivo de ER-140 registra actividades de agricultura, sin inventario adicional."
+D141-0,ER-141,energía,es,2048,oficial,0.95,El registro oficial de ER-141 confirma 13 celdas disponibles.
+D141-1,ER-141,energía,er,2048,oficial,0.95,ER-141 tavi 13 ena.
+D141-2,ER-141,energía,es,2047,oficial,0.9,El registro anterior de ER-141 indica 20 celdas disponibles.
+D141-3,ER-141,energía,er,2047,oficial,0.9,ER-141 tavi 20 ena.
+D141-4,ER-141,energía,es,2048,rumor,0.2,Un rumor sobre ER-141 menciona 32 celdas disponibles.
+D141-5,ER-141,energía,es,2048,archivo,0.7,"El archivo de ER-141 registra actividades de energía, sin inventario adicional."
+D142-0,ER-142,transporte,es,2048,oficial,0.95,El registro oficial de ER-142 confirma 26 vehículos disponibles.
+D142-1,ER-142,transporte,er,2048,oficial,0.95,ER-142 nora 26 ena.
+D142-2,ER-142,transporte,es,2047,oficial,0.9,El registro anterior de ER-142 indica 33 vehículos disponibles.
+D142-3,ER-142,transporte,er,2047,oficial,0.9,ER-142 nora 33 ena.
+D142-4,ER-142,transporte,es,2048,rumor,0.2,Un rumor sobre ER-142 menciona 45 vehículos disponibles.
+D142-5,ER-142,transporte,es,2048,archivo,0.7,"El archivo de ER-142 registra actividades de transporte, sin inventario adicional."
+D143-0,ER-143,archivo,es,2048,oficial,0.95,El registro oficial de ER-143 confirma 80 tablillas disponibles.
+D143-1,ER-143,archivo,er,2048,oficial,0.95,ER-143 kiri 80 ena.
+D143-2,ER-143,archivo,es,2047,oficial,0.9,El registro anterior de ER-143 indica 87 tablillas disponibles.
+D143-3,ER-143,archivo,er,2047,oficial,0.9,ER-143 kiri 87 ena.
+D143-4,ER-143,archivo,es,2048,rumor,0.2,Un rumor sobre ER-143 menciona 99 tablillas disponibles.
+D143-5,ER-143,archivo,es,2048,archivo,0.7,"El archivo de ER-143 registra actividades de archivo, sin inventario adicional."
+D144-0,ER-144,agua,es,2048,oficial,0.95,El registro oficial de ER-144 confirma 46 depósitos disponibles.
+D144-1,ER-144,agua,er,2048,oficial,0.95,ER-144 mura 46 ena.
+D144-2,ER-144,agua,es,2047,oficial,0.9,El registro anterior de ER-144 indica 53 depósitos disponibles.
+D144-3,ER-144,agua,er,2047,oficial,0.9,ER-144 mura 53 ena.
+D144-4,ER-144,agua,es,2048,rumor,0.2,Un rumor sobre ER-144 menciona 65 depósitos disponibles.
+D144-5,ER-144,agua,es,2048,archivo,0.7,"El archivo de ER-144 registra actividades de agua, sin inventario adicional."
+D145-0,ER-145,agricultura,es,2048,oficial,0.95,El registro oficial de ER-145 confirma 94 semillas disponibles.
+D145-1,ER-145,agricultura,er,2048,oficial,0.95,ER-145 sava 94 ena.
+D145-2,ER-145,agricultura,es,2047,oficial,0.9,El registro anterior de ER-145 indica 101 semillas disponibles.
+D145-3,ER-145,agricultura,er,2047,oficial,0.9,ER-145 sava 101 ena.
+D145-4,ER-145,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-145 menciona 113 semillas disponibles.
+D145-5,ER-145,agricultura,es,2048,archivo,0.7,"El archivo de ER-145 registra actividades de agricultura, sin inventario adicional."
+D146-0,ER-146,energía,es,2048,oficial,0.95,El registro oficial de ER-146 confirma 55 celdas disponibles.
+D146-1,ER-146,energía,er,2048,oficial,0.95,ER-146 tavi 55 ena.
+D146-2,ER-146,energía,es,2047,oficial,0.9,El registro anterior de ER-146 indica 62 celdas disponibles.
+D146-3,ER-146,energía,er,2047,oficial,0.9,ER-146 tavi 62 ena.
+D146-4,ER-146,energía,es,2048,rumor,0.2,Un rumor sobre ER-146 menciona 74 celdas disponibles.
+D146-5,ER-146,energía,es,2048,archivo,0.7,"El archivo de ER-146 registra actividades de energía, sin inventario adicional."
+D147-0,ER-147,transporte,es,2048,oficial,0.95,El registro oficial de ER-147 confirma 26 vehículos disponibles.
+D147-1,ER-147,transporte,er,2048,oficial,0.95,ER-147 nora 26 ena.
+D147-2,ER-147,transporte,es,2047,oficial,0.9,El registro anterior de ER-147 indica 33 vehículos disponibles.
+D147-3,ER-147,transporte,er,2047,oficial,0.9,ER-147 nora 33 ena.
+D147-4,ER-147,transporte,es,2048,rumor,0.2,Un rumor sobre ER-147 menciona 45 vehículos disponibles.
+D147-5,ER-147,transporte,es,2048,archivo,0.7,"El archivo de ER-147 registra actividades de transporte, sin inventario adicional."
+D148-0,ER-148,archivo,es,2048,oficial,0.95,El registro oficial de ER-148 confirma 49 tablillas disponibles.
+D148-1,ER-148,archivo,er,2048,oficial,0.95,ER-148 kiri 49 ena.
+D148-2,ER-148,archivo,es,2047,oficial,0.9,El registro anterior de ER-148 indica 56 tablillas disponibles.
+D148-3,ER-148,archivo,er,2047,oficial,0.9,ER-148 kiri 56 ena.
+D148-4,ER-148,archivo,es,2048,rumor,0.2,Un rumor sobre ER-148 menciona 68 tablillas disponibles.
+D148-5,ER-148,archivo,es,2048,archivo,0.7,"El archivo de ER-148 registra actividades de archivo, sin inventario adicional."
+D149-0,ER-149,agua,es,2048,oficial,0.95,El registro oficial de ER-149 confirma 67 depósitos disponibles.
+D149-1,ER-149,agua,er,2048,oficial,0.95,ER-149 mura 67 ena.
+D149-2,ER-149,agua,es,2047,oficial,0.9,El registro anterior de ER-149 indica 74 depósitos disponibles.
+D149-3,ER-149,agua,er,2047,oficial,0.9,ER-149 mura 74 ena.
+D149-4,ER-149,agua,es,2048,rumor,0.2,Un rumor sobre ER-149 menciona 86 depósitos disponibles.
+D149-5,ER-149,agua,es,2048,archivo,0.7,"El archivo de ER-149 registra actividades de agua, sin inventario adicional."
+D150-0,ER-150,agricultura,es,2048,oficial,0.95,El registro oficial de ER-150 confirma 32 semillas disponibles.
+D150-1,ER-150,agricultura,er,2048,oficial,0.95,ER-150 sava 32 ena.
+D150-2,ER-150,agricultura,es,2047,oficial,0.9,El registro anterior de ER-150 indica 39 semillas disponibles.
+D150-3,ER-150,agricultura,er,2047,oficial,0.9,ER-150 sava 39 ena.
+D150-4,ER-150,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-150 menciona 51 semillas disponibles.
+D150-5,ER-150,agricultura,es,2048,archivo,0.7,"El archivo de ER-150 registra actividades de agricultura, sin inventario adicional."
+D151-0,ER-151,energía,es,2048,oficial,0.95,El registro oficial de ER-151 confirma 70 celdas disponibles.
+D151-1,ER-151,energía,er,2048,oficial,0.95,ER-151 tavi 70 ena.
+D151-2,ER-151,energía,es,2047,oficial,0.9,El registro anterior de ER-151 indica 77 celdas disponibles.
+D151-3,ER-151,energía,er,2047,oficial,0.9,ER-151 tavi 77 ena.
+D151-4,ER-151,energía,es,2048,rumor,0.2,Un rumor sobre ER-151 menciona 89 celdas disponibles.
+D151-5,ER-151,energía,es,2048,archivo,0.7,"El archivo de ER-151 registra actividades de energía, sin inventario adicional."
+D152-0,ER-152,transporte,es,2048,oficial,0.95,El registro oficial de ER-152 confirma 12 vehículos disponibles.
+D152-1,ER-152,transporte,er,2048,oficial,0.95,ER-152 nora 12 ena.
+D152-2,ER-152,transporte,es,2047,oficial,0.9,El registro anterior de ER-152 indica 19 vehículos disponibles.
+D152-3,ER-152,transporte,er,2047,oficial,0.9,ER-152 nora 19 ena.
+D152-4,ER-152,transporte,es,2048,rumor,0.2,Un rumor sobre ER-152 menciona 31 vehículos disponibles.
+D152-5,ER-152,transporte,es,2048,archivo,0.7,"El archivo de ER-152 registra actividades de transporte, sin inventario adicional."
+D153-0,ER-153,archivo,es,2048,oficial,0.95,El registro oficial de ER-153 confirma 45 tablillas disponibles.
+D153-1,ER-153,archivo,er,2048,oficial,0.95,ER-153 kiri 45 ena.
+D153-2,ER-153,archivo,es,2047,oficial,0.9,El registro anterior de ER-153 indica 52 tablillas disponibles.
+D153-3,ER-153,archivo,er,2047,oficial,0.9,ER-153 kiri 52 ena.
+D153-4,ER-153,archivo,es,2048,rumor,0.2,Un rumor sobre ER-153 menciona 64 tablillas disponibles.
+D153-5,ER-153,archivo,es,2048,archivo,0.7,"El archivo de ER-153 registra actividades de archivo, sin inventario adicional."
+D154-0,ER-154,agua,es,2048,oficial,0.95,El registro oficial de ER-154 confirma 76 depósitos disponibles.
+D154-1,ER-154,agua,er,2048,oficial,0.95,ER-154 mura 76 ena.
+D154-2,ER-154,agua,es,2047,oficial,0.9,El registro anterior de ER-154 indica 83 depósitos disponibles.
+D154-3,ER-154,agua,er,2047,oficial,0.9,ER-154 mura 83 ena.
+D154-4,ER-154,agua,es,2048,rumor,0.2,Un rumor sobre ER-154 menciona 95 depósitos disponibles.
+D154-5,ER-154,agua,es,2048,archivo,0.7,"El archivo de ER-154 registra actividades de agua, sin inventario adicional."
+D155-0,ER-155,agricultura,es,2048,oficial,0.95,El registro oficial de ER-155 confirma 34 semillas disponibles.
+D155-1,ER-155,agricultura,er,2048,oficial,0.95,ER-155 sava 34 ena.
+D155-2,ER-155,agricultura,es,2047,oficial,0.9,El registro anterior de ER-155 indica 41 semillas disponibles.
+D155-3,ER-155,agricultura,er,2047,oficial,0.9,ER-155 sava 41 ena.
+D155-4,ER-155,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-155 menciona 53 semillas disponibles.
+D155-5,ER-155,agricultura,es,2048,archivo,0.7,"El archivo de ER-155 registra actividades de agricultura, sin inventario adicional."
+D156-0,ER-156,energía,es,2048,oficial,0.95,El registro oficial de ER-156 confirma 76 celdas disponibles.
+D156-1,ER-156,energía,er,2048,oficial,0.95,ER-156 tavi 76 ena.
+D156-2,ER-156,energía,es,2047,oficial,0.9,El registro anterior de ER-156 indica 83 celdas disponibles.
+D156-3,ER-156,energía,er,2047,oficial,0.9,ER-156 tavi 83 ena.
+D156-4,ER-156,energía,es,2048,rumor,0.2,Un rumor sobre ER-156 menciona 95 celdas disponibles.
+D156-5,ER-156,energía,es,2048,archivo,0.7,"El archivo de ER-156 registra actividades de energía, sin inventario adicional."
+D157-0,ER-157,transporte,es,2048,oficial,0.95,El registro oficial de ER-157 confirma 25 vehículos disponibles.
+D157-1,ER-157,transporte,er,2048,oficial,0.95,ER-157 nora 25 ena.
+D157-2,ER-157,transporte,es,2047,oficial,0.9,El registro anterior de ER-157 indica 32 vehículos disponibles.
+D157-3,ER-157,transporte,er,2047,oficial,0.9,ER-157 nora 32 ena.
+D157-4,ER-157,transporte,es,2048,rumor,0.2,Un rumor sobre ER-157 menciona 44 vehículos disponibles.
+D157-5,ER-157,transporte,es,2048,archivo,0.7,"El archivo de ER-157 registra actividades de transporte, sin inventario adicional."
+D158-0,ER-158,archivo,es,2048,oficial,0.95,El registro oficial de ER-158 confirma 92 tablillas disponibles.
+D158-1,ER-158,archivo,er,2048,oficial,0.95,ER-158 kiri 92 ena.
+D158-2,ER-158,archivo,es,2047,oficial,0.9,El registro anterior de ER-158 indica 99 tablillas disponibles.
+D158-3,ER-158,archivo,er,2047,oficial,0.9,ER-158 kiri 99 ena.
+D158-4,ER-158,archivo,es,2048,rumor,0.2,Un rumor sobre ER-158 menciona 111 tablillas disponibles.
+D158-5,ER-158,archivo,es,2048,archivo,0.7,"El archivo de ER-158 registra actividades de archivo, sin inventario adicional."
+D159-0,ER-159,agua,es,2048,oficial,0.95,El registro oficial de ER-159 confirma 50 depósitos disponibles.
+D159-1,ER-159,agua,er,2048,oficial,0.95,ER-159 mura 50 ena.
+D159-2,ER-159,agua,es,2047,oficial,0.9,El registro anterior de ER-159 indica 57 depósitos disponibles.
+D159-3,ER-159,agua,er,2047,oficial,0.9,ER-159 mura 57 ena.
+D159-4,ER-159,agua,es,2048,rumor,0.2,Un rumor sobre ER-159 menciona 69 depósitos disponibles.
+D159-5,ER-159,agua,es,2048,archivo,0.7,"El archivo de ER-159 registra actividades de agua, sin inventario adicional."
+D160-0,ER-160,agricultura,es,2048,oficial,0.95,El registro oficial de ER-160 confirma 93 semillas disponibles.
+D160-1,ER-160,agricultura,er,2048,oficial,0.95,ER-160 sava 93 ena.
+D160-2,ER-160,agricultura,es,2047,oficial,0.9,El registro anterior de ER-160 indica 100 semillas disponibles.
+D160-3,ER-160,agricultura,er,2047,oficial,0.9,ER-160 sava 100 ena.
+D160-4,ER-160,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-160 menciona 112 semillas disponibles.
+D160-5,ER-160,agricultura,es,2048,archivo,0.7,"El archivo de ER-160 registra actividades de agricultura, sin inventario adicional."
+D161-0,ER-161,energía,es,2048,oficial,0.95,El registro oficial de ER-161 confirma 76 celdas disponibles.
+D161-1,ER-161,energía,er,2048,oficial,0.95,ER-161 tavi 76 ena.
+D161-2,ER-161,energía,es,2047,oficial,0.9,El registro anterior de ER-161 indica 83 celdas disponibles.
+D161-3,ER-161,energía,er,2047,oficial,0.9,ER-161 tavi 83 ena.
+D161-4,ER-161,energía,es,2048,rumor,0.2,Un rumor sobre ER-161 menciona 95 celdas disponibles.
+D161-5,ER-161,energía,es,2048,archivo,0.7,"El archivo de ER-161 registra actividades de energía, sin inventario adicional."
+D162-0,ER-162,transporte,es,2048,oficial,0.95,El registro oficial de ER-162 confirma 89 vehículos disponibles.
+D162-1,ER-162,transporte,er,2048,oficial,0.95,ER-162 nora 89 ena.
+D162-2,ER-162,transporte,es,2047,oficial,0.9,El registro anterior de ER-162 indica 96 vehículos disponibles.
+D162-3,ER-162,transporte,er,2047,oficial,0.9,ER-162 nora 96 ena.
+D162-4,ER-162,transporte,es,2048,rumor,0.2,Un rumor sobre ER-162 menciona 108 vehículos disponibles.
+D162-5,ER-162,transporte,es,2048,archivo,0.7,"El archivo de ER-162 registra actividades de transporte, sin inventario adicional."
+D163-0,ER-163,archivo,es,2048,oficial,0.95,El registro oficial de ER-163 confirma 37 tablillas disponibles.
+D163-1,ER-163,archivo,er,2048,oficial,0.95,ER-163 kiri 37 ena.
+D163-2,ER-163,archivo,es,2047,oficial,0.9,El registro anterior de ER-163 indica 44 tablillas disponibles.
+D163-3,ER-163,archivo,er,2047,oficial,0.9,ER-163 kiri 44 ena.
+D163-4,ER-163,archivo,es,2048,rumor,0.2,Un rumor sobre ER-163 menciona 56 tablillas disponibles.
+D163-5,ER-163,archivo,es,2048,archivo,0.7,"El archivo de ER-163 registra actividades de archivo, sin inventario adicional."
+D164-0,ER-164,agua,es,2048,oficial,0.95,El registro oficial de ER-164 confirma 31 depósitos disponibles.
+D164-1,ER-164,agua,er,2048,oficial,0.95,ER-164 mura 31 ena.
+D164-2,ER-164,agua,es,2047,oficial,0.9,El registro anterior de ER-164 indica 38 depósitos disponibles.
+D164-3,ER-164,agua,er,2047,oficial,0.9,ER-164 mura 38 ena.
+D164-4,ER-164,agua,es,2048,rumor,0.2,Un rumor sobre ER-164 menciona 50 depósitos disponibles.
+D164-5,ER-164,agua,es,2048,archivo,0.7,"El archivo de ER-164 registra actividades de agua, sin inventario adicional."
+D165-0,ER-165,agricultura,es,2048,oficial,0.95,El registro oficial de ER-165 confirma 59 semillas disponibles.
+D165-1,ER-165,agricultura,er,2048,oficial,0.95,ER-165 sava 59 ena.
+D165-2,ER-165,agricultura,es,2047,oficial,0.9,El registro anterior de ER-165 indica 66 semillas disponibles.
+D165-3,ER-165,agricultura,er,2047,oficial,0.9,ER-165 sava 66 ena.
+D165-4,ER-165,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-165 menciona 78 semillas disponibles.
+D165-5,ER-165,agricultura,es,2048,archivo,0.7,"El archivo de ER-165 registra actividades de agricultura, sin inventario adicional."
+D166-0,ER-166,energía,es,2048,oficial,0.95,El registro oficial de ER-166 confirma 32 celdas disponibles.
+D166-1,ER-166,energía,er,2048,oficial,0.95,ER-166 tavi 32 ena.
+D166-2,ER-166,energía,es,2047,oficial,0.9,El registro anterior de ER-166 indica 39 celdas disponibles.
+D166-3,ER-166,energía,er,2047,oficial,0.9,ER-166 tavi 39 ena.
+D166-4,ER-166,energía,es,2048,rumor,0.2,Un rumor sobre ER-166 menciona 51 celdas disponibles.
+D166-5,ER-166,energía,es,2048,archivo,0.7,"El archivo de ER-166 registra actividades de energía, sin inventario adicional."
+D167-0,ER-167,transporte,es,2048,oficial,0.95,El registro oficial de ER-167 confirma 81 vehículos disponibles.
+D167-1,ER-167,transporte,er,2048,oficial,0.95,ER-167 nora 81 ena.
+D167-2,ER-167,transporte,es,2047,oficial,0.9,El registro anterior de ER-167 indica 88 vehículos disponibles.
+D167-3,ER-167,transporte,er,2047,oficial,0.9,ER-167 nora 88 ena.
+D167-4,ER-167,transporte,es,2048,rumor,0.2,Un rumor sobre ER-167 menciona 100 vehículos disponibles.
+D167-5,ER-167,transporte,es,2048,archivo,0.7,"El archivo de ER-167 registra actividades de transporte, sin inventario adicional."
+D168-0,ER-168,archivo,es,2048,oficial,0.95,El registro oficial de ER-168 confirma 79 tablillas disponibles.
+D168-1,ER-168,archivo,er,2048,oficial,0.95,ER-168 kiri 79 ena.
+D168-2,ER-168,archivo,es,2047,oficial,0.9,El registro anterior de ER-168 indica 86 tablillas disponibles.
+D168-3,ER-168,archivo,er,2047,oficial,0.9,ER-168 kiri 86 ena.
+D168-4,ER-168,archivo,es,2048,rumor,0.2,Un rumor sobre ER-168 menciona 98 tablillas disponibles.
+D168-5,ER-168,archivo,es,2048,archivo,0.7,"El archivo de ER-168 registra actividades de archivo, sin inventario adicional."
+D169-0,ER-169,agua,es,2048,oficial,0.95,El registro oficial de ER-169 confirma 12 depósitos disponibles.
+D169-1,ER-169,agua,er,2048,oficial,0.95,ER-169 mura 12 ena.
+D169-2,ER-169,agua,es,2047,oficial,0.9,El registro anterior de ER-169 indica 19 depósitos disponibles.
+D169-3,ER-169,agua,er,2047,oficial,0.9,ER-169 mura 19 ena.
+D169-4,ER-169,agua,es,2048,rumor,0.2,Un rumor sobre ER-169 menciona 31 depósitos disponibles.
+D169-5,ER-169,agua,es,2048,archivo,0.7,"El archivo de ER-169 registra actividades de agua, sin inventario adicional."
+D170-0,ER-170,agricultura,es,2048,oficial,0.95,El registro oficial de ER-170 confirma 88 semillas disponibles.
+D170-1,ER-170,agricultura,er,2048,oficial,0.95,ER-170 sava 88 ena.
+D170-2,ER-170,agricultura,es,2047,oficial,0.9,El registro anterior de ER-170 indica 95 semillas disponibles.
+D170-3,ER-170,agricultura,er,2047,oficial,0.9,ER-170 sava 95 ena.
+D170-4,ER-170,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-170 menciona 107 semillas disponibles.
+D170-5,ER-170,agricultura,es,2048,archivo,0.7,"El archivo de ER-170 registra actividades de agricultura, sin inventario adicional."
+D171-0,ER-171,energía,es,2048,oficial,0.95,El registro oficial de ER-171 confirma 53 celdas disponibles.
+D171-1,ER-171,energía,er,2048,oficial,0.95,ER-171 tavi 53 ena.
+D171-2,ER-171,energía,es,2047,oficial,0.9,El registro anterior de ER-171 indica 60 celdas disponibles.
+D171-3,ER-171,energía,er,2047,oficial,0.9,ER-171 tavi 60 ena.
+D171-4,ER-171,energía,es,2048,rumor,0.2,Un rumor sobre ER-171 menciona 72 celdas disponibles.
+D171-5,ER-171,energía,es,2048,archivo,0.7,"El archivo de ER-171 registra actividades de energía, sin inventario adicional."
+D172-0,ER-172,transporte,es,2048,oficial,0.95,El registro oficial de ER-172 confirma 74 vehículos disponibles.
+D172-1,ER-172,transporte,er,2048,oficial,0.95,ER-172 nora 74 ena.
+D172-2,ER-172,transporte,es,2047,oficial,0.9,El registro anterior de ER-172 indica 81 vehículos disponibles.
+D172-3,ER-172,transporte,er,2047,oficial,0.9,ER-172 nora 81 ena.
+D172-4,ER-172,transporte,es,2048,rumor,0.2,Un rumor sobre ER-172 menciona 93 vehículos disponibles.
+D172-5,ER-172,transporte,es,2048,archivo,0.7,"El archivo de ER-172 registra actividades de transporte, sin inventario adicional."
+D173-0,ER-173,archivo,es,2048,oficial,0.95,El registro oficial de ER-173 confirma 14 tablillas disponibles.
+D173-1,ER-173,archivo,er,2048,oficial,0.95,ER-173 kiri 14 ena.
+D173-2,ER-173,archivo,es,2047,oficial,0.9,El registro anterior de ER-173 indica 21 tablillas disponibles.
+D173-3,ER-173,archivo,er,2047,oficial,0.9,ER-173 kiri 21 ena.
+D173-4,ER-173,archivo,es,2048,rumor,0.2,Un rumor sobre ER-173 menciona 33 tablillas disponibles.
+D173-5,ER-173,archivo,es,2048,archivo,0.7,"El archivo de ER-173 registra actividades de archivo, sin inventario adicional."
+D174-0,ER-174,agua,es,2048,oficial,0.95,El registro oficial de ER-174 confirma 26 depósitos disponibles.
+D174-1,ER-174,agua,er,2048,oficial,0.95,ER-174 mura 26 ena.
+D174-2,ER-174,agua,es,2047,oficial,0.9,El registro anterior de ER-174 indica 33 depósitos disponibles.
+D174-3,ER-174,agua,er,2047,oficial,0.9,ER-174 mura 33 ena.
+D174-4,ER-174,agua,es,2048,rumor,0.2,Un rumor sobre ER-174 menciona 45 depósitos disponibles.
+D174-5,ER-174,agua,es,2048,archivo,0.7,"El archivo de ER-174 registra actividades de agua, sin inventario adicional."
+D175-0,ER-175,agricultura,es,2048,oficial,0.95,El registro oficial de ER-175 confirma 58 semillas disponibles.
+D175-1,ER-175,agricultura,er,2048,oficial,0.95,ER-175 sava 58 ena.
+D175-2,ER-175,agricultura,es,2047,oficial,0.9,El registro anterior de ER-175 indica 65 semillas disponibles.
+D175-3,ER-175,agricultura,er,2047,oficial,0.9,ER-175 sava 65 ena.
+D175-4,ER-175,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-175 menciona 77 semillas disponibles.
+D175-5,ER-175,agricultura,es,2048,archivo,0.7,"El archivo de ER-175 registra actividades de agricultura, sin inventario adicional."
+D176-0,ER-176,energía,es,2048,oficial,0.95,El registro oficial de ER-176 confirma 51 celdas disponibles.
+D176-1,ER-176,energía,er,2048,oficial,0.95,ER-176 tavi 51 ena.
+D176-2,ER-176,energía,es,2047,oficial,0.9,El registro anterior de ER-176 indica 58 celdas disponibles.
+D176-3,ER-176,energía,er,2047,oficial,0.9,ER-176 tavi 58 ena.
+D176-4,ER-176,energía,es,2048,rumor,0.2,Un rumor sobre ER-176 menciona 70 celdas disponibles.
+D176-5,ER-176,energía,es,2048,archivo,0.7,"El archivo de ER-176 registra actividades de energía, sin inventario adicional."
+D177-0,ER-177,transporte,es,2048,oficial,0.95,El registro oficial de ER-177 confirma 42 vehículos disponibles.
+D177-1,ER-177,transporte,er,2048,oficial,0.95,ER-177 nora 42 ena.
+D177-2,ER-177,transporte,es,2047,oficial,0.9,El registro anterior de ER-177 indica 49 vehículos disponibles.
+D177-3,ER-177,transporte,er,2047,oficial,0.9,ER-177 nora 49 ena.
+D177-4,ER-177,transporte,es,2048,rumor,0.2,Un rumor sobre ER-177 menciona 61 vehículos disponibles.
+D177-5,ER-177,transporte,es,2048,archivo,0.7,"El archivo de ER-177 registra actividades de transporte, sin inventario adicional."
+D178-0,ER-178,archivo,es,2048,oficial,0.95,El registro oficial de ER-178 confirma 19 tablillas disponibles.
+D178-1,ER-178,archivo,er,2048,oficial,0.95,ER-178 kiri 19 ena.
+D178-2,ER-178,archivo,es,2047,oficial,0.9,El registro anterior de ER-178 indica 26 tablillas disponibles.
+D178-3,ER-178,archivo,er,2047,oficial,0.9,ER-178 kiri 26 ena.
+D178-4,ER-178,archivo,es,2048,rumor,0.2,Un rumor sobre ER-178 menciona 38 tablillas disponibles.
+D178-5,ER-178,archivo,es,2048,archivo,0.7,"El archivo de ER-178 registra actividades de archivo, sin inventario adicional."
+D179-0,ER-179,agua,es,2048,oficial,0.95,El registro oficial de ER-179 confirma 42 depósitos disponibles.
+D179-1,ER-179,agua,er,2048,oficial,0.95,ER-179 mura 42 ena.
+D179-2,ER-179,agua,es,2047,oficial,0.9,El registro anterior de ER-179 indica 49 depósitos disponibles.
+D179-3,ER-179,agua,er,2047,oficial,0.9,ER-179 mura 49 ena.
+D179-4,ER-179,agua,es,2048,rumor,0.2,Un rumor sobre ER-179 menciona 61 depósitos disponibles.
+D179-5,ER-179,agua,es,2048,archivo,0.7,"El archivo de ER-179 registra actividades de agua, sin inventario adicional."
+D180-0,ER-180,agricultura,es,2048,oficial,0.95,El registro oficial de ER-180 confirma 84 semillas disponibles.
+D180-1,ER-180,agricultura,er,2048,oficial,0.95,ER-180 sava 84 ena.
+D180-2,ER-180,agricultura,es,2047,oficial,0.9,El registro anterior de ER-180 indica 91 semillas disponibles.
+D180-3,ER-180,agricultura,er,2047,oficial,0.9,ER-180 sava 91 ena.
+D180-4,ER-180,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-180 menciona 103 semillas disponibles.
+D180-5,ER-180,agricultura,es,2048,archivo,0.7,"El archivo de ER-180 registra actividades de agricultura, sin inventario adicional."
+D181-0,ER-181,energía,es,2048,oficial,0.95,El registro oficial de ER-181 confirma 22 celdas disponibles.
+D181-1,ER-181,energía,er,2048,oficial,0.95,ER-181 tavi 22 ena.
+D181-2,ER-181,energía,es,2047,oficial,0.9,El registro anterior de ER-181 indica 29 celdas disponibles.
+D181-3,ER-181,energía,er,2047,oficial,0.9,ER-181 tavi 29 ena.
+D181-4,ER-181,energía,es,2048,rumor,0.2,Un rumor sobre ER-181 menciona 41 celdas disponibles.
+D181-5,ER-181,energía,es,2048,archivo,0.7,"El archivo de ER-181 registra actividades de energía, sin inventario adicional."
+D182-0,ER-182,transporte,es,2048,oficial,0.95,El registro oficial de ER-182 confirma 22 vehículos disponibles.
+D182-1,ER-182,transporte,er,2048,oficial,0.95,ER-182 nora 22 ena.
+D182-2,ER-182,transporte,es,2047,oficial,0.9,El registro anterior de ER-182 indica 29 vehículos disponibles.
+D182-3,ER-182,transporte,er,2047,oficial,0.9,ER-182 nora 29 ena.
+D182-4,ER-182,transporte,es,2048,rumor,0.2,Un rumor sobre ER-182 menciona 41 vehículos disponibles.
+D182-5,ER-182,transporte,es,2048,archivo,0.7,"El archivo de ER-182 registra actividades de transporte, sin inventario adicional."
+D183-0,ER-183,archivo,es,2048,oficial,0.95,El registro oficial de ER-183 confirma 74 tablillas disponibles.
+D183-1,ER-183,archivo,er,2048,oficial,0.95,ER-183 kiri 74 ena.
+D183-2,ER-183,archivo,es,2047,oficial,0.9,El registro anterior de ER-183 indica 81 tablillas disponibles.
+D183-3,ER-183,archivo,er,2047,oficial,0.9,ER-183 kiri 81 ena.
+D183-4,ER-183,archivo,es,2048,rumor,0.2,Un rumor sobre ER-183 menciona 93 tablillas disponibles.
+D183-5,ER-183,archivo,es,2048,archivo,0.7,"El archivo de ER-183 registra actividades de archivo, sin inventario adicional."
+D184-0,ER-184,agua,es,2048,oficial,0.95,El registro oficial de ER-184 confirma 20 depósitos disponibles.
+D184-1,ER-184,agua,er,2048,oficial,0.95,ER-184 mura 20 ena.
+D184-2,ER-184,agua,es,2047,oficial,0.9,El registro anterior de ER-184 indica 27 depósitos disponibles.
+D184-3,ER-184,agua,er,2047,oficial,0.9,ER-184 mura 27 ena.
+D184-4,ER-184,agua,es,2048,rumor,0.2,Un rumor sobre ER-184 menciona 39 depósitos disponibles.
+D184-5,ER-184,agua,es,2048,archivo,0.7,"El archivo de ER-184 registra actividades de agua, sin inventario adicional."
+D185-0,ER-185,agricultura,es,2048,oficial,0.95,El registro oficial de ER-185 confirma 80 semillas disponibles.
+D185-1,ER-185,agricultura,er,2048,oficial,0.95,ER-185 sava 80 ena.
+D185-2,ER-185,agricultura,es,2047,oficial,0.9,El registro anterior de ER-185 indica 87 semillas disponibles.
+D185-3,ER-185,agricultura,er,2047,oficial,0.9,ER-185 sava 87 ena.
+D185-4,ER-185,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-185 menciona 99 semillas disponibles.
+D185-5,ER-185,agricultura,es,2048,archivo,0.7,"El archivo de ER-185 registra actividades de agricultura, sin inventario adicional."
+D186-0,ER-186,energía,es,2048,oficial,0.95,El registro oficial de ER-186 confirma 28 celdas disponibles.
+D186-1,ER-186,energía,er,2048,oficial,0.95,ER-186 tavi 28 ena.
+D186-2,ER-186,energía,es,2047,oficial,0.9,El registro anterior de ER-186 indica 35 celdas disponibles.
+D186-3,ER-186,energía,er,2047,oficial,0.9,ER-186 tavi 35 ena.
+D186-4,ER-186,energía,es,2048,rumor,0.2,Un rumor sobre ER-186 menciona 47 celdas disponibles.
+D186-5,ER-186,energía,es,2048,archivo,0.7,"El archivo de ER-186 registra actividades de energía, sin inventario adicional."
+D187-0,ER-187,transporte,es,2048,oficial,0.95,El registro oficial de ER-187 confirma 28 vehículos disponibles.
+D187-1,ER-187,transporte,er,2048,oficial,0.95,ER-187 nora 28 ena.
+D187-2,ER-187,transporte,es,2047,oficial,0.9,El registro anterior de ER-187 indica 35 vehículos disponibles.
+D187-3,ER-187,transporte,er,2047,oficial,0.9,ER-187 nora 35 ena.
+D187-4,ER-187,transporte,es,2048,rumor,0.2,Un rumor sobre ER-187 menciona 47 vehículos disponibles.
+D187-5,ER-187,transporte,es,2048,archivo,0.7,"El archivo de ER-187 registra actividades de transporte, sin inventario adicional."
+D188-0,ER-188,archivo,es,2048,oficial,0.95,El registro oficial de ER-188 confirma 96 tablillas disponibles.
+D188-1,ER-188,archivo,er,2048,oficial,0.95,ER-188 kiri 96 ena.
+D188-2,ER-188,archivo,es,2047,oficial,0.9,El registro anterior de ER-188 indica 103 tablillas disponibles.
+D188-3,ER-188,archivo,er,2047,oficial,0.9,ER-188 kiri 103 ena.
+D188-4,ER-188,archivo,es,2048,rumor,0.2,Un rumor sobre ER-188 menciona 115 tablillas disponibles.
+D188-5,ER-188,archivo,es,2048,archivo,0.7,"El archivo de ER-188 registra actividades de archivo, sin inventario adicional."
+D189-0,ER-189,agua,es,2048,oficial,0.95,El registro oficial de ER-189 confirma 72 depósitos disponibles.
+D189-1,ER-189,agua,er,2048,oficial,0.95,ER-189 mura 72 ena.
+D189-2,ER-189,agua,es,2047,oficial,0.9,El registro anterior de ER-189 indica 79 depósitos disponibles.
+D189-3,ER-189,agua,er,2047,oficial,0.9,ER-189 mura 79 ena.
+D189-4,ER-189,agua,es,2048,rumor,0.2,Un rumor sobre ER-189 menciona 91 depósitos disponibles.
+D189-5,ER-189,agua,es,2048,archivo,0.7,"El archivo de ER-189 registra actividades de agua, sin inventario adicional."
+D190-0,ER-190,agricultura,es,2048,oficial,0.95,El registro oficial de ER-190 confirma 82 semillas disponibles.
+D190-1,ER-190,agricultura,er,2048,oficial,0.95,ER-190 sava 82 ena.
+D190-2,ER-190,agricultura,es,2047,oficial,0.9,El registro anterior de ER-190 indica 89 semillas disponibles.
+D190-3,ER-190,agricultura,er,2047,oficial,0.9,ER-190 sava 89 ena.
+D190-4,ER-190,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-190 menciona 101 semillas disponibles.
+D190-5,ER-190,agricultura,es,2048,archivo,0.7,"El archivo de ER-190 registra actividades de agricultura, sin inventario adicional."
+D191-0,ER-191,energía,es,2048,oficial,0.95,El registro oficial de ER-191 confirma 33 celdas disponibles.
+D191-1,ER-191,energía,er,2048,oficial,0.95,ER-191 tavi 33 ena.
+D191-2,ER-191,energía,es,2047,oficial,0.9,El registro anterior de ER-191 indica 40 celdas disponibles.
+D191-3,ER-191,energía,er,2047,oficial,0.9,ER-191 tavi 40 ena.
+D191-4,ER-191,energía,es,2048,rumor,0.2,Un rumor sobre ER-191 menciona 52 celdas disponibles.
+D191-5,ER-191,energía,es,2048,archivo,0.7,"El archivo de ER-191 registra actividades de energía, sin inventario adicional."
+D192-0,ER-192,transporte,es,2048,oficial,0.95,El registro oficial de ER-192 confirma 45 vehículos disponibles.
+D192-1,ER-192,transporte,er,2048,oficial,0.95,ER-192 nora 45 ena.
+D192-2,ER-192,transporte,es,2047,oficial,0.9,El registro anterior de ER-192 indica 52 vehículos disponibles.
+D192-3,ER-192,transporte,er,2047,oficial,0.9,ER-192 nora 52 ena.
+D192-4,ER-192,transporte,es,2048,rumor,0.2,Un rumor sobre ER-192 menciona 64 vehículos disponibles.
+D192-5,ER-192,transporte,es,2048,archivo,0.7,"El archivo de ER-192 registra actividades de transporte, sin inventario adicional."
+D193-0,ER-193,archivo,es,2048,oficial,0.95,El registro oficial de ER-193 confirma 79 tablillas disponibles.
+D193-1,ER-193,archivo,er,2048,oficial,0.95,ER-193 kiri 79 ena.
+D193-2,ER-193,archivo,es,2047,oficial,0.9,El registro anterior de ER-193 indica 86 tablillas disponibles.
+D193-3,ER-193,archivo,er,2047,oficial,0.9,ER-193 kiri 86 ena.
+D193-4,ER-193,archivo,es,2048,rumor,0.2,Un rumor sobre ER-193 menciona 98 tablillas disponibles.
+D193-5,ER-193,archivo,es,2048,archivo,0.7,"El archivo de ER-193 registra actividades de archivo, sin inventario adicional."
+D194-0,ER-194,agua,es,2048,oficial,0.95,El registro oficial de ER-194 confirma 89 depósitos disponibles.
+D194-1,ER-194,agua,er,2048,oficial,0.95,ER-194 mura 89 ena.
+D194-2,ER-194,agua,es,2047,oficial,0.9,El registro anterior de ER-194 indica 96 depósitos disponibles.
+D194-3,ER-194,agua,er,2047,oficial,0.9,ER-194 mura 96 ena.
+D194-4,ER-194,agua,es,2048,rumor,0.2,Un rumor sobre ER-194 menciona 108 depósitos disponibles.
+D194-5,ER-194,agua,es,2048,archivo,0.7,"El archivo de ER-194 registra actividades de agua, sin inventario adicional."
+D195-0,ER-195,agricultura,es,2048,oficial,0.95,El registro oficial de ER-195 confirma 66 semillas disponibles.
+D195-1,ER-195,agricultura,er,2048,oficial,0.95,ER-195 sava 66 ena.
+D195-2,ER-195,agricultura,es,2047,oficial,0.9,El registro anterior de ER-195 indica 73 semillas disponibles.
+D195-3,ER-195,agricultura,er,2047,oficial,0.9,ER-195 sava 73 ena.
+D195-4,ER-195,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-195 menciona 85 semillas disponibles.
+D195-5,ER-195,agricultura,es,2048,archivo,0.7,"El archivo de ER-195 registra actividades de agricultura, sin inventario adicional."
+D196-0,ER-196,energía,es,2048,oficial,0.95,El registro oficial de ER-196 confirma 39 celdas disponibles.
+D196-1,ER-196,energía,er,2048,oficial,0.95,ER-196 tavi 39 ena.
+D196-2,ER-196,energía,es,2047,oficial,0.9,El registro anterior de ER-196 indica 46 celdas disponibles.
+D196-3,ER-196,energía,er,2047,oficial,0.9,ER-196 tavi 46 ena.
+D196-4,ER-196,energía,es,2048,rumor,0.2,Un rumor sobre ER-196 menciona 58 celdas disponibles.
+D196-5,ER-196,energía,es,2048,archivo,0.7,"El archivo de ER-196 registra actividades de energía, sin inventario adicional."
+D197-0,ER-197,transporte,es,2048,oficial,0.95,El registro oficial de ER-197 confirma 81 vehículos disponibles.
+D197-1,ER-197,transporte,er,2048,oficial,0.95,ER-197 nora 81 ena.
+D197-2,ER-197,transporte,es,2047,oficial,0.9,El registro anterior de ER-197 indica 88 vehículos disponibles.
+D197-3,ER-197,transporte,er,2047,oficial,0.9,ER-197 nora 88 ena.
+D197-4,ER-197,transporte,es,2048,rumor,0.2,Un rumor sobre ER-197 menciona 100 vehículos disponibles.
+D197-5,ER-197,transporte,es,2048,archivo,0.7,"El archivo de ER-197 registra actividades de transporte, sin inventario adicional."
+D198-0,ER-198,archivo,es,2048,oficial,0.95,El registro oficial de ER-198 confirma 37 tablillas disponibles.
+D198-1,ER-198,archivo,er,2048,oficial,0.95,ER-198 kiri 37 ena.
+D198-2,ER-198,archivo,es,2047,oficial,0.9,El registro anterior de ER-198 indica 44 tablillas disponibles.
+D198-3,ER-198,archivo,er,2047,oficial,0.9,ER-198 kiri 44 ena.
+D198-4,ER-198,archivo,es,2048,rumor,0.2,Un rumor sobre ER-198 menciona 56 tablillas disponibles.
+D198-5,ER-198,archivo,es,2048,archivo,0.7,"El archivo de ER-198 registra actividades de archivo, sin inventario adicional."
+D199-0,ER-199,agua,es,2048,oficial,0.95,El registro oficial de ER-199 confirma 51 depósitos disponibles.
+D199-1,ER-199,agua,er,2048,oficial,0.95,ER-199 mura 51 ena.
+D199-2,ER-199,agua,es,2047,oficial,0.9,El registro anterior de ER-199 indica 58 depósitos disponibles.
+D199-3,ER-199,agua,er,2047,oficial,0.9,ER-199 mura 58 ena.
+D199-4,ER-199,agua,es,2048,rumor,0.2,Un rumor sobre ER-199 menciona 70 depósitos disponibles.
+D199-5,ER-199,agua,es,2048,archivo,0.7,"El archivo de ER-199 registra actividades de agua, sin inventario adicional."
+D200-0,ER-200,agricultura,es,2048,oficial,0.95,El registro oficial de ER-200 confirma 63 semillas disponibles.
+D200-1,ER-200,agricultura,er,2048,oficial,0.95,ER-200 sava 63 ena.
+D200-2,ER-200,agricultura,es,2047,oficial,0.9,El registro anterior de ER-200 indica 70 semillas disponibles.
+D200-3,ER-200,agricultura,er,2047,oficial,0.9,ER-200 sava 70 ena.
+D200-4,ER-200,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-200 menciona 82 semillas disponibles.
+D200-5,ER-200,agricultura,es,2048,archivo,0.7,"El archivo de ER-200 registra actividades de agricultura, sin inventario adicional."
+D201-0,ER-201,energía,es,2048,oficial,0.95,El registro oficial de ER-201 confirma 97 celdas disponibles.
+D201-1,ER-201,energía,er,2048,oficial,0.95,ER-201 tavi 97 ena.
+D201-2,ER-201,energía,es,2047,oficial,0.9,El registro anterior de ER-201 indica 104 celdas disponibles.
+D201-3,ER-201,energía,er,2047,oficial,0.9,ER-201 tavi 104 ena.
+D201-4,ER-201,energía,es,2048,rumor,0.2,Un rumor sobre ER-201 menciona 116 celdas disponibles.
+D201-5,ER-201,energía,es,2048,archivo,0.7,"El archivo de ER-201 registra actividades de energía, sin inventario adicional."
+D202-0,ER-202,transporte,es,2048,oficial,0.95,El registro oficial de ER-202 confirma 95 vehículos disponibles.
+D202-1,ER-202,transporte,er,2048,oficial,0.95,ER-202 nora 95 ena.
+D202-2,ER-202,transporte,es,2047,oficial,0.9,El registro anterior de ER-202 indica 102 vehículos disponibles.
+D202-3,ER-202,transporte,er,2047,oficial,0.9,ER-202 nora 102 ena.
+D202-4,ER-202,transporte,es,2048,rumor,0.2,Un rumor sobre ER-202 menciona 114 vehículos disponibles.
+D202-5,ER-202,transporte,es,2048,archivo,0.7,"El archivo de ER-202 registra actividades de transporte, sin inventario adicional."
+D203-0,ER-203,archivo,es,2048,oficial,0.95,El registro oficial de ER-203 confirma 59 tablillas disponibles.
+D203-1,ER-203,archivo,er,2048,oficial,0.95,ER-203 kiri 59 ena.
+D203-2,ER-203,archivo,es,2047,oficial,0.9,El registro anterior de ER-203 indica 66 tablillas disponibles.
+D203-3,ER-203,archivo,er,2047,oficial,0.9,ER-203 kiri 66 ena.
+D203-4,ER-203,archivo,es,2048,rumor,0.2,Un rumor sobre ER-203 menciona 78 tablillas disponibles.
+D203-5,ER-203,archivo,es,2048,archivo,0.7,"El archivo de ER-203 registra actividades de archivo, sin inventario adicional."
+D204-0,ER-204,agua,es,2048,oficial,0.95,El registro oficial de ER-204 confirma 68 depósitos disponibles.
+D204-1,ER-204,agua,er,2048,oficial,0.95,ER-204 mura 68 ena.
+D204-2,ER-204,agua,es,2047,oficial,0.9,El registro anterior de ER-204 indica 75 depósitos disponibles.
+D204-3,ER-204,agua,er,2047,oficial,0.9,ER-204 mura 75 ena.
+D204-4,ER-204,agua,es,2048,rumor,0.2,Un rumor sobre ER-204 menciona 87 depósitos disponibles.
+D204-5,ER-204,agua,es,2048,archivo,0.7,"El archivo de ER-204 registra actividades de agua, sin inventario adicional."
+D205-0,ER-205,agricultura,es,2048,oficial,0.95,El registro oficial de ER-205 confirma 78 semillas disponibles.
+D205-1,ER-205,agricultura,er,2048,oficial,0.95,ER-205 sava 78 ena.
+D205-2,ER-205,agricultura,es,2047,oficial,0.9,El registro anterior de ER-205 indica 85 semillas disponibles.
+D205-3,ER-205,agricultura,er,2047,oficial,0.9,ER-205 sava 85 ena.
+D205-4,ER-205,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-205 menciona 97 semillas disponibles.
+D205-5,ER-205,agricultura,es,2048,archivo,0.7,"El archivo de ER-205 registra actividades de agricultura, sin inventario adicional."
+D206-0,ER-206,energía,es,2048,oficial,0.95,El registro oficial de ER-206 confirma 69 celdas disponibles.
+D206-1,ER-206,energía,er,2048,oficial,0.95,ER-206 tavi 69 ena.
+D206-2,ER-206,energía,es,2047,oficial,0.9,El registro anterior de ER-206 indica 76 celdas disponibles.
+D206-3,ER-206,energía,er,2047,oficial,0.9,ER-206 tavi 76 ena.
+D206-4,ER-206,energía,es,2048,rumor,0.2,Un rumor sobre ER-206 menciona 88 celdas disponibles.
+D206-5,ER-206,energía,es,2048,archivo,0.7,"El archivo de ER-206 registra actividades de energía, sin inventario adicional."
+D207-0,ER-207,transporte,es,2048,oficial,0.95,El registro oficial de ER-207 confirma 27 vehículos disponibles.
+D207-1,ER-207,transporte,er,2048,oficial,0.95,ER-207 nora 27 ena.
+D207-2,ER-207,transporte,es,2047,oficial,0.9,El registro anterior de ER-207 indica 34 vehículos disponibles.
+D207-3,ER-207,transporte,er,2047,oficial,0.9,ER-207 nora 34 ena.
+D207-4,ER-207,transporte,es,2048,rumor,0.2,Un rumor sobre ER-207 menciona 46 vehículos disponibles.
+D207-5,ER-207,transporte,es,2048,archivo,0.7,"El archivo de ER-207 registra actividades de transporte, sin inventario adicional."
+D208-0,ER-208,archivo,es,2048,oficial,0.95,El registro oficial de ER-208 confirma 43 tablillas disponibles.
+D208-1,ER-208,archivo,er,2048,oficial,0.95,ER-208 kiri 43 ena.
+D208-2,ER-208,archivo,es,2047,oficial,0.9,El registro anterior de ER-208 indica 50 tablillas disponibles.
+D208-3,ER-208,archivo,er,2047,oficial,0.9,ER-208 kiri 50 ena.
+D208-4,ER-208,archivo,es,2048,rumor,0.2,Un rumor sobre ER-208 menciona 62 tablillas disponibles.
+D208-5,ER-208,archivo,es,2048,archivo,0.7,"El archivo de ER-208 registra actividades de archivo, sin inventario adicional."
+D209-0,ER-209,agua,es,2048,oficial,0.95,El registro oficial de ER-209 confirma 40 depósitos disponibles.
+D209-1,ER-209,agua,er,2048,oficial,0.95,ER-209 mura 40 ena.
+D209-2,ER-209,agua,es,2047,oficial,0.9,El registro anterior de ER-209 indica 47 depósitos disponibles.
+D209-3,ER-209,agua,er,2047,oficial,0.9,ER-209 mura 47 ena.
+D209-4,ER-209,agua,es,2048,rumor,0.2,Un rumor sobre ER-209 menciona 59 depósitos disponibles.
+D209-5,ER-209,agua,es,2048,archivo,0.7,"El archivo de ER-209 registra actividades de agua, sin inventario adicional."
+D210-0,ER-210,agricultura,es,2048,oficial,0.95,El registro oficial de ER-210 confirma 20 semillas disponibles.
+D210-1,ER-210,agricultura,er,2048,oficial,0.95,ER-210 sava 20 ena.
+D210-2,ER-210,agricultura,es,2047,oficial,0.9,El registro anterior de ER-210 indica 27 semillas disponibles.
+D210-3,ER-210,agricultura,er,2047,oficial,0.9,ER-210 sava 27 ena.
+D210-4,ER-210,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-210 menciona 39 semillas disponibles.
+D210-5,ER-210,agricultura,es,2048,archivo,0.7,"El archivo de ER-210 registra actividades de agricultura, sin inventario adicional."
+D211-0,ER-211,energía,es,2048,oficial,0.95,El registro oficial de ER-211 confirma 55 celdas disponibles.
+D211-1,ER-211,energía,er,2048,oficial,0.95,ER-211 tavi 55 ena.
+D211-2,ER-211,energía,es,2047,oficial,0.9,El registro anterior de ER-211 indica 62 celdas disponibles.
+D211-3,ER-211,energía,er,2047,oficial,0.9,ER-211 tavi 62 ena.
+D211-4,ER-211,energía,es,2048,rumor,0.2,Un rumor sobre ER-211 menciona 74 celdas disponibles.
+D211-5,ER-211,energía,es,2048,archivo,0.7,"El archivo de ER-211 registra actividades de energía, sin inventario adicional."
+D212-0,ER-212,transporte,es,2048,oficial,0.95,El registro oficial de ER-212 confirma 14 vehículos disponibles.
+D212-1,ER-212,transporte,er,2048,oficial,0.95,ER-212 nora 14 ena.
+D212-2,ER-212,transporte,es,2047,oficial,0.9,El registro anterior de ER-212 indica 21 vehículos disponibles.
+D212-3,ER-212,transporte,er,2047,oficial,0.9,ER-212 nora 21 ena.
+D212-4,ER-212,transporte,es,2048,rumor,0.2,Un rumor sobre ER-212 menciona 33 vehículos disponibles.
+D212-5,ER-212,transporte,es,2048,archivo,0.7,"El archivo de ER-212 registra actividades de transporte, sin inventario adicional."
+D213-0,ER-213,archivo,es,2048,oficial,0.95,El registro oficial de ER-213 confirma 87 tablillas disponibles.
+D213-1,ER-213,archivo,er,2048,oficial,0.95,ER-213 kiri 87 ena.
+D213-2,ER-213,archivo,es,2047,oficial,0.9,El registro anterior de ER-213 indica 94 tablillas disponibles.
+D213-3,ER-213,archivo,er,2047,oficial,0.9,ER-213 kiri 94 ena.
+D213-4,ER-213,archivo,es,2048,rumor,0.2,Un rumor sobre ER-213 menciona 106 tablillas disponibles.
+D213-5,ER-213,archivo,es,2048,archivo,0.7,"El archivo de ER-213 registra actividades de archivo, sin inventario adicional."
+D214-0,ER-214,agua,es,2048,oficial,0.95,El registro oficial de ER-214 confirma 82 depósitos disponibles.
+D214-1,ER-214,agua,er,2048,oficial,0.95,ER-214 mura 82 ena.
+D214-2,ER-214,agua,es,2047,oficial,0.9,El registro anterior de ER-214 indica 89 depósitos disponibles.
+D214-3,ER-214,agua,er,2047,oficial,0.9,ER-214 mura 89 ena.
+D214-4,ER-214,agua,es,2048,rumor,0.2,Un rumor sobre ER-214 menciona 101 depósitos disponibles.
+D214-5,ER-214,agua,es,2048,archivo,0.7,"El archivo de ER-214 registra actividades de agua, sin inventario adicional."
+D215-0,ER-215,agricultura,es,2048,oficial,0.95,El registro oficial de ER-215 confirma 41 semillas disponibles.
+D215-1,ER-215,agricultura,er,2048,oficial,0.95,ER-215 sava 41 ena.
+D215-2,ER-215,agricultura,es,2047,oficial,0.9,El registro anterior de ER-215 indica 48 semillas disponibles.
+D215-3,ER-215,agricultura,er,2047,oficial,0.9,ER-215 sava 48 ena.
+D215-4,ER-215,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-215 menciona 60 semillas disponibles.
+D215-5,ER-215,agricultura,es,2048,archivo,0.7,"El archivo de ER-215 registra actividades de agricultura, sin inventario adicional."
+D216-0,ER-216,energía,es,2048,oficial,0.95,El registro oficial de ER-216 confirma 87 celdas disponibles.
+D216-1,ER-216,energía,er,2048,oficial,0.95,ER-216 tavi 87 ena.
+D216-2,ER-216,energía,es,2047,oficial,0.9,El registro anterior de ER-216 indica 94 celdas disponibles.
+D216-3,ER-216,energía,er,2047,oficial,0.9,ER-216 tavi 94 ena.
+D216-4,ER-216,energía,es,2048,rumor,0.2,Un rumor sobre ER-216 menciona 106 celdas disponibles.
+D216-5,ER-216,energía,es,2048,archivo,0.7,"El archivo de ER-216 registra actividades de energía, sin inventario adicional."
+D217-0,ER-217,transporte,es,2048,oficial,0.95,El registro oficial de ER-217 confirma 40 vehículos disponibles.
+D217-1,ER-217,transporte,er,2048,oficial,0.95,ER-217 nora 40 ena.
+D217-2,ER-217,transporte,es,2047,oficial,0.9,El registro anterior de ER-217 indica 47 vehículos disponibles.
+D217-3,ER-217,transporte,er,2047,oficial,0.9,ER-217 nora 47 ena.
+D217-4,ER-217,transporte,es,2048,rumor,0.2,Un rumor sobre ER-217 menciona 59 vehículos disponibles.
+D217-5,ER-217,transporte,es,2048,archivo,0.7,"El archivo de ER-217 registra actividades de transporte, sin inventario adicional."
+D218-0,ER-218,archivo,es,2048,oficial,0.95,El registro oficial de ER-218 confirma 12 tablillas disponibles.
+D218-1,ER-218,archivo,er,2048,oficial,0.95,ER-218 kiri 12 ena.
+D218-2,ER-218,archivo,es,2047,oficial,0.9,El registro anterior de ER-218 indica 19 tablillas disponibles.
+D218-3,ER-218,archivo,er,2047,oficial,0.9,ER-218 kiri 19 ena.
+D218-4,ER-218,archivo,es,2048,rumor,0.2,Un rumor sobre ER-218 menciona 31 tablillas disponibles.
+D218-5,ER-218,archivo,es,2048,archivo,0.7,"El archivo de ER-218 registra actividades de archivo, sin inventario adicional."
+D219-0,ER-219,agua,es,2048,oficial,0.95,El registro oficial de ER-219 confirma 21 depósitos disponibles.
+D219-1,ER-219,agua,er,2048,oficial,0.95,ER-219 mura 21 ena.
+D219-2,ER-219,agua,es,2047,oficial,0.9,El registro anterior de ER-219 indica 28 depósitos disponibles.
+D219-3,ER-219,agua,er,2047,oficial,0.9,ER-219 mura 28 ena.
+D219-4,ER-219,agua,es,2048,rumor,0.2,Un rumor sobre ER-219 menciona 40 depósitos disponibles.
+D219-5,ER-219,agua,es,2048,archivo,0.7,"El archivo de ER-219 registra actividades de agua, sin inventario adicional."
+D220-0,ER-220,agricultura,es,2048,oficial,0.95,El registro oficial de ER-220 confirma 92 semillas disponibles.
+D220-1,ER-220,agricultura,er,2048,oficial,0.95,ER-220 sava 92 ena.
+D220-2,ER-220,agricultura,es,2047,oficial,0.9,El registro anterior de ER-220 indica 99 semillas disponibles.
+D220-3,ER-220,agricultura,er,2047,oficial,0.9,ER-220 sava 99 ena.
+D220-4,ER-220,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-220 menciona 111 semillas disponibles.
+D220-5,ER-220,agricultura,es,2048,archivo,0.7,"El archivo de ER-220 registra actividades de agricultura, sin inventario adicional."
+D221-0,ER-221,energía,es,2048,oficial,0.95,El registro oficial de ER-221 confirma 19 celdas disponibles.
+D221-1,ER-221,energía,er,2048,oficial,0.95,ER-221 tavi 19 ena.
+D221-2,ER-221,energía,es,2047,oficial,0.9,El registro anterior de ER-221 indica 26 celdas disponibles.
+D221-3,ER-221,energía,er,2047,oficial,0.9,ER-221 tavi 26 ena.
+D221-4,ER-221,energía,es,2048,rumor,0.2,Un rumor sobre ER-221 menciona 38 celdas disponibles.
+D221-5,ER-221,energía,es,2048,archivo,0.7,"El archivo de ER-221 registra actividades de energía, sin inventario adicional."
+D222-0,ER-222,transporte,es,2048,oficial,0.95,El registro oficial de ER-222 confirma 41 vehículos disponibles.
+D222-1,ER-222,transporte,er,2048,oficial,0.95,ER-222 nora 41 ena.
+D222-2,ER-222,transporte,es,2047,oficial,0.9,El registro anterior de ER-222 indica 48 vehículos disponibles.
+D222-3,ER-222,transporte,er,2047,oficial,0.9,ER-222 nora 48 ena.
+D222-4,ER-222,transporte,es,2048,rumor,0.2,Un rumor sobre ER-222 menciona 60 vehículos disponibles.
+D222-5,ER-222,transporte,es,2048,archivo,0.7,"El archivo de ER-222 registra actividades de transporte, sin inventario adicional."
+D223-0,ER-223,archivo,es,2048,oficial,0.95,El registro oficial de ER-223 confirma 20 tablillas disponibles.
+D223-1,ER-223,archivo,er,2048,oficial,0.95,ER-223 kiri 20 ena.
+D223-2,ER-223,archivo,es,2047,oficial,0.9,El registro anterior de ER-223 indica 27 tablillas disponibles.
+D223-3,ER-223,archivo,er,2047,oficial,0.9,ER-223 kiri 27 ena.
+D223-4,ER-223,archivo,es,2048,rumor,0.2,Un rumor sobre ER-223 menciona 39 tablillas disponibles.
+D223-5,ER-223,archivo,es,2048,archivo,0.7,"El archivo de ER-223 registra actividades de archivo, sin inventario adicional."
+D224-0,ER-224,agua,es,2048,oficial,0.95,El registro oficial de ER-224 confirma 16 depósitos disponibles.
+D224-1,ER-224,agua,er,2048,oficial,0.95,ER-224 mura 16 ena.
+D224-2,ER-224,agua,es,2047,oficial,0.9,El registro anterior de ER-224 indica 23 depósitos disponibles.
+D224-3,ER-224,agua,er,2047,oficial,0.9,ER-224 mura 23 ena.
+D224-4,ER-224,agua,es,2048,rumor,0.2,Un rumor sobre ER-224 menciona 35 depósitos disponibles.
+D224-5,ER-224,agua,es,2048,archivo,0.7,"El archivo de ER-224 registra actividades de agua, sin inventario adicional."
+D225-0,ER-225,agricultura,es,2048,oficial,0.95,El registro oficial de ER-225 confirma 54 semillas disponibles.
+D225-1,ER-225,agricultura,er,2048,oficial,0.95,ER-225 sava 54 ena.
+D225-2,ER-225,agricultura,es,2047,oficial,0.9,El registro anterior de ER-225 indica 61 semillas disponibles.
+D225-3,ER-225,agricultura,er,2047,oficial,0.9,ER-225 sava 61 ena.
+D225-4,ER-225,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-225 menciona 73 semillas disponibles.
+D225-5,ER-225,agricultura,es,2048,archivo,0.7,"El archivo de ER-225 registra actividades de agricultura, sin inventario adicional."
+D226-0,ER-226,energía,es,2048,oficial,0.95,El registro oficial de ER-226 confirma 21 celdas disponibles.
+D226-1,ER-226,energía,er,2048,oficial,0.95,ER-226 tavi 21 ena.
+D226-2,ER-226,energía,es,2047,oficial,0.9,El registro anterior de ER-226 indica 28 celdas disponibles.
+D226-3,ER-226,energía,er,2047,oficial,0.9,ER-226 tavi 28 ena.
+D226-4,ER-226,energía,es,2048,rumor,0.2,Un rumor sobre ER-226 menciona 40 celdas disponibles.
+D226-5,ER-226,energía,es,2048,archivo,0.7,"El archivo de ER-226 registra actividades de energía, sin inventario adicional."
+D227-0,ER-227,transporte,es,2048,oficial,0.95,El registro oficial de ER-227 confirma 77 vehículos disponibles.
+D227-1,ER-227,transporte,er,2048,oficial,0.95,ER-227 nora 77 ena.
+D227-2,ER-227,transporte,es,2047,oficial,0.9,El registro anterior de ER-227 indica 84 vehículos disponibles.
+D227-3,ER-227,transporte,er,2047,oficial,0.9,ER-227 nora 84 ena.
+D227-4,ER-227,transporte,es,2048,rumor,0.2,Un rumor sobre ER-227 menciona 96 vehículos disponibles.
+D227-5,ER-227,transporte,es,2048,archivo,0.7,"El archivo de ER-227 registra actividades de transporte, sin inventario adicional."
+D228-0,ER-228,archivo,es,2048,oficial,0.95,El registro oficial de ER-228 confirma 42 tablillas disponibles.
+D228-1,ER-228,archivo,er,2048,oficial,0.95,ER-228 kiri 42 ena.
+D228-2,ER-228,archivo,es,2047,oficial,0.9,El registro anterior de ER-228 indica 49 tablillas disponibles.
+D228-3,ER-228,archivo,er,2047,oficial,0.9,ER-228 kiri 49 ena.
+D228-4,ER-228,archivo,es,2048,rumor,0.2,Un rumor sobre ER-228 menciona 61 tablillas disponibles.
+D228-5,ER-228,archivo,es,2048,archivo,0.7,"El archivo de ER-228 registra actividades de archivo, sin inventario adicional."
+D229-0,ER-229,agua,es,2048,oficial,0.95,El registro oficial de ER-229 confirma 47 depósitos disponibles.
+D229-1,ER-229,agua,er,2048,oficial,0.95,ER-229 mura 47 ena.
+D229-2,ER-229,agua,es,2047,oficial,0.9,El registro anterior de ER-229 indica 54 depósitos disponibles.
+D229-3,ER-229,agua,er,2047,oficial,0.9,ER-229 mura 54 ena.
+D229-4,ER-229,agua,es,2048,rumor,0.2,Un rumor sobre ER-229 menciona 66 depósitos disponibles.
+D229-5,ER-229,agua,es,2048,archivo,0.7,"El archivo de ER-229 registra actividades de agua, sin inventario adicional."
+D230-0,ER-230,agricultura,es,2048,oficial,0.95,El registro oficial de ER-230 confirma 97 semillas disponibles.
+D230-1,ER-230,agricultura,er,2048,oficial,0.95,ER-230 sava 97 ena.
+D230-2,ER-230,agricultura,es,2047,oficial,0.9,El registro anterior de ER-230 indica 104 semillas disponibles.
+D230-3,ER-230,agricultura,er,2047,oficial,0.9,ER-230 sava 104 ena.
+D230-4,ER-230,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-230 menciona 116 semillas disponibles.
+D230-5,ER-230,agricultura,es,2048,archivo,0.7,"El archivo de ER-230 registra actividades de agricultura, sin inventario adicional."
+D231-0,ER-231,energía,es,2048,oficial,0.95,El registro oficial de ER-231 confirma 74 celdas disponibles.
+D231-1,ER-231,energía,er,2048,oficial,0.95,ER-231 tavi 74 ena.
+D231-2,ER-231,energía,es,2047,oficial,0.9,El registro anterior de ER-231 indica 81 celdas disponibles.
+D231-3,ER-231,energía,er,2047,oficial,0.9,ER-231 tavi 81 ena.
+D231-4,ER-231,energía,es,2048,rumor,0.2,Un rumor sobre ER-231 menciona 93 celdas disponibles.
+D231-5,ER-231,energía,es,2048,archivo,0.7,"El archivo de ER-231 registra actividades de energía, sin inventario adicional."
+D232-0,ER-232,transporte,es,2048,oficial,0.95,El registro oficial de ER-232 confirma 39 vehículos disponibles.
+D232-1,ER-232,transporte,er,2048,oficial,0.95,ER-232 nora 39 ena.
+D232-2,ER-232,transporte,es,2047,oficial,0.9,El registro anterior de ER-232 indica 46 vehículos disponibles.
+D232-3,ER-232,transporte,er,2047,oficial,0.9,ER-232 nora 46 ena.
+D232-4,ER-232,transporte,es,2048,rumor,0.2,Un rumor sobre ER-232 menciona 58 vehículos disponibles.
+D232-5,ER-232,transporte,es,2048,archivo,0.7,"El archivo de ER-232 registra actividades de transporte, sin inventario adicional."
+D233-0,ER-233,archivo,es,2048,oficial,0.95,El registro oficial de ER-233 confirma 81 tablillas disponibles.
+D233-1,ER-233,archivo,er,2048,oficial,0.95,ER-233 kiri 81 ena.
+D233-2,ER-233,archivo,es,2047,oficial,0.9,El registro anterior de ER-233 indica 88 tablillas disponibles.
+D233-3,ER-233,archivo,er,2047,oficial,0.9,ER-233 kiri 88 ena.
+D233-4,ER-233,archivo,es,2048,rumor,0.2,Un rumor sobre ER-233 menciona 100 tablillas disponibles.
+D233-5,ER-233,archivo,es,2048,archivo,0.7,"El archivo de ER-233 registra actividades de archivo, sin inventario adicional."
+D234-0,ER-234,agua,es,2048,oficial,0.95,El registro oficial de ER-234 confirma 28 depósitos disponibles.
+D234-1,ER-234,agua,er,2048,oficial,0.95,ER-234 mura 28 ena.
+D234-2,ER-234,agua,es,2047,oficial,0.9,El registro anterior de ER-234 indica 35 depósitos disponibles.
+D234-3,ER-234,agua,er,2047,oficial,0.9,ER-234 mura 35 ena.
+D234-4,ER-234,agua,es,2048,rumor,0.2,Un rumor sobre ER-234 menciona 47 depósitos disponibles.
+D234-5,ER-234,agua,es,2048,archivo,0.7,"El archivo de ER-234 registra actividades de agua, sin inventario adicional."
+D235-0,ER-235,agricultura,es,2048,oficial,0.95,El registro oficial de ER-235 confirma 85 semillas disponibles.
+D235-1,ER-235,agricultura,er,2048,oficial,0.95,ER-235 sava 85 ena.
+D235-2,ER-235,agricultura,es,2047,oficial,0.9,El registro anterior de ER-235 indica 92 semillas disponibles.
+D235-3,ER-235,agricultura,er,2047,oficial,0.9,ER-235 sava 92 ena.
+D235-4,ER-235,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-235 menciona 104 semillas disponibles.
+D235-5,ER-235,agricultura,es,2048,archivo,0.7,"El archivo de ER-235 registra actividades de agricultura, sin inventario adicional."
+D236-0,ER-236,energía,es,2048,oficial,0.95,El registro oficial de ER-236 confirma 85 celdas disponibles.
+D236-1,ER-236,energía,er,2048,oficial,0.95,ER-236 tavi 85 ena.
+D236-2,ER-236,energía,es,2047,oficial,0.9,El registro anterior de ER-236 indica 92 celdas disponibles.
+D236-3,ER-236,energía,er,2047,oficial,0.9,ER-236 tavi 92 ena.
+D236-4,ER-236,energía,es,2048,rumor,0.2,Un rumor sobre ER-236 menciona 104 celdas disponibles.
+D236-5,ER-236,energía,es,2048,archivo,0.7,"El archivo de ER-236 registra actividades de energía, sin inventario adicional."
+D237-0,ER-237,transporte,es,2048,oficial,0.95,El registro oficial de ER-237 confirma 72 vehículos disponibles.
+D237-1,ER-237,transporte,er,2048,oficial,0.95,ER-237 nora 72 ena.
+D237-2,ER-237,transporte,es,2047,oficial,0.9,El registro anterior de ER-237 indica 79 vehículos disponibles.
+D237-3,ER-237,transporte,er,2047,oficial,0.9,ER-237 nora 79 ena.
+D237-4,ER-237,transporte,es,2048,rumor,0.2,Un rumor sobre ER-237 menciona 91 vehículos disponibles.
+D237-5,ER-237,transporte,es,2048,archivo,0.7,"El archivo de ER-237 registra actividades de transporte, sin inventario adicional."
+D238-0,ER-238,archivo,es,2048,oficial,0.95,El registro oficial de ER-238 confirma 43 tablillas disponibles.
+D238-1,ER-238,archivo,er,2048,oficial,0.95,ER-238 kiri 43 ena.
+D238-2,ER-238,archivo,es,2047,oficial,0.9,El registro anterior de ER-238 indica 50 tablillas disponibles.
+D238-3,ER-238,archivo,er,2047,oficial,0.9,ER-238 kiri 50 ena.
+D238-4,ER-238,archivo,es,2048,rumor,0.2,Un rumor sobre ER-238 menciona 62 tablillas disponibles.
+D238-5,ER-238,archivo,es,2048,archivo,0.7,"El archivo de ER-238 registra actividades de archivo, sin inventario adicional."
+D239-0,ER-239,agua,es,2048,oficial,0.95,El registro oficial de ER-239 confirma 72 depósitos disponibles.
+D239-1,ER-239,agua,er,2048,oficial,0.95,ER-239 mura 72 ena.
+D239-2,ER-239,agua,es,2047,oficial,0.9,El registro anterior de ER-239 indica 79 depósitos disponibles.
+D239-3,ER-239,agua,er,2047,oficial,0.9,ER-239 mura 79 ena.
+D239-4,ER-239,agua,es,2048,rumor,0.2,Un rumor sobre ER-239 menciona 91 depósitos disponibles.
+D239-5,ER-239,agua,es,2048,archivo,0.7,"El archivo de ER-239 registra actividades de agua, sin inventario adicional."
+D240-0,ER-240,agricultura,es,2048,oficial,0.95,El registro oficial de ER-240 confirma 64 semillas disponibles.
+D240-1,ER-240,agricultura,er,2048,oficial,0.95,ER-240 sava 64 ena.
+D240-2,ER-240,agricultura,es,2047,oficial,0.9,El registro anterior de ER-240 indica 71 semillas disponibles.
+D240-3,ER-240,agricultura,er,2047,oficial,0.9,ER-240 sava 71 ena.
+D240-4,ER-240,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-240 menciona 83 semillas disponibles.
+D240-5,ER-240,agricultura,es,2048,archivo,0.7,"El archivo de ER-240 registra actividades de agricultura, sin inventario adicional."
+D241-0,ER-241,energía,es,2048,oficial,0.95,El registro oficial de ER-241 confirma 36 celdas disponibles.
+D241-1,ER-241,energía,er,2048,oficial,0.95,ER-241 tavi 36 ena.
+D241-2,ER-241,energía,es,2047,oficial,0.9,El registro anterior de ER-241 indica 43 celdas disponibles.
+D241-3,ER-241,energía,er,2047,oficial,0.9,ER-241 tavi 43 ena.
+D241-4,ER-241,energía,es,2048,rumor,0.2,Un rumor sobre ER-241 menciona 55 celdas disponibles.
+D241-5,ER-241,energía,es,2048,archivo,0.7,"El archivo de ER-241 registra actividades de energía, sin inventario adicional."
+D242-0,ER-242,transporte,es,2048,oficial,0.95,El registro oficial de ER-242 confirma 24 vehículos disponibles.
+D242-1,ER-242,transporte,er,2048,oficial,0.95,ER-242 nora 24 ena.
+D242-2,ER-242,transporte,es,2047,oficial,0.9,El registro anterior de ER-242 indica 31 vehículos disponibles.
+D242-3,ER-242,transporte,er,2047,oficial,0.9,ER-242 nora 31 ena.
+D242-4,ER-242,transporte,es,2048,rumor,0.2,Un rumor sobre ER-242 menciona 43 vehículos disponibles.
+D242-5,ER-242,transporte,es,2048,archivo,0.7,"El archivo de ER-242 registra actividades de transporte, sin inventario adicional."
+D243-0,ER-243,archivo,es,2048,oficial,0.95,El registro oficial de ER-243 confirma 24 tablillas disponibles.
+D243-1,ER-243,archivo,er,2048,oficial,0.95,ER-243 kiri 24 ena.
+D243-2,ER-243,archivo,es,2047,oficial,0.9,El registro anterior de ER-243 indica 31 tablillas disponibles.
+D243-3,ER-243,archivo,er,2047,oficial,0.9,ER-243 kiri 31 ena.
+D243-4,ER-243,archivo,es,2048,rumor,0.2,Un rumor sobre ER-243 menciona 43 tablillas disponibles.
+D243-5,ER-243,archivo,es,2048,archivo,0.7,"El archivo de ER-243 registra actividades de archivo, sin inventario adicional."
+D244-0,ER-244,agua,es,2048,oficial,0.95,El registro oficial de ER-244 confirma 96 depósitos disponibles.
+D244-1,ER-244,agua,er,2048,oficial,0.95,ER-244 mura 96 ena.
+D244-2,ER-244,agua,es,2047,oficial,0.9,El registro anterior de ER-244 indica 103 depósitos disponibles.
+D244-3,ER-244,agua,er,2047,oficial,0.9,ER-244 mura 103 ena.
+D244-4,ER-244,agua,es,2048,rumor,0.2,Un rumor sobre ER-244 menciona 115 depósitos disponibles.
+D244-5,ER-244,agua,es,2048,archivo,0.7,"El archivo de ER-244 registra actividades de agua, sin inventario adicional."
+D245-0,ER-245,agricultura,es,2048,oficial,0.95,El registro oficial de ER-245 confirma 67 semillas disponibles.
+D245-1,ER-245,agricultura,er,2048,oficial,0.95,ER-245 sava 67 ena.
+D245-2,ER-245,agricultura,es,2047,oficial,0.9,El registro anterior de ER-245 indica 74 semillas disponibles.
+D245-3,ER-245,agricultura,er,2047,oficial,0.9,ER-245 sava 74 ena.
+D245-4,ER-245,agricultura,es,2048,rumor,0.2,Un rumor sobre ER-245 menciona 86 semillas disponibles.
+D245-5,ER-245,agricultura,es,2048,archivo,0.7,"El archivo de ER-245 registra actividades de agricultura, sin inventario adicional."
+D246-0,ER-246,energía,es,2048,oficial,0.95,El registro oficial de ER-246 confirma 57 celdas disponibles.
+D246-1,ER-246,energía,er,2048,oficial,0.95,ER-246 tavi 57 ena.
+D246-2,ER-246,energía,es,2047,oficial,0.9,El registro anterior de ER-246 indica 64 celdas disponibles.
+D246-3,ER-246,energía,er,2047,oficial,0.9,ER-246 tavi 64 ena.
+D246-4,ER-246,energía,es,2048,rumor,0.2,Un rumor sobre ER-246 menciona 76 celdas disponibles.
+D246-5,ER-246,energía,es,2048,archivo,0.7,"El archivo de ER-246 registra actividades de energía, sin inventario adicional."
+D247-0,ER-247,transporte,es,2048,oficial,0.95,El registro oficial de ER-247 confirma 66 vehículos disponibles.
+D247-1,ER-247,transporte,er,2048,oficial,0.95,ER-247 nora 66 ena.
+D247-2,ER-247,transporte,es,2047,oficial,0.9,El registro anterior de ER-247 indica 73 vehículos disponibles.
+D247-3,ER-247,transporte,er,2047,oficial,0.9,ER-247 nora 73 ena.
+D247-4,ER-247,transporte,es,2048,rumor,0.2,Un rumor sobre ER-247 menciona 85 vehículos disponibles.
+D247-5,ER-247,transporte,es,2048,archivo,0.7,"El archivo de ER-247 registra actividades de transporte, sin inventario adicional."
+D248-0,ER-248,archivo,es,2048,oficial,0.95,El registro oficial de ER-248 confirma 64 tablillas disponibles.
+D248-1,ER-248,archivo,er,2048,oficial,0.95,ER-248 kiri 64 ena.
+D248-2,ER-248,archivo,es,2047,oficial,0.9,El registro anterior de ER-248 indica 71 tablillas disponibles.
+D248-3,ER-248,archivo,er,2047,oficial,0.9,ER-248 kiri 71 ena.
+D248-4,ER-248,archivo,es,2048,rumor,0.2,Un rumor sobre ER-248 menciona 83 tablillas disponibles.
+D248-5,ER-248,archivo,es,2048,archivo,0.7,"El archivo de ER-248 registra actividades de archivo, sin inventario adicional."
+D249-0,ER-249,agua,es,2048,oficial,0.95,El registro oficial de ER-249 confirma 71 depósitos disponibles.
+D249-1,ER-249,agua,er,2048,oficial,0.95,ER-249 mura 71 ena.
+D249-2,ER-249,agua,es,2047,oficial,0.9,El registro anterior de ER-249 indica 78 depósitos disponibles.
+D249-3,ER-249,agua,er,2047,oficial,0.9,ER-249 mura 78 ena.
+D249-4,ER-249,agua,es,2048,rumor,0.2,Un rumor sobre ER-249 menciona 90 depósitos disponibles.
+D249-5,ER-249,agua,es,2048,archivo,0.7,"El archivo de ER-249 registra actividades de agua, sin inventario adicional."

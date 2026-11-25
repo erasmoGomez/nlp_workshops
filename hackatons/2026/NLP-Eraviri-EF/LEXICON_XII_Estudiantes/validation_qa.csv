@@ -1,0 +1,151 @@
+qid,question,answer,evidence_ids,kind
+Q148-3,¿Quién dirige ER-148?,SIN_EVIDENCIA,,sin_evidencia
+Q128-3,¿Quién dirige ER-128?,SIN_EVIDENCIA,,sin_evidencia
+Q132-2,¿Qué cantidad de vehículos registraba ER-132 en 2047?,95,D132-2|D132-3,historico
+Q164-2,¿Qué cantidad de depósitos registraba ER-164 en 2047?,38,D164-2|D164-3,historico
+Q157-0,¿Cuántas vehículos hay disponibles actualmente en ER-157?,25,D157-0|D157-1,actual
+Q153-3,¿Quién dirige ER-153?,SIN_EVIDENCIA,,sin_evidencia
+Q142-1,"Según el registro vigente, ¿cuál es el inventario de ER-142?",26,D142-0|D142-1,actual
+Q167-2,¿Qué cantidad de vehículos registraba ER-167 en 2047?,88,D167-2|D167-3,historico
+Q168-2,¿Qué cantidad de tablillas registraba ER-168 en 2047?,86,D168-2|D168-3,historico
+Q136-1,"Según el registro vigente, ¿cuál es el inventario de ER-136?",88,D136-0|D136-1,actual
+Q141-2,¿Qué cantidad de celdas registraba ER-141 en 2047?,20,D141-2|D141-3,historico
+Q170-2,¿Qué cantidad de semillas registraba ER-170 en 2047?,95,D170-2|D170-3,historico
+Q166-1,"Según el registro vigente, ¿cuál es el inventario de ER-166?",32,D166-0|D166-1,actual
+Q144-2,¿Qué cantidad de depósitos registraba ER-144 en 2047?,53,D144-2|D144-3,historico
+Q171-2,¿Qué cantidad de celdas registraba ER-171 en 2047?,60,D171-2|D171-3,historico
+Q169-1,"Según el registro vigente, ¿cuál es el inventario de ER-169?",12,D169-0|D169-1,actual
+Q139-0,¿Cuántas depósitos hay disponibles actualmente en ER-139?,44,D139-0|D139-1,actual
+Q163-0,¿Cuántas tablillas hay disponibles actualmente en ER-163?,37,D163-0|D163-1,actual
+Q145-2,¿Qué cantidad de semillas registraba ER-145 en 2047?,101,D145-2|D145-3,historico
+Q142-0,¿Cuántas vehículos hay disponibles actualmente en ER-142?,26,D142-0|D142-1,actual
+Q156-0,¿Cuántas celdas hay disponibles actualmente en ER-156?,76,D156-0|D156-1,actual
+Q129-0,¿Cuántas depósitos hay disponibles actualmente en ER-129?,92,D129-0|D129-1,actual
+Q162-0,¿Cuántas vehículos hay disponibles actualmente en ER-162?,89,D162-0|D162-1,actual
+Q148-1,"Según el registro vigente, ¿cuál es el inventario de ER-148?",49,D148-0|D148-1,actual
+Q141-1,"Según el registro vigente, ¿cuál es el inventario de ER-141?",13,D141-0|D141-1,actual
+Q140-0,¿Cuántas semillas hay disponibles actualmente en ER-140?,82,D140-0|D140-1,actual
+Q146-0,¿Cuántas celdas hay disponibles actualmente en ER-146?,55,D146-0|D146-1,actual
+Q141-3,¿Quién dirige ER-141?,SIN_EVIDENCIA,,sin_evidencia
+Q156-1,"Según el registro vigente, ¿cuál es el inventario de ER-156?",76,D156-0|D156-1,actual
+Q158-0,¿Cuántas tablillas hay disponibles actualmente en ER-158?,92,D158-0|D158-1,actual
+Q127-1,"Según el registro vigente, ¿cuál es el inventario de ER-127?",26,D127-0|D127-1,actual
+Q129-2,¿Qué cantidad de depósitos registraba ER-129 en 2047?,99,D129-2|D129-3,historico
+Q138-3,¿Quién dirige ER-138?,SIN_EVIDENCIA,,sin_evidencia
+Q143-3,¿Quién dirige ER-143?,SIN_EVIDENCIA,,sin_evidencia
+Q162-2,¿Qué cantidad de vehículos registraba ER-162 en 2047?,96,D162-2|D162-3,historico
+Q151-0,¿Cuántas celdas hay disponibles actualmente en ER-151?,70,D151-0|D151-1,actual
+Q158-3,¿Quién dirige ER-158?,SIN_EVIDENCIA,,sin_evidencia
+Q159-1,"Según el registro vigente, ¿cuál es el inventario de ER-159?",50,D159-0|D159-1,actual
+Q166-0,¿Cuántas celdas hay disponibles actualmente en ER-166?,32,D166-0|D166-1,actual
+Q144-0,¿Cuántas depósitos hay disponibles actualmente en ER-144?,46,D144-0|D144-1,actual
+Q144-3,¿Quién dirige ER-144?,SIN_EVIDENCIA,,sin_evidencia
+Q174-1,"Según el registro vigente, ¿cuál es el inventario de ER-174?",26,D174-0|D174-1,actual
+Q134-2,¿Qué cantidad de depósitos registraba ER-134 en 2047?,68,D134-2|D134-3,historico
+Q131-0,¿Cuántas celdas hay disponibles actualmente en ER-131?,66,D131-0|D131-1,actual
+Q155-2,¿Qué cantidad de semillas registraba ER-155 en 2047?,41,D155-2|D155-3,historico
+Q173-3,¿Quién dirige ER-173?,SIN_EVIDENCIA,,sin_evidencia
+Q132-1,"Según el registro vigente, ¿cuál es el inventario de ER-132?",88,D132-0|D132-1,actual
+Q129-3,¿Quién dirige ER-129?,SIN_EVIDENCIA,,sin_evidencia
+Q160-3,¿Quién dirige ER-160?,SIN_EVIDENCIA,,sin_evidencia
+Q146-2,¿Qué cantidad de celdas registraba ER-146 en 2047?,62,D146-2|D146-3,historico
+Q153-2,¿Qué cantidad de tablillas registraba ER-153 en 2047?,52,D153-2|D153-3,historico
+Q168-1,"Según el registro vigente, ¿cuál es el inventario de ER-168?",79,D168-0|D168-1,actual
+Q126-1,"Según el registro vigente, ¿cuál es el inventario de ER-126?",18,D126-0|D126-1,actual
+Q156-2,¿Qué cantidad de celdas registraba ER-156 en 2047?,83,D156-2|D156-3,historico
+Q154-1,"Según el registro vigente, ¿cuál es el inventario de ER-154?",76,D154-0|D154-1,actual
+Q143-1,"Según el registro vigente, ¿cuál es el inventario de ER-143?",80,D143-0|D143-1,actual
+Q160-0,¿Cuántas semillas hay disponibles actualmente en ER-160?,93,D160-0|D160-1,actual
+Q149-2,¿Qué cantidad de depósitos registraba ER-149 en 2047?,74,D149-2|D149-3,historico
+Q168-0,¿Cuántas tablillas hay disponibles actualmente en ER-168?,79,D168-0|D168-1,actual
+Q149-0,¿Cuántas depósitos hay disponibles actualmente en ER-149?,67,D149-0|D149-1,actual
+Q167-1,"Según el registro vigente, ¿cuál es el inventario de ER-167?",81,D167-0|D167-1,actual
+Q149-1,"Según el registro vigente, ¿cuál es el inventario de ER-149?",67,D149-0|D149-1,actual
+Q132-3,¿Quién dirige ER-132?,SIN_EVIDENCIA,,sin_evidencia
+Q128-0,¿Cuántas tablillas hay disponibles actualmente en ER-128?,31,D128-0|D128-1,actual
+Q133-3,¿Quién dirige ER-133?,SIN_EVIDENCIA,,sin_evidencia
+Q154-3,¿Quién dirige ER-154?,SIN_EVIDENCIA,,sin_evidencia
+Q135-2,¿Qué cantidad de semillas registraba ER-135 en 2047?,67,D135-2|D135-3,historico
+Q172-1,"Según el registro vigente, ¿cuál es el inventario de ER-172?",74,D172-0|D172-1,actual
+Q147-2,¿Qué cantidad de vehículos registraba ER-147 en 2047?,33,D147-2|D147-3,historico
+Q159-0,¿Cuántas depósitos hay disponibles actualmente en ER-159?,50,D159-0|D159-1,actual
+Q137-3,¿Quién dirige ER-137?,SIN_EVIDENCIA,,sin_evidencia
+Q156-3,¿Quién dirige ER-156?,SIN_EVIDENCIA,,sin_evidencia
+Q165-2,¿Qué cantidad de semillas registraba ER-165 en 2047?,66,D165-2|D165-3,historico
+Q135-1,"Según el registro vigente, ¿cuál es el inventario de ER-135?",60,D135-0|D135-1,actual
+Q154-2,¿Qué cantidad de depósitos registraba ER-154 en 2047?,83,D154-2|D154-3,historico
+Q153-1,"Según el registro vigente, ¿cuál es el inventario de ER-153?",45,D153-0|D153-1,actual
+Q131-2,¿Qué cantidad de celdas registraba ER-131 en 2047?,73,D131-2|D131-3,historico
+Q159-3,¿Quién dirige ER-159?,SIN_EVIDENCIA,,sin_evidencia
+Q150-0,¿Cuántas semillas hay disponibles actualmente en ER-150?,32,D150-0|D150-1,actual
+Q152-3,¿Quién dirige ER-152?,SIN_EVIDENCIA,,sin_evidencia
+Q125-2,¿Qué cantidad de semillas registraba ER-125 en 2047?,30,D125-2|D125-3,historico
+Q144-1,"Según el registro vigente, ¿cuál es el inventario de ER-144?",46,D144-0|D144-1,actual
+Q136-2,¿Qué cantidad de celdas registraba ER-136 en 2047?,95,D136-2|D136-3,historico
+Q171-3,¿Quién dirige ER-171?,SIN_EVIDENCIA,,sin_evidencia
+Q172-3,¿Quién dirige ER-172?,SIN_EVIDENCIA,,sin_evidencia
+Q146-1,"Según el registro vigente, ¿cuál es el inventario de ER-146?",55,D146-0|D146-1,actual
+Q165-1,"Según el registro vigente, ¿cuál es el inventario de ER-165?",59,D165-0|D165-1,actual
+Q134-0,¿Cuántas depósitos hay disponibles actualmente en ER-134?,61,D134-0|D134-1,actual
+Q172-2,¿Qué cantidad de vehículos registraba ER-172 en 2047?,81,D172-2|D172-3,historico
+Q140-1,"Según el registro vigente, ¿cuál es el inventario de ER-140?",82,D140-0|D140-1,actual
+Q130-2,¿Qué cantidad de semillas registraba ER-130 en 2047?,39,D130-2|D130-3,historico
+Q160-1,"Según el registro vigente, ¿cuál es el inventario de ER-160?",93,D160-0|D160-1,actual
+Q150-1,"Según el registro vigente, ¿cuál es el inventario de ER-150?",32,D150-0|D150-1,actual
+Q133-1,"Según el registro vigente, ¿cuál es el inventario de ER-133?",20,D133-0|D133-1,actual
+Q127-3,¿Quién dirige ER-127?,SIN_EVIDENCIA,,sin_evidencia
+Q173-2,¿Qué cantidad de tablillas registraba ER-173 en 2047?,21,D173-2|D173-3,historico
+Q164-3,¿Quién dirige ER-164?,SIN_EVIDENCIA,,sin_evidencia
+Q126-2,¿Qué cantidad de celdas registraba ER-126 en 2047?,25,D126-2|D126-3,historico
+Q131-3,¿Quién dirige ER-131?,SIN_EVIDENCIA,,sin_evidencia
+Q155-0,¿Cuántas semillas hay disponibles actualmente en ER-155?,34,D155-0|D155-1,actual
+Q126-0,¿Cuántas celdas hay disponibles actualmente en ER-126?,18,D126-0|D126-1,actual
+Q133-0,¿Cuántas tablillas hay disponibles actualmente en ER-133?,20,D133-0|D133-1,actual
+Q160-2,¿Qué cantidad de semillas registraba ER-160 en 2047?,100,D160-2|D160-3,historico
+Q161-1,"Según el registro vigente, ¿cuál es el inventario de ER-161?",76,D161-0|D161-1,actual
+Q152-1,"Según el registro vigente, ¿cuál es el inventario de ER-152?",12,D152-0|D152-1,actual
+Q161-0,¿Cuántas celdas hay disponibles actualmente en ER-161?,76,D161-0|D161-1,actual
+Q127-2,¿Qué cantidad de vehículos registraba ER-127 en 2047?,33,D127-2|D127-3,historico
+Q140-2,¿Qué cantidad de semillas registraba ER-140 en 2047?,89,D140-2|D140-3,historico
+Q153-0,¿Cuántas tablillas hay disponibles actualmente en ER-153?,45,D153-0|D153-1,actual
+Q161-2,¿Qué cantidad de celdas registraba ER-161 en 2047?,83,D161-2|D161-3,historico
+Q166-2,¿Qué cantidad de celdas registraba ER-166 en 2047?,39,D166-2|D166-3,historico
+Q125-0,¿Cuántas semillas hay disponibles actualmente en ER-125?,23,D125-0|D125-1,actual
+Q174-2,¿Qué cantidad de depósitos registraba ER-174 en 2047?,33,D174-2|D174-3,historico
+Q163-1,"Según el registro vigente, ¿cuál es el inventario de ER-163?",37,D163-0|D163-1,actual
+Q142-2,¿Qué cantidad de vehículos registraba ER-142 en 2047?,33,D142-2|D142-3,historico
+Q155-3,¿Quién dirige ER-155?,SIN_EVIDENCIA,,sin_evidencia
+Q141-0,¿Cuántas celdas hay disponibles actualmente en ER-141?,13,D141-0|D141-1,actual
+Q136-0,¿Cuántas celdas hay disponibles actualmente en ER-136?,88,D136-0|D136-1,actual
+Q165-3,¿Quién dirige ER-165?,SIN_EVIDENCIA,,sin_evidencia
+Q132-0,¿Cuántas vehículos hay disponibles actualmente en ER-132?,88,D132-0|D132-1,actual
+Q135-0,¿Cuántas semillas hay disponibles actualmente en ER-135?,60,D135-0|D135-1,actual
+Q152-0,¿Cuántas vehículos hay disponibles actualmente en ER-152?,12,D152-0|D152-1,actual
+Q163-3,¿Quién dirige ER-163?,SIN_EVIDENCIA,,sin_evidencia
+Q164-0,¿Cuántas depósitos hay disponibles actualmente en ER-164?,31,D164-0|D164-1,actual
+Q131-1,"Según el registro vigente, ¿cuál es el inventario de ER-131?",66,D131-0|D131-1,actual
+Q130-3,¿Quién dirige ER-130?,SIN_EVIDENCIA,,sin_evidencia
+Q171-0,¿Cuántas celdas hay disponibles actualmente en ER-171?,53,D171-0|D171-1,actual
+Q161-3,¿Quién dirige ER-161?,SIN_EVIDENCIA,,sin_evidencia
+Q145-1,"Según el registro vigente, ¿cuál es el inventario de ER-145?",94,D145-0|D145-1,actual
+Q134-3,¿Quién dirige ER-134?,SIN_EVIDENCIA,,sin_evidencia
+Q167-0,¿Cuántas vehículos hay disponibles actualmente en ER-167?,81,D167-0|D167-1,actual
+Q136-3,¿Quién dirige ER-136?,SIN_EVIDENCIA,,sin_evidencia
+Q148-2,¿Qué cantidad de tablillas registraba ER-148 en 2047?,56,D148-2|D148-3,historico
+Q163-2,¿Qué cantidad de tablillas registraba ER-163 en 2047?,44,D163-2|D163-3,historico
+Q135-3,¿Quién dirige ER-135?,SIN_EVIDENCIA,,sin_evidencia
+Q159-2,¿Qué cantidad de depósitos registraba ER-159 en 2047?,57,D159-2|D159-3,historico
+Q125-3,¿Quién dirige ER-125?,SIN_EVIDENCIA,,sin_evidencia
+Q151-1,"Según el registro vigente, ¿cuál es el inventario de ER-151?",70,D151-0|D151-1,actual
+Q138-1,"Según el registro vigente, ¿cuál es el inventario de ER-138?",79,D138-0|D138-1,actual
+Q158-1,"Según el registro vigente, ¿cuál es el inventario de ER-158?",92,D158-0|D158-1,actual
+Q170-0,¿Cuántas semillas hay disponibles actualmente en ER-170?,88,D170-0|D170-1,actual
+Q169-2,¿Qué cantidad de depósitos registraba ER-169 en 2047?,19,D169-2|D169-3,historico
+Q171-1,"Según el registro vigente, ¿cuál es el inventario de ER-171?",53,D171-0|D171-1,actual
+Q137-1,"Según el registro vigente, ¿cuál es el inventario de ER-137?",71,D137-0|D137-1,actual
+Q145-0,¿Cuántas semillas hay disponibles actualmente en ER-145?,94,D145-0|D145-1,actual
+Q133-2,¿Qué cantidad de tablillas registraba ER-133 en 2047?,27,D133-2|D133-3,historico
+Q126-3,¿Quién dirige ER-126?,SIN_EVIDENCIA,,sin_evidencia
+Q152-2,¿Qué cantidad de vehículos registraba ER-152 en 2047?,19,D152-2|D152-3,historico
+Q147-3,¿Quién dirige ER-147?,SIN_EVIDENCIA,,sin_evidencia
+Q145-3,¿Quién dirige ER-145?,SIN_EVIDENCIA,,sin_evidencia
